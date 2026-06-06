@@ -1,0 +1,6 @@
+train_no,train_name,personality,reason,worst_station,worst_station_avg_delay,weekday_avg,weekend_avg,weekend_saves,overall_avg_delay
+12951,Mumbai Rajdhani,BOTTLENECK-HEAVY,Over 86% of delay concentrated at one station,New Delhi,37.0,22.6,10.8,11.8,19.5
+12301,Howrah Rajdhani,BOTTLENECK-HEAVY,Over 81% of delay concentrated at one station,New Delhi,44.6,26.4,20.0,6.4,24.7
+12627,Karnataka Express,BOTTLENECK-HEAVY,Over 78% of delay concentrated at one station,New Delhi,52.6,33.0,16.6,16.4,28.6
+12615,Grand Trunk Express,BOTTLENECK-HEAVY,Over 82% of delay concentrated at one station,New Delhi,44.2,25.9,21.2,4.7,24.6
+12431,Thiruvananthapuram Rajdhani,BOTTLENECK-HEAVY,Over 82% of delay concentrated at one station,Mumbai Central,54.6,38.7,21.0,17.7,33.9

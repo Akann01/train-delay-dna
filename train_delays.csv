@@ -1,0 +1,1981 @@
+date,day_of_week,month,is_weekend,is_monsoon,train_no,train_name,station,station_index,total_stations,departure_hour,delay_minutes,is_bottleneck
+2024-04-01,Monday,April,False,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,9,2.5,False
+2024-04-01,Monday,April,False,False,12951,Mumbai Rajdhani,Vadodara,1,6,9,1.8,False
+2024-04-01,Monday,April,False,False,12951,Mumbai Rajdhani,Ratlam,2,6,9,5.0,False
+2024-04-01,Monday,April,False,False,12951,Mumbai Rajdhani,Kota,3,6,9,16.9,True
+2024-04-01,Monday,April,False,False,12951,Mumbai Rajdhani,Mathura,4,6,9,18.3,False
+2024-04-01,Monday,April,False,False,12951,Mumbai Rajdhani,New Delhi,5,6,9,23.3,False
+2024-04-01,Monday,April,False,False,12301,Howrah Rajdhani,Howrah,0,7,6,0.0,False
+2024-04-01,Monday,April,False,False,12301,Howrah Rajdhani,Dhanbad,1,7,6,0.0,False
+2024-04-01,Monday,April,False,False,12301,Howrah Rajdhani,Gaya,2,7,6,0.0,False
+2024-04-01,Monday,April,False,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,6,14.0,True
+2024-04-01,Monday,April,False,False,12301,Howrah Rajdhani,Allahabad,4,7,6,5.4,False
+2024-04-01,Monday,April,False,False,12301,Howrah Rajdhani,Kanpur,5,7,6,2.5,False
+2024-04-01,Monday,April,False,False,12301,Howrah Rajdhani,New Delhi,6,7,6,0.0,False
+2024-04-01,Monday,April,False,False,12627,Karnataka Express,Bangalore,0,7,14,1.6,False
+2024-04-01,Monday,April,False,False,12627,Karnataka Express,Guntakal,1,7,14,0.0,False
+2024-04-01,Monday,April,False,False,12627,Karnataka Express,Wadi,2,7,14,0.0,False
+2024-04-01,Monday,April,False,False,12627,Karnataka Express,Solapur,3,7,14,12.9,True
+2024-04-01,Monday,April,False,False,12627,Karnataka Express,Pune,4,7,14,26.9,False
+2024-04-01,Monday,April,False,False,12627,Karnataka Express,Dadar,5,7,14,40.3,False
+2024-04-01,Monday,April,False,False,12627,Karnataka Express,New Delhi,6,7,14,52.5,False
+2024-04-01,Monday,April,False,False,12615,Grand Trunk Express,Chennai Central,0,7,13,0.0,False
+2024-04-01,Monday,April,False,False,12615,Grand Trunk Express,Vijayawada,1,7,13,0.0,False
+2024-04-01,Monday,April,False,False,12615,Grand Trunk Express,Warangal,2,7,13,0.0,False
+2024-04-01,Monday,April,False,False,12615,Grand Trunk Express,Nagpur,3,7,13,12.5,True
+2024-04-01,Monday,April,False,False,12615,Grand Trunk Express,Bhopal,4,7,13,9.8,False
+2024-04-01,Monday,April,False,False,12615,Grand Trunk Express,Jhansi,5,7,13,28.9,False
+2024-04-01,Monday,April,False,False,12615,Grand Trunk Express,New Delhi,6,7,13,46.1,False
+2024-04-01,Monday,April,False,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,13,0.0,False
+2024-04-01,Monday,April,False,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,13,13.9,False
+2024-04-01,Monday,April,False,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,13,25.0,True
+2024-04-01,Monday,April,False,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,13,28.7,False
+2024-04-01,Monday,April,False,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,13,29.5,False
+2024-04-01,Monday,April,False,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,13,42.8,False
+2024-04-02,Tuesday,April,False,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,10,0.0,False
+2024-04-02,Tuesday,April,False,False,12951,Mumbai Rajdhani,Vadodara,1,6,10,3.9,False
+2024-04-02,Tuesday,April,False,False,12951,Mumbai Rajdhani,Ratlam,2,6,10,1.2,False
+2024-04-02,Tuesday,April,False,False,12951,Mumbai Rajdhani,Kota,3,6,10,14.0,True
+2024-04-02,Tuesday,April,False,False,12951,Mumbai Rajdhani,Mathura,4,6,10,9.6,False
+2024-04-02,Tuesday,April,False,False,12951,Mumbai Rajdhani,New Delhi,5,6,10,11.2,False
+2024-04-02,Tuesday,April,False,False,12301,Howrah Rajdhani,Howrah,0,7,9,0.0,False
+2024-04-02,Tuesday,April,False,False,12301,Howrah Rajdhani,Dhanbad,1,7,9,0.0,False
+2024-04-02,Tuesday,April,False,False,12301,Howrah Rajdhani,Gaya,2,7,9,3.1,False
+2024-04-02,Tuesday,April,False,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,9,45.1,True
+2024-04-02,Tuesday,April,False,False,12301,Howrah Rajdhani,Allahabad,4,7,9,49.8,False
+2024-04-02,Tuesday,April,False,False,12301,Howrah Rajdhani,Kanpur,5,7,9,48.7,False
+2024-04-02,Tuesday,April,False,False,12301,Howrah Rajdhani,New Delhi,6,7,9,45.6,False
+2024-04-02,Tuesday,April,False,False,12627,Karnataka Express,Bangalore,0,7,8,0.0,False
+2024-04-02,Tuesday,April,False,False,12627,Karnataka Express,Guntakal,1,7,8,5.5,False
+2024-04-02,Tuesday,April,False,False,12627,Karnataka Express,Wadi,2,7,8,4.6,False
+2024-04-02,Tuesday,April,False,False,12627,Karnataka Express,Solapur,3,7,8,12.4,True
+2024-04-02,Tuesday,April,False,False,12627,Karnataka Express,Pune,4,7,8,16.5,False
+2024-04-02,Tuesday,April,False,False,12627,Karnataka Express,Dadar,5,7,8,23.2,False
+2024-04-02,Tuesday,April,False,False,12627,Karnataka Express,New Delhi,6,7,8,22.9,False
+2024-04-02,Tuesday,April,False,False,12615,Grand Trunk Express,Chennai Central,0,7,19,5.0,False
+2024-04-02,Tuesday,April,False,False,12615,Grand Trunk Express,Vijayawada,1,7,19,25.5,False
+2024-04-02,Tuesday,April,False,False,12615,Grand Trunk Express,Warangal,2,7,19,47.2,False
+2024-04-02,Tuesday,April,False,False,12615,Grand Trunk Express,Nagpur,3,7,19,88.2,True
+2024-04-02,Tuesday,April,False,False,12615,Grand Trunk Express,Bhopal,4,7,19,83.6,False
+2024-04-02,Tuesday,April,False,False,12615,Grand Trunk Express,Jhansi,5,7,19,76.5,False
+2024-04-02,Tuesday,April,False,False,12615,Grand Trunk Express,New Delhi,6,7,19,81.8,False
+2024-04-02,Tuesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,7,4.5,False
+2024-04-02,Tuesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,7,4.6,False
+2024-04-02,Tuesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,7,37.2,True
+2024-04-02,Tuesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,7,29.7,False
+2024-04-02,Tuesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,7,25.6,False
+2024-04-02,Tuesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,7,23.1,False
+2024-04-03,Wednesday,April,False,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,6,4.6,False
+2024-04-03,Wednesday,April,False,False,12951,Mumbai Rajdhani,Vadodara,1,6,6,6.2,False
+2024-04-03,Wednesday,April,False,False,12951,Mumbai Rajdhani,Ratlam,2,6,6,3.6,False
+2024-04-03,Wednesday,April,False,False,12951,Mumbai Rajdhani,Kota,3,6,6,61.9,True
+2024-04-03,Wednesday,April,False,False,12951,Mumbai Rajdhani,Mathura,4,6,6,68.8,False
+2024-04-03,Wednesday,April,False,False,12951,Mumbai Rajdhani,New Delhi,5,6,6,69.6,False
+2024-04-03,Wednesday,April,False,False,12301,Howrah Rajdhani,Howrah,0,7,8,0.0,False
+2024-04-03,Wednesday,April,False,False,12301,Howrah Rajdhani,Dhanbad,1,7,8,3.4,False
+2024-04-03,Wednesday,April,False,False,12301,Howrah Rajdhani,Gaya,2,7,8,2.1,False
+2024-04-03,Wednesday,April,False,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,8,14.2,True
+2024-04-03,Wednesday,April,False,False,12301,Howrah Rajdhani,Allahabad,4,7,8,15.7,False
+2024-04-03,Wednesday,April,False,False,12301,Howrah Rajdhani,Kanpur,5,7,8,17.0,False
+2024-04-03,Wednesday,April,False,False,12301,Howrah Rajdhani,New Delhi,6,7,8,17.0,False
+2024-04-03,Wednesday,April,False,False,12627,Karnataka Express,Bangalore,0,7,12,0.0,False
+2024-04-03,Wednesday,April,False,False,12627,Karnataka Express,Guntakal,1,7,12,0.0,False
+2024-04-03,Wednesday,April,False,False,12627,Karnataka Express,Wadi,2,7,12,0.0,False
+2024-04-03,Wednesday,April,False,False,12627,Karnataka Express,Solapur,3,7,12,69.9,True
+2024-04-03,Wednesday,April,False,False,12627,Karnataka Express,Pune,4,7,12,65.9,False
+2024-04-03,Wednesday,April,False,False,12627,Karnataka Express,Dadar,5,7,12,66.9,False
+2024-04-03,Wednesday,April,False,False,12627,Karnataka Express,New Delhi,6,7,12,73.8,False
+2024-04-03,Wednesday,April,False,False,12615,Grand Trunk Express,Chennai Central,0,7,13,1.3,False
+2024-04-03,Wednesday,April,False,False,12615,Grand Trunk Express,Vijayawada,1,7,13,0.9,False
+2024-04-03,Wednesday,April,False,False,12615,Grand Trunk Express,Warangal,2,7,13,0.0,False
+2024-04-03,Wednesday,April,False,False,12615,Grand Trunk Express,Nagpur,3,7,13,8.2,True
+2024-04-03,Wednesday,April,False,False,12615,Grand Trunk Express,Bhopal,4,7,13,8.8,False
+2024-04-03,Wednesday,April,False,False,12615,Grand Trunk Express,Jhansi,5,7,13,21.6,False
+2024-04-03,Wednesday,April,False,False,12615,Grand Trunk Express,New Delhi,6,7,13,32.1,False
+2024-04-03,Wednesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,22,1.5,False
+2024-04-03,Wednesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,22,7.2,False
+2024-04-03,Wednesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,22,17.8,True
+2024-04-03,Wednesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,22,13.8,False
+2024-04-03,Wednesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,22,20.7,False
+2024-04-03,Wednesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,22,27.7,False
+2024-04-04,Thursday,April,False,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,6,7.0,False
+2024-04-04,Thursday,April,False,False,12951,Mumbai Rajdhani,Vadodara,1,6,6,2.6,False
+2024-04-04,Thursday,April,False,False,12951,Mumbai Rajdhani,Ratlam,2,6,6,2.9,False
+2024-04-04,Thursday,April,False,False,12951,Mumbai Rajdhani,Kota,3,6,6,5.6,True
+2024-04-04,Thursday,April,False,False,12951,Mumbai Rajdhani,Mathura,4,6,6,10.3,False
+2024-04-04,Thursday,April,False,False,12951,Mumbai Rajdhani,New Delhi,5,6,6,10.8,False
+2024-04-04,Thursday,April,False,False,12301,Howrah Rajdhani,Howrah,0,7,12,0.0,False
+2024-04-04,Thursday,April,False,False,12301,Howrah Rajdhani,Dhanbad,1,7,12,0.0,False
+2024-04-04,Thursday,April,False,False,12301,Howrah Rajdhani,Gaya,2,7,12,0.3,False
+2024-04-04,Thursday,April,False,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,12,24.4,True
+2024-04-04,Thursday,April,False,False,12301,Howrah Rajdhani,Allahabad,4,7,12,26.8,False
+2024-04-04,Thursday,April,False,False,12301,Howrah Rajdhani,Kanpur,5,7,12,29.9,False
+2024-04-04,Thursday,April,False,False,12301,Howrah Rajdhani,New Delhi,6,7,12,40.4,False
+2024-04-04,Thursday,April,False,False,12627,Karnataka Express,Bangalore,0,7,19,0.0,False
+2024-04-04,Thursday,April,False,False,12627,Karnataka Express,Guntakal,1,7,19,17.2,False
+2024-04-04,Thursday,April,False,False,12627,Karnataka Express,Wadi,2,7,19,39.4,False
+2024-04-04,Thursday,April,False,False,12627,Karnataka Express,Solapur,3,7,19,68.8,True
+2024-04-04,Thursday,April,False,False,12627,Karnataka Express,Pune,4,7,19,67.2,False
+2024-04-04,Thursday,April,False,False,12627,Karnataka Express,Dadar,5,7,19,66.1,False
+2024-04-04,Thursday,April,False,False,12627,Karnataka Express,New Delhi,6,7,19,58.9,False
+2024-04-04,Thursday,April,False,False,12615,Grand Trunk Express,Chennai Central,0,7,13,6.0,False
+2024-04-04,Thursday,April,False,False,12615,Grand Trunk Express,Vijayawada,1,7,13,12.5,False
+2024-04-04,Thursday,April,False,False,12615,Grand Trunk Express,Warangal,2,7,13,8.1,False
+2024-04-04,Thursday,April,False,False,12615,Grand Trunk Express,Nagpur,3,7,13,13.4,True
+2024-04-04,Thursday,April,False,False,12615,Grand Trunk Express,Bhopal,4,7,13,19.5,False
+2024-04-04,Thursday,April,False,False,12615,Grand Trunk Express,Jhansi,5,7,13,31.0,False
+2024-04-04,Thursday,April,False,False,12615,Grand Trunk Express,New Delhi,6,7,13,39.0,False
+2024-04-04,Thursday,April,False,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,20,9.3,False
+2024-04-04,Thursday,April,False,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,20,23.9,False
+2024-04-04,Thursday,April,False,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,20,46.4,True
+2024-04-04,Thursday,April,False,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,20,50.3,False
+2024-04-04,Thursday,April,False,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,20,55.1,False
+2024-04-04,Thursday,April,False,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,20,57.2,False
+2024-04-05,Friday,April,False,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,14,4.1,False
+2024-04-05,Friday,April,False,False,12951,Mumbai Rajdhani,Vadodara,1,6,14,13.6,False
+2024-04-05,Friday,April,False,False,12951,Mumbai Rajdhani,Ratlam,2,6,14,12.4,False
+2024-04-05,Friday,April,False,False,12951,Mumbai Rajdhani,Kota,3,6,14,16.3,True
+2024-04-05,Friday,April,False,False,12951,Mumbai Rajdhani,Mathura,4,6,14,37.0,False
+2024-04-05,Friday,April,False,False,12951,Mumbai Rajdhani,New Delhi,5,6,14,53.8,False
+2024-04-05,Friday,April,False,False,12301,Howrah Rajdhani,Howrah,0,7,6,13.7,False
+2024-04-05,Friday,April,False,False,12301,Howrah Rajdhani,Dhanbad,1,7,6,14.1,False
+2024-04-05,Friday,April,False,False,12301,Howrah Rajdhani,Gaya,2,7,6,7.1,False
+2024-04-05,Friday,April,False,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,6,39.0,True
+2024-04-05,Friday,April,False,False,12301,Howrah Rajdhani,Allahabad,4,7,6,33.6,False
+2024-04-05,Friday,April,False,False,12301,Howrah Rajdhani,Kanpur,5,7,6,36.0,False
+2024-04-05,Friday,April,False,False,12301,Howrah Rajdhani,New Delhi,6,7,6,34.9,False
+2024-04-05,Friday,April,False,False,12627,Karnataka Express,Bangalore,0,7,11,3.6,False
+2024-04-05,Friday,April,False,False,12627,Karnataka Express,Guntakal,1,7,11,5.9,False
+2024-04-05,Friday,April,False,False,12627,Karnataka Express,Wadi,2,7,11,5.6,False
+2024-04-05,Friday,April,False,False,12627,Karnataka Express,Solapur,3,7,11,49.0,True
+2024-04-05,Friday,April,False,False,12627,Karnataka Express,Pune,4,7,11,41.4,False
+2024-04-05,Friday,April,False,False,12627,Karnataka Express,Dadar,5,7,11,36.8,False
+2024-04-05,Friday,April,False,False,12627,Karnataka Express,New Delhi,6,7,11,34.2,False
+2024-04-05,Friday,April,False,False,12615,Grand Trunk Express,Chennai Central,0,7,19,3.6,False
+2024-04-05,Friday,April,False,False,12615,Grand Trunk Express,Vijayawada,1,7,19,19.7,False
+2024-04-05,Friday,April,False,False,12615,Grand Trunk Express,Warangal,2,7,19,40.8,False
+2024-04-05,Friday,April,False,False,12615,Grand Trunk Express,Nagpur,3,7,19,55.7,True
+2024-04-05,Friday,April,False,False,12615,Grand Trunk Express,Bhopal,4,7,19,57.5,False
+2024-04-05,Friday,April,False,False,12615,Grand Trunk Express,Jhansi,5,7,19,60.3,False
+2024-04-05,Friday,April,False,False,12615,Grand Trunk Express,New Delhi,6,7,19,65.7,False
+2024-04-05,Friday,April,False,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,16,5.3,False
+2024-04-05,Friday,April,False,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,16,0.0,False
+2024-04-05,Friday,April,False,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,16,54.8,True
+2024-04-05,Friday,April,False,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,16,75.4,False
+2024-04-05,Friday,April,False,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,16,111.2,False
+2024-04-05,Friday,April,False,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,16,134.8,False
+2024-04-06,Saturday,April,True,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,14,0.0,False
+2024-04-06,Saturday,April,True,False,12951,Mumbai Rajdhani,Vadodara,1,6,14,0.0,False
+2024-04-06,Saturday,April,True,False,12951,Mumbai Rajdhani,Ratlam,2,6,14,0.0,False
+2024-04-06,Saturday,April,True,False,12951,Mumbai Rajdhani,Kota,3,6,14,0.0,True
+2024-04-06,Saturday,April,True,False,12951,Mumbai Rajdhani,Mathura,4,6,14,5.4,False
+2024-04-06,Saturday,April,True,False,12951,Mumbai Rajdhani,New Delhi,5,6,14,7.3,False
+2024-04-06,Saturday,April,True,False,12301,Howrah Rajdhani,Howrah,0,7,10,0.0,False
+2024-04-06,Saturday,April,True,False,12301,Howrah Rajdhani,Dhanbad,1,7,10,0.0,False
+2024-04-06,Saturday,April,True,False,12301,Howrah Rajdhani,Gaya,2,7,10,0.4,False
+2024-04-06,Saturday,April,True,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,10,32.5,True
+2024-04-06,Saturday,April,True,False,12301,Howrah Rajdhani,Allahabad,4,7,10,22.1,False
+2024-04-06,Saturday,April,True,False,12301,Howrah Rajdhani,Kanpur,5,7,10,19.9,False
+2024-04-06,Saturday,April,True,False,12301,Howrah Rajdhani,New Delhi,6,7,10,8.5,False
+2024-04-06,Saturday,April,True,False,12627,Karnataka Express,Bangalore,0,7,12,6.9,False
+2024-04-06,Saturday,April,True,False,12627,Karnataka Express,Guntakal,1,7,12,11.2,False
+2024-04-06,Saturday,April,True,False,12627,Karnataka Express,Wadi,2,7,12,13.0,False
+2024-04-06,Saturday,April,True,False,12627,Karnataka Express,Solapur,3,7,12,105.2,True
+2024-04-06,Saturday,April,True,False,12627,Karnataka Express,Pune,4,7,12,90.1,False
+2024-04-06,Saturday,April,True,False,12627,Karnataka Express,Dadar,5,7,12,86.0,False
+2024-04-06,Saturday,April,True,False,12627,Karnataka Express,New Delhi,6,7,12,92.1,False
+2024-04-06,Saturday,April,True,False,12615,Grand Trunk Express,Chennai Central,0,7,16,0.0,False
+2024-04-06,Saturday,April,True,False,12615,Grand Trunk Express,Vijayawada,1,7,16,0.0,False
+2024-04-06,Saturday,April,True,False,12615,Grand Trunk Express,Warangal,2,7,16,15.0,False
+2024-04-06,Saturday,April,True,False,12615,Grand Trunk Express,Nagpur,3,7,16,44.7,True
+2024-04-06,Saturday,April,True,False,12615,Grand Trunk Express,Bhopal,4,7,16,53.1,False
+2024-04-06,Saturday,April,True,False,12615,Grand Trunk Express,Jhansi,5,7,16,66.1,False
+2024-04-06,Saturday,April,True,False,12615,Grand Trunk Express,New Delhi,6,7,16,83.5,False
+2024-04-06,Saturday,April,True,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,9,0.0,False
+2024-04-06,Saturday,April,True,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,9,0.0,False
+2024-04-06,Saturday,April,True,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,9,0.0,True
+2024-04-06,Saturday,April,True,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,9,4.4,False
+2024-04-06,Saturday,April,True,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,9,0.0,False
+2024-04-06,Saturday,April,True,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,9,0.0,False
+2024-04-07,Sunday,April,True,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,8,0.0,False
+2024-04-07,Sunday,April,True,False,12951,Mumbai Rajdhani,Vadodara,1,6,8,0.0,False
+2024-04-07,Sunday,April,True,False,12951,Mumbai Rajdhani,Ratlam,2,6,8,3.2,False
+2024-04-07,Sunday,April,True,False,12951,Mumbai Rajdhani,Kota,3,6,8,16.2,True
+2024-04-07,Sunday,April,True,False,12951,Mumbai Rajdhani,Mathura,4,6,8,10.6,False
+2024-04-07,Sunday,April,True,False,12951,Mumbai Rajdhani,New Delhi,5,6,8,3.2,False
+2024-04-07,Sunday,April,True,False,12301,Howrah Rajdhani,Howrah,0,7,18,0.0,False
+2024-04-07,Sunday,April,True,False,12301,Howrah Rajdhani,Dhanbad,1,7,18,23.3,False
+2024-04-07,Sunday,April,True,False,12301,Howrah Rajdhani,Gaya,2,7,18,33.2,False
+2024-04-07,Sunday,April,True,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,18,114.7,True
+2024-04-07,Sunday,April,True,False,12301,Howrah Rajdhani,Allahabad,4,7,18,132.2,False
+2024-04-07,Sunday,April,True,False,12301,Howrah Rajdhani,Kanpur,5,7,18,121.0,False
+2024-04-07,Sunday,April,True,False,12301,Howrah Rajdhani,New Delhi,6,7,18,119.4,False
+2024-04-07,Sunday,April,True,False,12627,Karnataka Express,Bangalore,0,7,9,0.0,False
+2024-04-07,Sunday,April,True,False,12627,Karnataka Express,Guntakal,1,7,9,0.0,False
+2024-04-07,Sunday,April,True,False,12627,Karnataka Express,Wadi,2,7,9,0.0,False
+2024-04-07,Sunday,April,True,False,12627,Karnataka Express,Solapur,3,7,9,2.2,True
+2024-04-07,Sunday,April,True,False,12627,Karnataka Express,Pune,4,7,9,0.0,False
+2024-04-07,Sunday,April,True,False,12627,Karnataka Express,Dadar,5,7,9,0.0,False
+2024-04-07,Sunday,April,True,False,12627,Karnataka Express,New Delhi,6,7,9,0.0,False
+2024-04-07,Sunday,April,True,False,12615,Grand Trunk Express,Chennai Central,0,7,17,0.0,False
+2024-04-07,Sunday,April,True,False,12615,Grand Trunk Express,Vijayawada,1,7,17,7.8,False
+2024-04-07,Sunday,April,True,False,12615,Grand Trunk Express,Warangal,2,7,17,22.7,False
+2024-04-07,Sunday,April,True,False,12615,Grand Trunk Express,Nagpur,3,7,17,40.6,True
+2024-04-07,Sunday,April,True,False,12615,Grand Trunk Express,Bhopal,4,7,17,59.3,False
+2024-04-07,Sunday,April,True,False,12615,Grand Trunk Express,Jhansi,5,7,17,71.5,False
+2024-04-07,Sunday,April,True,False,12615,Grand Trunk Express,New Delhi,6,7,17,72.8,False
+2024-04-07,Sunday,April,True,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,17,0.0,False
+2024-04-07,Sunday,April,True,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,17,16.3,False
+2024-04-07,Sunday,April,True,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,17,41.8,True
+2024-04-07,Sunday,April,True,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,17,53.8,False
+2024-04-07,Sunday,April,True,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,17,65.2,False
+2024-04-07,Sunday,April,True,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,17,76.5,False
+2024-04-08,Monday,April,False,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,14,4.7,False
+2024-04-08,Monday,April,False,False,12951,Mumbai Rajdhani,Vadodara,1,6,14,6.4,False
+2024-04-08,Monday,April,False,False,12951,Mumbai Rajdhani,Ratlam,2,6,14,5.7,False
+2024-04-08,Monday,April,False,False,12951,Mumbai Rajdhani,Kota,3,6,14,31.2,True
+2024-04-08,Monday,April,False,False,12951,Mumbai Rajdhani,Mathura,4,6,14,48.6,False
+2024-04-08,Monday,April,False,False,12951,Mumbai Rajdhani,New Delhi,5,6,14,60.3,False
+2024-04-08,Monday,April,False,False,12301,Howrah Rajdhani,Howrah,0,7,7,0.0,False
+2024-04-08,Monday,April,False,False,12301,Howrah Rajdhani,Dhanbad,1,7,7,3.9,False
+2024-04-08,Monday,April,False,False,12301,Howrah Rajdhani,Gaya,2,7,7,7.2,False
+2024-04-08,Monday,April,False,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,7,23.6,True
+2024-04-08,Monday,April,False,False,12301,Howrah Rajdhani,Allahabad,4,7,7,23.6,False
+2024-04-08,Monday,April,False,False,12301,Howrah Rajdhani,Kanpur,5,7,7,28.5,False
+2024-04-08,Monday,April,False,False,12301,Howrah Rajdhani,New Delhi,6,7,7,27.7,False
+2024-04-08,Monday,April,False,False,12627,Karnataka Express,Bangalore,0,7,20,0.0,False
+2024-04-08,Monday,April,False,False,12627,Karnataka Express,Guntakal,1,7,20,16.0,False
+2024-04-08,Monday,April,False,False,12627,Karnataka Express,Wadi,2,7,20,22.7,False
+2024-04-08,Monday,April,False,False,12627,Karnataka Express,Solapur,3,7,20,54.1,True
+2024-04-08,Monday,April,False,False,12627,Karnataka Express,Pune,4,7,20,51.8,False
+2024-04-08,Monday,April,False,False,12627,Karnataka Express,Dadar,5,7,20,52.9,False
+2024-04-08,Monday,April,False,False,12627,Karnataka Express,New Delhi,6,7,20,45.7,False
+2024-04-08,Monday,April,False,False,12615,Grand Trunk Express,Chennai Central,0,7,9,0.0,False
+2024-04-08,Monday,April,False,False,12615,Grand Trunk Express,Vijayawada,1,7,9,0.0,False
+2024-04-08,Monday,April,False,False,12615,Grand Trunk Express,Warangal,2,7,9,0.0,False
+2024-04-08,Monday,April,False,False,12615,Grand Trunk Express,Nagpur,3,7,9,15.4,True
+2024-04-08,Monday,April,False,False,12615,Grand Trunk Express,Bhopal,4,7,9,22.7,False
+2024-04-08,Monday,April,False,False,12615,Grand Trunk Express,Jhansi,5,7,9,21.2,False
+2024-04-08,Monday,April,False,False,12615,Grand Trunk Express,New Delhi,6,7,9,21.2,False
+2024-04-08,Monday,April,False,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,18,0.0,False
+2024-04-08,Monday,April,False,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,18,10.9,False
+2024-04-08,Monday,April,False,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,18,58.8,True
+2024-04-08,Monday,April,False,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,18,76.4,False
+2024-04-08,Monday,April,False,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,18,92.1,False
+2024-04-08,Monday,April,False,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,18,90.1,False
+2024-04-09,Tuesday,April,False,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,8,0.3,False
+2024-04-09,Tuesday,April,False,False,12951,Mumbai Rajdhani,Vadodara,1,6,8,5.3,False
+2024-04-09,Tuesday,April,False,False,12951,Mumbai Rajdhani,Ratlam,2,6,8,7.6,False
+2024-04-09,Tuesday,April,False,False,12951,Mumbai Rajdhani,Kota,3,6,8,26.4,True
+2024-04-09,Tuesday,April,False,False,12951,Mumbai Rajdhani,Mathura,4,6,8,33.7,False
+2024-04-09,Tuesday,April,False,False,12951,Mumbai Rajdhani,New Delhi,5,6,8,38.5,False
+2024-04-09,Tuesday,April,False,False,12301,Howrah Rajdhani,Howrah,0,7,15,10.8,False
+2024-04-09,Tuesday,April,False,False,12301,Howrah Rajdhani,Dhanbad,1,7,15,6.9,False
+2024-04-09,Tuesday,April,False,False,12301,Howrah Rajdhani,Gaya,2,7,15,11.3,False
+2024-04-09,Tuesday,April,False,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,15,26.2,True
+2024-04-09,Tuesday,April,False,False,12301,Howrah Rajdhani,Allahabad,4,7,15,49.9,False
+2024-04-09,Tuesday,April,False,False,12301,Howrah Rajdhani,Kanpur,5,7,15,57.7,False
+2024-04-09,Tuesday,April,False,False,12301,Howrah Rajdhani,New Delhi,6,7,15,63.0,False
+2024-04-09,Tuesday,April,False,False,12627,Karnataka Express,Bangalore,0,7,17,0.0,False
+2024-04-09,Tuesday,April,False,False,12627,Karnataka Express,Guntakal,1,7,17,8.6,False
+2024-04-09,Tuesday,April,False,False,12627,Karnataka Express,Wadi,2,7,17,27.2,False
+2024-04-09,Tuesday,April,False,False,12627,Karnataka Express,Solapur,3,7,17,63.8,True
+2024-04-09,Tuesday,April,False,False,12627,Karnataka Express,Pune,4,7,17,89.9,False
+2024-04-09,Tuesday,April,False,False,12627,Karnataka Express,Dadar,5,7,17,115.6,False
+2024-04-09,Tuesday,April,False,False,12627,Karnataka Express,New Delhi,6,7,17,113.3,False
+2024-04-09,Tuesday,April,False,False,12615,Grand Trunk Express,Chennai Central,0,7,12,1.5,False
+2024-04-09,Tuesday,April,False,False,12615,Grand Trunk Express,Vijayawada,1,7,12,0.0,False
+2024-04-09,Tuesday,April,False,False,12615,Grand Trunk Express,Warangal,2,7,12,1.7,False
+2024-04-09,Tuesday,April,False,False,12615,Grand Trunk Express,Nagpur,3,7,12,47.4,True
+2024-04-09,Tuesday,April,False,False,12615,Grand Trunk Express,Bhopal,4,7,12,46.8,False
+2024-04-09,Tuesday,April,False,False,12615,Grand Trunk Express,Jhansi,5,7,12,53.0,False
+2024-04-09,Tuesday,April,False,False,12615,Grand Trunk Express,New Delhi,6,7,12,55.6,False
+2024-04-09,Tuesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,8,0.0,False
+2024-04-09,Tuesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,8,1.3,False
+2024-04-09,Tuesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,8,207.1,True
+2024-04-09,Tuesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,8,207.1,False
+2024-04-09,Tuesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,8,207.4,False
+2024-04-09,Tuesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,8,205.1,False
+2024-04-10,Wednesday,April,False,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,7,3.1,False
+2024-04-10,Wednesday,April,False,False,12951,Mumbai Rajdhani,Vadodara,1,6,7,0.0,False
+2024-04-10,Wednesday,April,False,False,12951,Mumbai Rajdhani,Ratlam,2,6,7,0.0,False
+2024-04-10,Wednesday,April,False,False,12951,Mumbai Rajdhani,Kota,3,6,7,7.1,True
+2024-04-10,Wednesday,April,False,False,12951,Mumbai Rajdhani,Mathura,4,6,7,9.7,False
+2024-04-10,Wednesday,April,False,False,12951,Mumbai Rajdhani,New Delhi,5,6,7,15.0,False
+2024-04-10,Wednesday,April,False,False,12301,Howrah Rajdhani,Howrah,0,7,13,7.7,False
+2024-04-10,Wednesday,April,False,False,12301,Howrah Rajdhani,Dhanbad,1,7,13,3.6,False
+2024-04-10,Wednesday,April,False,False,12301,Howrah Rajdhani,Gaya,2,7,13,2.0,False
+2024-04-10,Wednesday,April,False,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,13,40.3,True
+2024-04-10,Wednesday,April,False,False,12301,Howrah Rajdhani,Allahabad,4,7,13,50.5,False
+2024-04-10,Wednesday,April,False,False,12301,Howrah Rajdhani,Kanpur,5,7,13,71.9,False
+2024-04-10,Wednesday,April,False,False,12301,Howrah Rajdhani,New Delhi,6,7,13,87.9,False
+2024-04-10,Wednesday,April,False,False,12627,Karnataka Express,Bangalore,0,7,15,0.0,False
+2024-04-10,Wednesday,April,False,False,12627,Karnataka Express,Guntakal,1,7,15,4.9,False
+2024-04-10,Wednesday,April,False,False,12627,Karnataka Express,Wadi,2,7,15,8.1,False
+2024-04-10,Wednesday,April,False,False,12627,Karnataka Express,Solapur,3,7,15,57.5,True
+2024-04-10,Wednesday,April,False,False,12627,Karnataka Express,Pune,4,7,15,76.7,False
+2024-04-10,Wednesday,April,False,False,12627,Karnataka Express,Dadar,5,7,15,82.3,False
+2024-04-10,Wednesday,April,False,False,12627,Karnataka Express,New Delhi,6,7,15,96.1,False
+2024-04-10,Wednesday,April,False,False,12615,Grand Trunk Express,Chennai Central,0,7,8,3.6,False
+2024-04-10,Wednesday,April,False,False,12615,Grand Trunk Express,Vijayawada,1,7,8,1.2,False
+2024-04-10,Wednesday,April,False,False,12615,Grand Trunk Express,Warangal,2,7,8,7.8,False
+2024-04-10,Wednesday,April,False,False,12615,Grand Trunk Express,Nagpur,3,7,8,87.4,True
+2024-04-10,Wednesday,April,False,False,12615,Grand Trunk Express,Bhopal,4,7,8,89.0,False
+2024-04-10,Wednesday,April,False,False,12615,Grand Trunk Express,Jhansi,5,7,8,80.5,False
+2024-04-10,Wednesday,April,False,False,12615,Grand Trunk Express,New Delhi,6,7,8,80.2,False
+2024-04-10,Wednesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,13,1.9,False
+2024-04-10,Wednesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,13,1.8,False
+2024-04-10,Wednesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,13,16.5,True
+2024-04-10,Wednesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,13,16.1,False
+2024-04-10,Wednesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,13,15.4,False
+2024-04-10,Wednesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,13,26.4,False
+2024-04-11,Thursday,April,False,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,9,1.8,False
+2024-04-11,Thursday,April,False,False,12951,Mumbai Rajdhani,Vadodara,1,6,9,0.0,False
+2024-04-11,Thursday,April,False,False,12951,Mumbai Rajdhani,Ratlam,2,6,9,0.0,False
+2024-04-11,Thursday,April,False,False,12951,Mumbai Rajdhani,Kota,3,6,9,51.5,True
+2024-04-11,Thursday,April,False,False,12951,Mumbai Rajdhani,Mathura,4,6,9,61.8,False
+2024-04-11,Thursday,April,False,False,12951,Mumbai Rajdhani,New Delhi,5,6,9,60.2,False
+2024-04-11,Thursday,April,False,False,12301,Howrah Rajdhani,Howrah,0,7,18,0.0,False
+2024-04-11,Thursday,April,False,False,12301,Howrah Rajdhani,Dhanbad,1,7,18,9.3,False
+2024-04-11,Thursday,April,False,False,12301,Howrah Rajdhani,Gaya,2,7,18,16.1,False
+2024-04-11,Thursday,April,False,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,18,31.1,True
+2024-04-11,Thursday,April,False,False,12301,Howrah Rajdhani,Allahabad,4,7,18,43.4,False
+2024-04-11,Thursday,April,False,False,12301,Howrah Rajdhani,Kanpur,5,7,18,37.4,False
+2024-04-11,Thursday,April,False,False,12301,Howrah Rajdhani,New Delhi,6,7,18,36.9,False
+2024-04-11,Thursday,April,False,False,12627,Karnataka Express,Bangalore,0,7,14,0.2,False
+2024-04-11,Thursday,April,False,False,12627,Karnataka Express,Guntakal,1,7,14,2.8,False
+2024-04-11,Thursday,April,False,False,12627,Karnataka Express,Wadi,2,7,14,8.8,False
+2024-04-11,Thursday,April,False,False,12627,Karnataka Express,Solapur,3,7,14,47.5,True
+2024-04-11,Thursday,April,False,False,12627,Karnataka Express,Pune,4,7,14,56.3,False
+2024-04-11,Thursday,April,False,False,12627,Karnataka Express,Dadar,5,7,14,68.4,False
+2024-04-11,Thursday,April,False,False,12627,Karnataka Express,New Delhi,6,7,14,78.4,False
+2024-04-11,Thursday,April,False,False,12615,Grand Trunk Express,Chennai Central,0,7,20,0.0,False
+2024-04-11,Thursday,April,False,False,12615,Grand Trunk Express,Vijayawada,1,7,20,0.0,False
+2024-04-11,Thursday,April,False,False,12615,Grand Trunk Express,Warangal,2,7,20,23.2,False
+2024-04-11,Thursday,April,False,False,12615,Grand Trunk Express,Nagpur,3,7,20,36.2,True
+2024-04-11,Thursday,April,False,False,12615,Grand Trunk Express,Bhopal,4,7,20,31.3,False
+2024-04-11,Thursday,April,False,False,12615,Grand Trunk Express,Jhansi,5,7,20,31.7,False
+2024-04-11,Thursday,April,False,False,12615,Grand Trunk Express,New Delhi,6,7,20,39.3,False
+2024-04-11,Thursday,April,False,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,17,0.0,False
+2024-04-11,Thursday,April,False,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,17,9.7,False
+2024-04-11,Thursday,April,False,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,17,18.9,True
+2024-04-11,Thursday,April,False,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,17,26.9,False
+2024-04-11,Thursday,April,False,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,17,40.4,False
+2024-04-11,Thursday,April,False,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,17,66.7,False
+2024-04-12,Friday,April,False,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,11,4.4,False
+2024-04-12,Friday,April,False,False,12951,Mumbai Rajdhani,Vadodara,1,6,11,0.0,False
+2024-04-12,Friday,April,False,False,12951,Mumbai Rajdhani,Ratlam,2,6,11,0.0,False
+2024-04-12,Friday,April,False,False,12951,Mumbai Rajdhani,Kota,3,6,11,46.1,True
+2024-04-12,Friday,April,False,False,12951,Mumbai Rajdhani,Mathura,4,6,11,51.2,False
+2024-04-12,Friday,April,False,False,12951,Mumbai Rajdhani,New Delhi,5,6,11,46.0,False
+2024-04-12,Friday,April,False,False,12301,Howrah Rajdhani,Howrah,0,7,17,0.0,False
+2024-04-12,Friday,April,False,False,12301,Howrah Rajdhani,Dhanbad,1,7,17,12.1,False
+2024-04-12,Friday,April,False,False,12301,Howrah Rajdhani,Gaya,2,7,17,20.9,False
+2024-04-12,Friday,April,False,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,17,28.1,True
+2024-04-12,Friday,April,False,False,12301,Howrah Rajdhani,Allahabad,4,7,17,43.4,False
+2024-04-12,Friday,April,False,False,12301,Howrah Rajdhani,Kanpur,5,7,17,54.3,False
+2024-04-12,Friday,April,False,False,12301,Howrah Rajdhani,New Delhi,6,7,17,52.2,False
+2024-04-12,Friday,April,False,False,12627,Karnataka Express,Bangalore,0,7,17,0.2,False
+2024-04-12,Friday,April,False,False,12627,Karnataka Express,Guntakal,1,7,17,10.2,False
+2024-04-12,Friday,April,False,False,12627,Karnataka Express,Wadi,2,7,17,30.8,False
+2024-04-12,Friday,April,False,False,12627,Karnataka Express,Solapur,3,7,17,85.4,True
+2024-04-12,Friday,April,False,False,12627,Karnataka Express,Pune,4,7,17,107.2,False
+2024-04-12,Friday,April,False,False,12627,Karnataka Express,Dadar,5,7,17,117.9,False
+2024-04-12,Friday,April,False,False,12627,Karnataka Express,New Delhi,6,7,17,109.6,False
+2024-04-12,Friday,April,False,False,12615,Grand Trunk Express,Chennai Central,0,7,12,2.7,False
+2024-04-12,Friday,April,False,False,12615,Grand Trunk Express,Vijayawada,1,7,12,0.0,False
+2024-04-12,Friday,April,False,False,12615,Grand Trunk Express,Warangal,2,7,12,2.9,False
+2024-04-12,Friday,April,False,False,12615,Grand Trunk Express,Nagpur,3,7,12,16.7,True
+2024-04-12,Friday,April,False,False,12615,Grand Trunk Express,Bhopal,4,7,12,7.7,False
+2024-04-12,Friday,April,False,False,12615,Grand Trunk Express,Jhansi,5,7,12,5.4,False
+2024-04-12,Friday,April,False,False,12615,Grand Trunk Express,New Delhi,6,7,12,20.0,False
+2024-04-12,Friday,April,False,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,14,3.2,False
+2024-04-12,Friday,April,False,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,14,0.0,False
+2024-04-12,Friday,April,False,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,14,18.7,True
+2024-04-12,Friday,April,False,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,14,12.6,False
+2024-04-12,Friday,April,False,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,14,23.2,False
+2024-04-12,Friday,April,False,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,14,31.8,False
+2024-04-13,Saturday,April,True,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,8,0.0,False
+2024-04-13,Saturday,April,True,False,12951,Mumbai Rajdhani,Vadodara,1,6,8,0.0,False
+2024-04-13,Saturday,April,True,False,12951,Mumbai Rajdhani,Ratlam,2,6,8,0.5,False
+2024-04-13,Saturday,April,True,False,12951,Mumbai Rajdhani,Kota,3,6,8,22.0,True
+2024-04-13,Saturday,April,True,False,12951,Mumbai Rajdhani,Mathura,4,6,8,4.7,False
+2024-04-13,Saturday,April,True,False,12951,Mumbai Rajdhani,New Delhi,5,6,8,0.0,False
+2024-04-13,Saturday,April,True,False,12301,Howrah Rajdhani,Howrah,0,7,11,0.0,False
+2024-04-13,Saturday,April,True,False,12301,Howrah Rajdhani,Dhanbad,1,7,11,0.0,False
+2024-04-13,Saturday,April,True,False,12301,Howrah Rajdhani,Gaya,2,7,11,0.0,False
+2024-04-13,Saturday,April,True,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,11,61.6,True
+2024-04-13,Saturday,April,True,False,12301,Howrah Rajdhani,Allahabad,4,7,11,59.1,False
+2024-04-13,Saturday,April,True,False,12301,Howrah Rajdhani,Kanpur,5,7,11,62.0,False
+2024-04-13,Saturday,April,True,False,12301,Howrah Rajdhani,New Delhi,6,7,11,56.4,False
+2024-04-13,Saturday,April,True,False,12627,Karnataka Express,Bangalore,0,7,13,0.0,False
+2024-04-13,Saturday,April,True,False,12627,Karnataka Express,Guntakal,1,7,13,0.0,False
+2024-04-13,Saturday,April,True,False,12627,Karnataka Express,Wadi,2,7,13,0.0,False
+2024-04-13,Saturday,April,True,False,12627,Karnataka Express,Solapur,3,7,13,35.5,True
+2024-04-13,Saturday,April,True,False,12627,Karnataka Express,Pune,4,7,13,28.9,False
+2024-04-13,Saturday,April,True,False,12627,Karnataka Express,Dadar,5,7,13,39.0,False
+2024-04-13,Saturday,April,True,False,12627,Karnataka Express,New Delhi,6,7,13,63.1,False
+2024-04-13,Saturday,April,True,False,12615,Grand Trunk Express,Chennai Central,0,7,11,1.0,False
+2024-04-13,Saturday,April,True,False,12615,Grand Trunk Express,Vijayawada,1,7,11,0.0,False
+2024-04-13,Saturday,April,True,False,12615,Grand Trunk Express,Warangal,2,7,11,0.0,False
+2024-04-13,Saturday,April,True,False,12615,Grand Trunk Express,Nagpur,3,7,11,5.5,True
+2024-04-13,Saturday,April,True,False,12615,Grand Trunk Express,Bhopal,4,7,11,5.7,False
+2024-04-13,Saturday,April,True,False,12615,Grand Trunk Express,Jhansi,5,7,11,0.0,False
+2024-04-13,Saturday,April,True,False,12615,Grand Trunk Express,New Delhi,6,7,11,0.0,False
+2024-04-13,Saturday,April,True,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,20,0.0,False
+2024-04-13,Saturday,April,True,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,20,18.2,False
+2024-04-13,Saturday,April,True,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,20,37.8,True
+2024-04-13,Saturday,April,True,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,20,33.6,False
+2024-04-13,Saturday,April,True,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,20,31.5,False
+2024-04-13,Saturday,April,True,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,20,22.1,False
+2024-04-14,Sunday,April,True,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,18,0.0,False
+2024-04-14,Sunday,April,True,False,12951,Mumbai Rajdhani,Vadodara,1,6,18,17.1,False
+2024-04-14,Sunday,April,True,False,12951,Mumbai Rajdhani,Ratlam,2,6,18,41.3,False
+2024-04-14,Sunday,April,True,False,12951,Mumbai Rajdhani,Kota,3,6,18,58.6,True
+2024-04-14,Sunday,April,True,False,12951,Mumbai Rajdhani,Mathura,4,6,18,59.7,False
+2024-04-14,Sunday,April,True,False,12951,Mumbai Rajdhani,New Delhi,5,6,18,62.3,False
+2024-04-14,Sunday,April,True,False,12301,Howrah Rajdhani,Howrah,0,7,14,0.0,False
+2024-04-14,Sunday,April,True,False,12301,Howrah Rajdhani,Dhanbad,1,7,14,0.0,False
+2024-04-14,Sunday,April,True,False,12301,Howrah Rajdhani,Gaya,2,7,14,0.0,False
+2024-04-14,Sunday,April,True,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,14,5.5,True
+2024-04-14,Sunday,April,True,False,12301,Howrah Rajdhani,Allahabad,4,7,14,10.6,False
+2024-04-14,Sunday,April,True,False,12301,Howrah Rajdhani,Kanpur,5,7,14,26.8,False
+2024-04-14,Sunday,April,True,False,12301,Howrah Rajdhani,New Delhi,6,7,14,43.6,False
+2024-04-14,Sunday,April,True,False,12627,Karnataka Express,Bangalore,0,7,13,0.0,False
+2024-04-14,Sunday,April,True,False,12627,Karnataka Express,Guntakal,1,7,13,0.0,False
+2024-04-14,Sunday,April,True,False,12627,Karnataka Express,Wadi,2,7,13,0.0,False
+2024-04-14,Sunday,April,True,False,12627,Karnataka Express,Solapur,3,7,13,52.2,True
+2024-04-14,Sunday,April,True,False,12627,Karnataka Express,Pune,4,7,13,38.3,False
+2024-04-14,Sunday,April,True,False,12627,Karnataka Express,Dadar,5,7,13,55.4,False
+2024-04-14,Sunday,April,True,False,12627,Karnataka Express,New Delhi,6,7,13,67.4,False
+2024-04-14,Sunday,April,True,False,12615,Grand Trunk Express,Chennai Central,0,7,16,8.2,False
+2024-04-14,Sunday,April,True,False,12615,Grand Trunk Express,Vijayawada,1,7,16,3.8,False
+2024-04-14,Sunday,April,True,False,12615,Grand Trunk Express,Warangal,2,7,16,19.4,False
+2024-04-14,Sunday,April,True,False,12615,Grand Trunk Express,Nagpur,3,7,16,35.3,True
+2024-04-14,Sunday,April,True,False,12615,Grand Trunk Express,Bhopal,4,7,16,48.6,False
+2024-04-14,Sunday,April,True,False,12615,Grand Trunk Express,Jhansi,5,7,16,70.9,False
+2024-04-14,Sunday,April,True,False,12615,Grand Trunk Express,New Delhi,6,7,16,82.6,False
+2024-04-14,Sunday,April,True,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,7,0.0,False
+2024-04-14,Sunday,April,True,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,7,0.0,False
+2024-04-14,Sunday,April,True,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,7,17.6,True
+2024-04-14,Sunday,April,True,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,7,18.1,False
+2024-04-14,Sunday,April,True,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,7,10.2,False
+2024-04-14,Sunday,April,True,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,7,4.5,False
+2024-04-15,Monday,April,False,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,13,5.4,False
+2024-04-15,Monday,April,False,False,12951,Mumbai Rajdhani,Vadodara,1,6,13,2.4,False
+2024-04-15,Monday,April,False,False,12951,Mumbai Rajdhani,Ratlam,2,6,13,6.7,False
+2024-04-15,Monday,April,False,False,12951,Mumbai Rajdhani,Kota,3,6,13,58.2,True
+2024-04-15,Monday,April,False,False,12951,Mumbai Rajdhani,Mathura,4,6,13,51.7,False
+2024-04-15,Monday,April,False,False,12951,Mumbai Rajdhani,New Delhi,5,6,13,62.6,False
+2024-04-15,Monday,April,False,False,12301,Howrah Rajdhani,Howrah,0,7,7,0.0,False
+2024-04-15,Monday,April,False,False,12301,Howrah Rajdhani,Dhanbad,1,7,7,0.0,False
+2024-04-15,Monday,April,False,False,12301,Howrah Rajdhani,Gaya,2,7,7,0.0,False
+2024-04-15,Monday,April,False,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,7,4.1,True
+2024-04-15,Monday,April,False,False,12301,Howrah Rajdhani,Allahabad,4,7,7,0.0,False
+2024-04-15,Monday,April,False,False,12301,Howrah Rajdhani,Kanpur,5,7,7,0.0,False
+2024-04-15,Monday,April,False,False,12301,Howrah Rajdhani,New Delhi,6,7,7,0.0,False
+2024-04-15,Monday,April,False,False,12627,Karnataka Express,Bangalore,0,7,16,3.5,False
+2024-04-15,Monday,April,False,False,12627,Karnataka Express,Guntakal,1,7,16,12.7,False
+2024-04-15,Monday,April,False,False,12627,Karnataka Express,Wadi,2,7,16,28.5,False
+2024-04-15,Monday,April,False,False,12627,Karnataka Express,Solapur,3,7,16,116.0,True
+2024-04-15,Monday,April,False,False,12627,Karnataka Express,Pune,4,7,16,132.8,False
+2024-04-15,Monday,April,False,False,12627,Karnataka Express,Dadar,5,7,16,156.3,False
+2024-04-15,Monday,April,False,False,12627,Karnataka Express,New Delhi,6,7,16,174.1,False
+2024-04-15,Monday,April,False,False,12615,Grand Trunk Express,Chennai Central,0,7,18,1.0,False
+2024-04-15,Monday,April,False,False,12615,Grand Trunk Express,Vijayawada,1,7,18,12.2,False
+2024-04-15,Monday,April,False,False,12615,Grand Trunk Express,Warangal,2,7,18,27.7,False
+2024-04-15,Monday,April,False,False,12615,Grand Trunk Express,Nagpur,3,7,18,44.4,True
+2024-04-15,Monday,April,False,False,12615,Grand Trunk Express,Bhopal,4,7,18,65.7,False
+2024-04-15,Monday,April,False,False,12615,Grand Trunk Express,Jhansi,5,7,18,52.5,False
+2024-04-15,Monday,April,False,False,12615,Grand Trunk Express,New Delhi,6,7,18,58.7,False
+2024-04-15,Monday,April,False,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,14,0.0,False
+2024-04-15,Monday,April,False,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,14,0.0,False
+2024-04-15,Monday,April,False,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,14,47.6,True
+2024-04-15,Monday,April,False,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,14,46.9,False
+2024-04-15,Monday,April,False,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,14,62.2,False
+2024-04-15,Monday,April,False,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,14,66.9,False
+2024-04-16,Tuesday,April,False,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,8,8.8,False
+2024-04-16,Tuesday,April,False,False,12951,Mumbai Rajdhani,Vadodara,1,6,8,11.2,False
+2024-04-16,Tuesday,April,False,False,12951,Mumbai Rajdhani,Ratlam,2,6,8,7.3,False
+2024-04-16,Tuesday,April,False,False,12951,Mumbai Rajdhani,Kota,3,6,8,13.2,True
+2024-04-16,Tuesday,April,False,False,12951,Mumbai Rajdhani,Mathura,4,6,8,13.3,False
+2024-04-16,Tuesday,April,False,False,12951,Mumbai Rajdhani,New Delhi,5,6,8,16.9,False
+2024-04-16,Tuesday,April,False,False,12301,Howrah Rajdhani,Howrah,0,7,12,0.0,False
+2024-04-16,Tuesday,April,False,False,12301,Howrah Rajdhani,Dhanbad,1,7,12,0.0,False
+2024-04-16,Tuesday,April,False,False,12301,Howrah Rajdhani,Gaya,2,7,12,2.4,False
+2024-04-16,Tuesday,April,False,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,12,0.0,True
+2024-04-16,Tuesday,April,False,False,12301,Howrah Rajdhani,Allahabad,4,7,12,3.6,False
+2024-04-16,Tuesday,April,False,False,12301,Howrah Rajdhani,Kanpur,5,7,12,7.6,False
+2024-04-16,Tuesday,April,False,False,12301,Howrah Rajdhani,New Delhi,6,7,12,21.5,False
+2024-04-16,Tuesday,April,False,False,12627,Karnataka Express,Bangalore,0,7,16,0.0,False
+2024-04-16,Tuesday,April,False,False,12627,Karnataka Express,Guntakal,1,7,16,5.8,False
+2024-04-16,Tuesday,April,False,False,12627,Karnataka Express,Wadi,2,7,16,13.3,False
+2024-04-16,Tuesday,April,False,False,12627,Karnataka Express,Solapur,3,7,16,83.2,True
+2024-04-16,Tuesday,April,False,False,12627,Karnataka Express,Pune,4,7,16,93.8,False
+2024-04-16,Tuesday,April,False,False,12627,Karnataka Express,Dadar,5,7,16,120.8,False
+2024-04-16,Tuesday,April,False,False,12627,Karnataka Express,New Delhi,6,7,16,128.4,False
+2024-04-16,Tuesday,April,False,False,12615,Grand Trunk Express,Chennai Central,0,7,12,0.0,False
+2024-04-16,Tuesday,April,False,False,12615,Grand Trunk Express,Vijayawada,1,7,12,0.0,False
+2024-04-16,Tuesday,April,False,False,12615,Grand Trunk Express,Warangal,2,7,12,3.0,False
+2024-04-16,Tuesday,April,False,False,12615,Grand Trunk Express,Nagpur,3,7,12,16.7,True
+2024-04-16,Tuesday,April,False,False,12615,Grand Trunk Express,Bhopal,4,7,12,25.5,False
+2024-04-16,Tuesday,April,False,False,12615,Grand Trunk Express,Jhansi,5,7,12,16.7,False
+2024-04-16,Tuesday,April,False,False,12615,Grand Trunk Express,New Delhi,6,7,12,33.5,False
+2024-04-16,Tuesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,21,0.0,False
+2024-04-16,Tuesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,21,16.9,False
+2024-04-16,Tuesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,21,31.3,True
+2024-04-16,Tuesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,21,32.0,False
+2024-04-16,Tuesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,21,42.8,False
+2024-04-16,Tuesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,21,46.2,False
+2024-04-17,Wednesday,April,False,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,18,0.0,False
+2024-04-17,Wednesday,April,False,False,12951,Mumbai Rajdhani,Vadodara,1,6,18,17.8,False
+2024-04-17,Wednesday,April,False,False,12951,Mumbai Rajdhani,Ratlam,2,6,18,24.0,False
+2024-04-17,Wednesday,April,False,False,12951,Mumbai Rajdhani,Kota,3,6,18,44.1,True
+2024-04-17,Wednesday,April,False,False,12951,Mumbai Rajdhani,Mathura,4,6,18,57.9,False
+2024-04-17,Wednesday,April,False,False,12951,Mumbai Rajdhani,New Delhi,5,6,18,53.0,False
+2024-04-17,Wednesday,April,False,False,12301,Howrah Rajdhani,Howrah,0,7,20,10.0,False
+2024-04-17,Wednesday,April,False,False,12301,Howrah Rajdhani,Dhanbad,1,7,20,25.7,False
+2024-04-17,Wednesday,April,False,False,12301,Howrah Rajdhani,Gaya,2,7,20,50.4,False
+2024-04-17,Wednesday,April,False,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,20,63.1,True
+2024-04-17,Wednesday,April,False,False,12301,Howrah Rajdhani,Allahabad,4,7,20,62.3,False
+2024-04-17,Wednesday,April,False,False,12301,Howrah Rajdhani,Kanpur,5,7,20,66.3,False
+2024-04-17,Wednesday,April,False,False,12301,Howrah Rajdhani,New Delhi,6,7,20,68.3,False
+2024-04-17,Wednesday,April,False,False,12627,Karnataka Express,Bangalore,0,7,10,0.0,False
+2024-04-17,Wednesday,April,False,False,12627,Karnataka Express,Guntakal,1,7,10,0.0,False
+2024-04-17,Wednesday,April,False,False,12627,Karnataka Express,Wadi,2,7,10,1.0,False
+2024-04-17,Wednesday,April,False,False,12627,Karnataka Express,Solapur,3,7,10,6.1,True
+2024-04-17,Wednesday,April,False,False,12627,Karnataka Express,Pune,4,7,10,9.1,False
+2024-04-17,Wednesday,April,False,False,12627,Karnataka Express,Dadar,5,7,10,4.4,False
+2024-04-17,Wednesday,April,False,False,12627,Karnataka Express,New Delhi,6,7,10,0.0,False
+2024-04-17,Wednesday,April,False,False,12615,Grand Trunk Express,Chennai Central,0,7,14,0.0,False
+2024-04-17,Wednesday,April,False,False,12615,Grand Trunk Express,Vijayawada,1,7,14,5.3,False
+2024-04-17,Wednesday,April,False,False,12615,Grand Trunk Express,Warangal,2,7,14,0.5,False
+2024-04-17,Wednesday,April,False,False,12615,Grand Trunk Express,Nagpur,3,7,14,40.9,True
+2024-04-17,Wednesday,April,False,False,12615,Grand Trunk Express,Bhopal,4,7,14,53.6,False
+2024-04-17,Wednesday,April,False,False,12615,Grand Trunk Express,Jhansi,5,7,14,64.8,False
+2024-04-17,Wednesday,April,False,False,12615,Grand Trunk Express,New Delhi,6,7,14,78.3,False
+2024-04-17,Wednesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,10,0.0,False
+2024-04-17,Wednesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,10,12.8,False
+2024-04-17,Wednesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,10,22.5,True
+2024-04-17,Wednesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,10,20.7,False
+2024-04-17,Wednesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,10,21.9,False
+2024-04-17,Wednesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,10,22.8,False
+2024-04-18,Thursday,April,False,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,13,0.0,False
+2024-04-18,Thursday,April,False,False,12951,Mumbai Rajdhani,Vadodara,1,6,13,9.9,False
+2024-04-18,Thursday,April,False,False,12951,Mumbai Rajdhani,Ratlam,2,6,13,9.6,False
+2024-04-18,Thursday,April,False,False,12951,Mumbai Rajdhani,Kota,3,6,13,44.6,True
+2024-04-18,Thursday,April,False,False,12951,Mumbai Rajdhani,Mathura,4,6,13,42.6,False
+2024-04-18,Thursday,April,False,False,12951,Mumbai Rajdhani,New Delhi,5,6,13,58.5,False
+2024-04-18,Thursday,April,False,False,12301,Howrah Rajdhani,Howrah,0,7,14,4.9,False
+2024-04-18,Thursday,April,False,False,12301,Howrah Rajdhani,Dhanbad,1,7,14,0.0,False
+2024-04-18,Thursday,April,False,False,12301,Howrah Rajdhani,Gaya,2,7,14,5.7,False
+2024-04-18,Thursday,April,False,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,14,18.6,True
+2024-04-18,Thursday,April,False,False,12301,Howrah Rajdhani,Allahabad,4,7,14,36.2,False
+2024-04-18,Thursday,April,False,False,12301,Howrah Rajdhani,Kanpur,5,7,14,56.9,False
+2024-04-18,Thursday,April,False,False,12301,Howrah Rajdhani,New Delhi,6,7,14,76.9,False
+2024-04-18,Thursday,April,False,False,12627,Karnataka Express,Bangalore,0,7,19,0.0,False
+2024-04-18,Thursday,April,False,False,12627,Karnataka Express,Guntakal,1,7,19,15.4,False
+2024-04-18,Thursday,April,False,False,12627,Karnataka Express,Wadi,2,7,19,29.8,False
+2024-04-18,Thursday,April,False,False,12627,Karnataka Express,Solapur,3,7,19,73.3,True
+2024-04-18,Thursday,April,False,False,12627,Karnataka Express,Pune,4,7,19,73.1,False
+2024-04-18,Thursday,April,False,False,12627,Karnataka Express,Dadar,5,7,19,76.5,False
+2024-04-18,Thursday,April,False,False,12627,Karnataka Express,New Delhi,6,7,19,76.7,False
+2024-04-18,Thursday,April,False,False,12615,Grand Trunk Express,Chennai Central,0,7,18,0.1,False
+2024-04-18,Thursday,April,False,False,12615,Grand Trunk Express,Vijayawada,1,7,18,4.3,False
+2024-04-18,Thursday,April,False,False,12615,Grand Trunk Express,Warangal,2,7,18,17.6,False
+2024-04-18,Thursday,April,False,False,12615,Grand Trunk Express,Nagpur,3,7,18,55.3,True
+2024-04-18,Thursday,April,False,False,12615,Grand Trunk Express,Bhopal,4,7,18,74.8,False
+2024-04-18,Thursday,April,False,False,12615,Grand Trunk Express,Jhansi,5,7,18,82.1,False
+2024-04-18,Thursday,April,False,False,12615,Grand Trunk Express,New Delhi,6,7,18,83.1,False
+2024-04-18,Thursday,April,False,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,17,5.2,False
+2024-04-18,Thursday,April,False,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,17,16.6,False
+2024-04-18,Thursday,April,False,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,17,29.2,True
+2024-04-18,Thursday,April,False,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,17,42.3,False
+2024-04-18,Thursday,April,False,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,17,62.1,False
+2024-04-18,Thursday,April,False,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,17,85.4,False
+2024-04-19,Friday,April,False,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,13,0.0,False
+2024-04-19,Friday,April,False,False,12951,Mumbai Rajdhani,Vadodara,1,6,13,7.0,False
+2024-04-19,Friday,April,False,False,12951,Mumbai Rajdhani,Ratlam,2,6,13,18.5,False
+2024-04-19,Friday,April,False,False,12951,Mumbai Rajdhani,Kota,3,6,13,68.4,True
+2024-04-19,Friday,April,False,False,12951,Mumbai Rajdhani,Mathura,4,6,13,60.0,False
+2024-04-19,Friday,April,False,False,12951,Mumbai Rajdhani,New Delhi,5,6,13,68.6,False
+2024-04-19,Friday,April,False,False,12301,Howrah Rajdhani,Howrah,0,7,10,0.0,False
+2024-04-19,Friday,April,False,False,12301,Howrah Rajdhani,Dhanbad,1,7,10,0.0,False
+2024-04-19,Friday,April,False,False,12301,Howrah Rajdhani,Gaya,2,7,10,0.0,False
+2024-04-19,Friday,April,False,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,10,4.2,True
+2024-04-19,Friday,April,False,False,12301,Howrah Rajdhani,Allahabad,4,7,10,0.0,False
+2024-04-19,Friday,April,False,False,12301,Howrah Rajdhani,Kanpur,5,7,10,0.0,False
+2024-04-19,Friday,April,False,False,12301,Howrah Rajdhani,New Delhi,6,7,10,0.0,False
+2024-04-19,Friday,April,False,False,12627,Karnataka Express,Bangalore,0,7,22,3.4,False
+2024-04-19,Friday,April,False,False,12627,Karnataka Express,Guntakal,1,7,22,8.3,False
+2024-04-19,Friday,April,False,False,12627,Karnataka Express,Wadi,2,7,22,7.3,False
+2024-04-19,Friday,April,False,False,12627,Karnataka Express,Solapur,3,7,22,30.8,True
+2024-04-19,Friday,April,False,False,12627,Karnataka Express,Pune,4,7,22,34.2,False
+2024-04-19,Friday,April,False,False,12627,Karnataka Express,Dadar,5,7,22,40.0,False
+2024-04-19,Friday,April,False,False,12627,Karnataka Express,New Delhi,6,7,22,48.1,False
+2024-04-19,Friday,April,False,False,12615,Grand Trunk Express,Chennai Central,0,7,21,0.0,False
+2024-04-19,Friday,April,False,False,12615,Grand Trunk Express,Vijayawada,1,7,21,12.6,False
+2024-04-19,Friday,April,False,False,12615,Grand Trunk Express,Warangal,2,7,21,15.4,False
+2024-04-19,Friday,April,False,False,12615,Grand Trunk Express,Nagpur,3,7,21,23.0,True
+2024-04-19,Friday,April,False,False,12615,Grand Trunk Express,Bhopal,4,7,21,30.1,False
+2024-04-19,Friday,April,False,False,12615,Grand Trunk Express,Jhansi,5,7,21,27.3,False
+2024-04-19,Friday,April,False,False,12615,Grand Trunk Express,New Delhi,6,7,21,23.1,False
+2024-04-19,Friday,April,False,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,8,2.4,False
+2024-04-19,Friday,April,False,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,8,0.0,False
+2024-04-19,Friday,April,False,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,8,9.5,True
+2024-04-19,Friday,April,False,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,8,21.3,False
+2024-04-19,Friday,April,False,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,8,26.0,False
+2024-04-19,Friday,April,False,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,8,21.8,False
+2024-04-20,Saturday,April,True,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,7,0.0,False
+2024-04-20,Saturday,April,True,False,12951,Mumbai Rajdhani,Vadodara,1,6,7,0.0,False
+2024-04-20,Saturday,April,True,False,12951,Mumbai Rajdhani,Ratlam,2,6,7,0.0,False
+2024-04-20,Saturday,April,True,False,12951,Mumbai Rajdhani,Kota,3,6,7,17.7,True
+2024-04-20,Saturday,April,True,False,12951,Mumbai Rajdhani,Mathura,4,6,7,18.1,False
+2024-04-20,Saturday,April,True,False,12951,Mumbai Rajdhani,New Delhi,5,6,7,12.3,False
+2024-04-20,Saturday,April,True,False,12301,Howrah Rajdhani,Howrah,0,7,9,0.0,False
+2024-04-20,Saturday,April,True,False,12301,Howrah Rajdhani,Dhanbad,1,7,9,0.0,False
+2024-04-20,Saturday,April,True,False,12301,Howrah Rajdhani,Gaya,2,7,9,0.0,False
+2024-04-20,Saturday,April,True,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,9,0.0,True
+2024-04-20,Saturday,April,True,False,12301,Howrah Rajdhani,Allahabad,4,7,9,4.0,False
+2024-04-20,Saturday,April,True,False,12301,Howrah Rajdhani,Kanpur,5,7,9,2.4,False
+2024-04-20,Saturday,April,True,False,12301,Howrah Rajdhani,New Delhi,6,7,9,0.0,False
+2024-04-20,Saturday,April,True,False,12627,Karnataka Express,Bangalore,0,7,10,0.0,False
+2024-04-20,Saturday,April,True,False,12627,Karnataka Express,Guntakal,1,7,10,0.0,False
+2024-04-20,Saturday,April,True,False,12627,Karnataka Express,Wadi,2,7,10,1.0,False
+2024-04-20,Saturday,April,True,False,12627,Karnataka Express,Solapur,3,7,10,8.4,True
+2024-04-20,Saturday,April,True,False,12627,Karnataka Express,Pune,4,7,10,6.8,False
+2024-04-20,Saturday,April,True,False,12627,Karnataka Express,Dadar,5,7,10,11.1,False
+2024-04-20,Saturday,April,True,False,12627,Karnataka Express,New Delhi,6,7,10,9.0,False
+2024-04-20,Saturday,April,True,False,12615,Grand Trunk Express,Chennai Central,0,7,11,0.0,False
+2024-04-20,Saturday,April,True,False,12615,Grand Trunk Express,Vijayawada,1,7,11,0.0,False
+2024-04-20,Saturday,April,True,False,12615,Grand Trunk Express,Warangal,2,7,11,0.5,False
+2024-04-20,Saturday,April,True,False,12615,Grand Trunk Express,Nagpur,3,7,11,29.5,True
+2024-04-20,Saturday,April,True,False,12615,Grand Trunk Express,Bhopal,4,7,11,27.1,False
+2024-04-20,Saturday,April,True,False,12615,Grand Trunk Express,Jhansi,5,7,11,27.1,False
+2024-04-20,Saturday,April,True,False,12615,Grand Trunk Express,New Delhi,6,7,11,29.8,False
+2024-04-20,Saturday,April,True,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,19,0.0,False
+2024-04-20,Saturday,April,True,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,19,16.1,False
+2024-04-20,Saturday,April,True,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,19,54.9,True
+2024-04-20,Saturday,April,True,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,19,63.9,False
+2024-04-20,Saturday,April,True,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,19,59.0,False
+2024-04-20,Saturday,April,True,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,19,60.4,False
+2024-04-21,Sunday,April,True,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,8,0.0,False
+2024-04-21,Sunday,April,True,False,12951,Mumbai Rajdhani,Vadodara,1,6,8,0.0,False
+2024-04-21,Sunday,April,True,False,12951,Mumbai Rajdhani,Ratlam,2,6,8,0.0,False
+2024-04-21,Sunday,April,True,False,12951,Mumbai Rajdhani,Kota,3,6,8,23.9,True
+2024-04-21,Sunday,April,True,False,12951,Mumbai Rajdhani,Mathura,4,6,8,26.3,False
+2024-04-21,Sunday,April,True,False,12951,Mumbai Rajdhani,New Delhi,5,6,8,22.4,False
+2024-04-21,Sunday,April,True,False,12301,Howrah Rajdhani,Howrah,0,7,18,0.0,False
+2024-04-21,Sunday,April,True,False,12301,Howrah Rajdhani,Dhanbad,1,7,18,12.6,False
+2024-04-21,Sunday,April,True,False,12301,Howrah Rajdhani,Gaya,2,7,18,33.0,False
+2024-04-21,Sunday,April,True,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,18,42.9,True
+2024-04-21,Sunday,April,True,False,12301,Howrah Rajdhani,Allahabad,4,7,18,48.6,False
+2024-04-21,Sunday,April,True,False,12301,Howrah Rajdhani,Kanpur,5,7,18,44.6,False
+2024-04-21,Sunday,April,True,False,12301,Howrah Rajdhani,New Delhi,6,7,18,37.8,False
+2024-04-21,Sunday,April,True,False,12627,Karnataka Express,Bangalore,0,7,18,0.0,False
+2024-04-21,Sunday,April,True,False,12627,Karnataka Express,Guntakal,1,7,18,11.4,False
+2024-04-21,Sunday,April,True,False,12627,Karnataka Express,Wadi,2,7,18,17.5,False
+2024-04-21,Sunday,April,True,False,12627,Karnataka Express,Solapur,3,7,18,55.5,True
+2024-04-21,Sunday,April,True,False,12627,Karnataka Express,Pune,4,7,18,62.6,False
+2024-04-21,Sunday,April,True,False,12627,Karnataka Express,Dadar,5,7,18,56.9,False
+2024-04-21,Sunday,April,True,False,12627,Karnataka Express,New Delhi,6,7,18,41.8,False
+2024-04-21,Sunday,April,True,False,12615,Grand Trunk Express,Chennai Central,0,7,20,0.0,False
+2024-04-21,Sunday,April,True,False,12615,Grand Trunk Express,Vijayawada,1,7,20,13.1,False
+2024-04-21,Sunday,April,True,False,12615,Grand Trunk Express,Warangal,2,7,20,19.9,False
+2024-04-21,Sunday,April,True,False,12615,Grand Trunk Express,Nagpur,3,7,20,43.6,True
+2024-04-21,Sunday,April,True,False,12615,Grand Trunk Express,Bhopal,4,7,20,44.2,False
+2024-04-21,Sunday,April,True,False,12615,Grand Trunk Express,Jhansi,5,7,20,45.8,False
+2024-04-21,Sunday,April,True,False,12615,Grand Trunk Express,New Delhi,6,7,20,39.7,False
+2024-04-21,Sunday,April,True,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,22,0.0,False
+2024-04-21,Sunday,April,True,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,22,4.2,False
+2024-04-21,Sunday,April,True,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,22,6.6,True
+2024-04-21,Sunday,April,True,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,22,6.0,False
+2024-04-21,Sunday,April,True,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,22,0.0,False
+2024-04-21,Sunday,April,True,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,22,0.0,False
+2024-04-22,Monday,April,False,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,14,0.0,False
+2024-04-22,Monday,April,False,False,12951,Mumbai Rajdhani,Vadodara,1,6,14,0.4,False
+2024-04-22,Monday,April,False,False,12951,Mumbai Rajdhani,Ratlam,2,6,14,0.0,False
+2024-04-22,Monday,April,False,False,12951,Mumbai Rajdhani,Kota,3,6,14,20.8,True
+2024-04-22,Monday,April,False,False,12951,Mumbai Rajdhani,Mathura,4,6,14,38.7,False
+2024-04-22,Monday,April,False,False,12951,Mumbai Rajdhani,New Delhi,5,6,14,57.9,False
+2024-04-22,Monday,April,False,False,12301,Howrah Rajdhani,Howrah,0,7,6,0.0,False
+2024-04-22,Monday,April,False,False,12301,Howrah Rajdhani,Dhanbad,1,7,6,2.8,False
+2024-04-22,Monday,April,False,False,12301,Howrah Rajdhani,Gaya,2,7,6,5.1,False
+2024-04-22,Monday,April,False,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,6,11.8,True
+2024-04-22,Monday,April,False,False,12301,Howrah Rajdhani,Allahabad,4,7,6,18.5,False
+2024-04-22,Monday,April,False,False,12301,Howrah Rajdhani,Kanpur,5,7,6,24.7,False
+2024-04-22,Monday,April,False,False,12301,Howrah Rajdhani,New Delhi,6,7,6,27.2,False
+2024-04-22,Monday,April,False,False,12627,Karnataka Express,Bangalore,0,7,9,0.0,False
+2024-04-22,Monday,April,False,False,12627,Karnataka Express,Guntakal,1,7,9,0.0,False
+2024-04-22,Monday,April,False,False,12627,Karnataka Express,Wadi,2,7,9,1.9,False
+2024-04-22,Monday,April,False,False,12627,Karnataka Express,Solapur,3,7,9,12.2,True
+2024-04-22,Monday,April,False,False,12627,Karnataka Express,Pune,4,7,9,12.0,False
+2024-04-22,Monday,April,False,False,12627,Karnataka Express,Dadar,5,7,9,4.8,False
+2024-04-22,Monday,April,False,False,12627,Karnataka Express,New Delhi,6,7,9,5.4,False
+2024-04-22,Monday,April,False,False,12615,Grand Trunk Express,Chennai Central,0,7,14,0.0,False
+2024-04-22,Monday,April,False,False,12615,Grand Trunk Express,Vijayawada,1,7,14,4.2,False
+2024-04-22,Monday,April,False,False,12615,Grand Trunk Express,Warangal,2,7,14,0.9,False
+2024-04-22,Monday,April,False,False,12615,Grand Trunk Express,Nagpur,3,7,14,0.0,True
+2024-04-22,Monday,April,False,False,12615,Grand Trunk Express,Bhopal,4,7,14,1.3,False
+2024-04-22,Monday,April,False,False,12615,Grand Trunk Express,Jhansi,5,7,14,15.0,False
+2024-04-22,Monday,April,False,False,12615,Grand Trunk Express,New Delhi,6,7,14,15.8,False
+2024-04-22,Monday,April,False,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,16,3.9,False
+2024-04-22,Monday,April,False,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,16,6.1,False
+2024-04-22,Monday,April,False,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,16,28.0,True
+2024-04-22,Monday,April,False,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,16,39.2,False
+2024-04-22,Monday,April,False,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,16,68.2,False
+2024-04-22,Monday,April,False,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,16,83.7,False
+2024-04-23,Tuesday,April,False,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,9,0.0,False
+2024-04-23,Tuesday,April,False,False,12951,Mumbai Rajdhani,Vadodara,1,6,9,0.2,False
+2024-04-23,Tuesday,April,False,False,12951,Mumbai Rajdhani,Ratlam,2,6,9,0.0,False
+2024-04-23,Tuesday,April,False,False,12951,Mumbai Rajdhani,Kota,3,6,9,1.6,True
+2024-04-23,Tuesday,April,False,False,12951,Mumbai Rajdhani,Mathura,4,6,9,0.0,False
+2024-04-23,Tuesday,April,False,False,12951,Mumbai Rajdhani,New Delhi,5,6,9,0.0,False
+2024-04-23,Tuesday,April,False,False,12301,Howrah Rajdhani,Howrah,0,7,15,9.0,False
+2024-04-23,Tuesday,April,False,False,12301,Howrah Rajdhani,Dhanbad,1,7,15,12.2,False
+2024-04-23,Tuesday,April,False,False,12301,Howrah Rajdhani,Gaya,2,7,15,9.3,False
+2024-04-23,Tuesday,April,False,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,15,27.8,True
+2024-04-23,Tuesday,April,False,False,12301,Howrah Rajdhani,Allahabad,4,7,15,45.1,False
+2024-04-23,Tuesday,April,False,False,12301,Howrah Rajdhani,Kanpur,5,7,15,69.1,False
+2024-04-23,Tuesday,April,False,False,12301,Howrah Rajdhani,New Delhi,6,7,15,86.5,False
+2024-04-23,Tuesday,April,False,False,12627,Karnataka Express,Bangalore,0,7,19,0.0,False
+2024-04-23,Tuesday,April,False,False,12627,Karnataka Express,Guntakal,1,7,19,17.9,False
+2024-04-23,Tuesday,April,False,False,12627,Karnataka Express,Wadi,2,7,19,39.2,False
+2024-04-23,Tuesday,April,False,False,12627,Karnataka Express,Solapur,3,7,19,77.3,True
+2024-04-23,Tuesday,April,False,False,12627,Karnataka Express,Pune,4,7,19,78.3,False
+2024-04-23,Tuesday,April,False,False,12627,Karnataka Express,Dadar,5,7,19,86.9,False
+2024-04-23,Tuesday,April,False,False,12627,Karnataka Express,New Delhi,6,7,19,87.9,False
+2024-04-23,Tuesday,April,False,False,12615,Grand Trunk Express,Chennai Central,0,7,11,0.0,False
+2024-04-23,Tuesday,April,False,False,12615,Grand Trunk Express,Vijayawada,1,7,11,0.0,False
+2024-04-23,Tuesday,April,False,False,12615,Grand Trunk Express,Warangal,2,7,11,0.0,False
+2024-04-23,Tuesday,April,False,False,12615,Grand Trunk Express,Nagpur,3,7,11,95.2,True
+2024-04-23,Tuesday,April,False,False,12615,Grand Trunk Express,Bhopal,4,7,11,90.1,False
+2024-04-23,Tuesday,April,False,False,12615,Grand Trunk Express,Jhansi,5,7,11,87.4,False
+2024-04-23,Tuesday,April,False,False,12615,Grand Trunk Express,New Delhi,6,7,11,90.5,False
+2024-04-23,Tuesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,20,5.6,False
+2024-04-23,Tuesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,20,26.6,False
+2024-04-23,Tuesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,20,188.7,True
+2024-04-23,Tuesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,20,183.1,False
+2024-04-23,Tuesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,20,185.9,False
+2024-04-23,Tuesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,20,183.4,False
+2024-04-24,Wednesday,April,False,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,6,1.1,False
+2024-04-24,Wednesday,April,False,False,12951,Mumbai Rajdhani,Vadodara,1,6,6,6.5,False
+2024-04-24,Wednesday,April,False,False,12951,Mumbai Rajdhani,Ratlam,2,6,6,6.0,False
+2024-04-24,Wednesday,April,False,False,12951,Mumbai Rajdhani,Kota,3,6,6,24.5,True
+2024-04-24,Wednesday,April,False,False,12951,Mumbai Rajdhani,Mathura,4,6,6,28.8,False
+2024-04-24,Wednesday,April,False,False,12951,Mumbai Rajdhani,New Delhi,5,6,6,22.7,False
+2024-04-24,Wednesday,April,False,False,12301,Howrah Rajdhani,Howrah,0,7,14,0.0,False
+2024-04-24,Wednesday,April,False,False,12301,Howrah Rajdhani,Dhanbad,1,7,14,1.1,False
+2024-04-24,Wednesday,April,False,False,12301,Howrah Rajdhani,Gaya,2,7,14,6.4,False
+2024-04-24,Wednesday,April,False,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,14,31.4,True
+2024-04-24,Wednesday,April,False,False,12301,Howrah Rajdhani,Allahabad,4,7,14,47.9,False
+2024-04-24,Wednesday,April,False,False,12301,Howrah Rajdhani,Kanpur,5,7,14,59.8,False
+2024-04-24,Wednesday,April,False,False,12301,Howrah Rajdhani,New Delhi,6,7,14,80.1,False
+2024-04-24,Wednesday,April,False,False,12627,Karnataka Express,Bangalore,0,7,22,7.4,False
+2024-04-24,Wednesday,April,False,False,12627,Karnataka Express,Guntakal,1,7,22,14.3,False
+2024-04-24,Wednesday,April,False,False,12627,Karnataka Express,Wadi,2,7,22,16.3,False
+2024-04-24,Wednesday,April,False,False,12627,Karnataka Express,Solapur,3,7,22,72.8,True
+2024-04-24,Wednesday,April,False,False,12627,Karnataka Express,Pune,4,7,22,70.0,False
+2024-04-24,Wednesday,April,False,False,12627,Karnataka Express,Dadar,5,7,22,66.7,False
+2024-04-24,Wednesday,April,False,False,12627,Karnataka Express,New Delhi,6,7,22,66.6,False
+2024-04-24,Wednesday,April,False,False,12615,Grand Trunk Express,Chennai Central,0,7,11,5.9,False
+2024-04-24,Wednesday,April,False,False,12615,Grand Trunk Express,Vijayawada,1,7,11,8.6,False
+2024-04-24,Wednesday,April,False,False,12615,Grand Trunk Express,Warangal,2,7,11,6.7,False
+2024-04-24,Wednesday,April,False,False,12615,Grand Trunk Express,Nagpur,3,7,11,21.7,True
+2024-04-24,Wednesday,April,False,False,12615,Grand Trunk Express,Bhopal,4,7,11,7.5,False
+2024-04-24,Wednesday,April,False,False,12615,Grand Trunk Express,Jhansi,5,7,11,1.7,False
+2024-04-24,Wednesday,April,False,False,12615,Grand Trunk Express,New Delhi,6,7,11,3.3,False
+2024-04-24,Wednesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,22,1.9,False
+2024-04-24,Wednesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,22,1.4,False
+2024-04-24,Wednesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,22,32.1,True
+2024-04-24,Wednesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,22,37.9,False
+2024-04-24,Wednesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,22,30.1,False
+2024-04-24,Wednesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,22,28.7,False
+2024-04-25,Thursday,April,False,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,9,0.0,False
+2024-04-25,Thursday,April,False,False,12951,Mumbai Rajdhani,Vadodara,1,6,9,1.3,False
+2024-04-25,Thursday,April,False,False,12951,Mumbai Rajdhani,Ratlam,2,6,9,0.0,False
+2024-04-25,Thursday,April,False,False,12951,Mumbai Rajdhani,Kota,3,6,9,13.3,True
+2024-04-25,Thursday,April,False,False,12951,Mumbai Rajdhani,Mathura,4,6,9,20.8,False
+2024-04-25,Thursday,April,False,False,12951,Mumbai Rajdhani,New Delhi,5,6,9,25.1,False
+2024-04-25,Thursday,April,False,False,12301,Howrah Rajdhani,Howrah,0,7,15,0.0,False
+2024-04-25,Thursday,April,False,False,12301,Howrah Rajdhani,Dhanbad,1,7,15,0.0,False
+2024-04-25,Thursday,April,False,False,12301,Howrah Rajdhani,Gaya,2,7,15,0.0,False
+2024-04-25,Thursday,April,False,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,15,74.9,True
+2024-04-25,Thursday,April,False,False,12301,Howrah Rajdhani,Allahabad,4,7,15,92.1,False
+2024-04-25,Thursday,April,False,False,12301,Howrah Rajdhani,Kanpur,5,7,15,104.4,False
+2024-04-25,Thursday,April,False,False,12301,Howrah Rajdhani,New Delhi,6,7,15,119.4,False
+2024-04-25,Thursday,April,False,False,12627,Karnataka Express,Bangalore,0,7,22,0.0,False
+2024-04-25,Thursday,April,False,False,12627,Karnataka Express,Guntakal,1,7,22,3.7,False
+2024-04-25,Thursday,April,False,False,12627,Karnataka Express,Wadi,2,7,22,3.3,False
+2024-04-25,Thursday,April,False,False,12627,Karnataka Express,Solapur,3,7,22,4.7,True
+2024-04-25,Thursday,April,False,False,12627,Karnataka Express,Pune,4,7,22,0.0,False
+2024-04-25,Thursday,April,False,False,12627,Karnataka Express,Dadar,5,7,22,0.7,False
+2024-04-25,Thursday,April,False,False,12627,Karnataka Express,New Delhi,6,7,22,3.0,False
+2024-04-25,Thursday,April,False,False,12615,Grand Trunk Express,Chennai Central,0,7,12,0.0,False
+2024-04-25,Thursday,April,False,False,12615,Grand Trunk Express,Vijayawada,1,7,12,5.4,False
+2024-04-25,Thursday,April,False,False,12615,Grand Trunk Express,Warangal,2,7,12,0.0,False
+2024-04-25,Thursday,April,False,False,12615,Grand Trunk Express,Nagpur,3,7,12,42.2,True
+2024-04-25,Thursday,April,False,False,12615,Grand Trunk Express,Bhopal,4,7,12,47.7,False
+2024-04-25,Thursday,April,False,False,12615,Grand Trunk Express,Jhansi,5,7,12,42.5,False
+2024-04-25,Thursday,April,False,False,12615,Grand Trunk Express,New Delhi,6,7,12,65.3,False
+2024-04-25,Thursday,April,False,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,10,0.0,False
+2024-04-25,Thursday,April,False,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,10,1.4,False
+2024-04-25,Thursday,April,False,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,10,12.8,True
+2024-04-25,Thursday,April,False,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,10,11.8,False
+2024-04-25,Thursday,April,False,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,10,12.9,False
+2024-04-25,Thursday,April,False,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,10,17.3,False
+2024-04-26,Friday,April,False,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,17,2.5,False
+2024-04-26,Friday,April,False,False,12951,Mumbai Rajdhani,Vadodara,1,6,17,18.2,False
+2024-04-26,Friday,April,False,False,12951,Mumbai Rajdhani,Ratlam,2,6,17,36.2,False
+2024-04-26,Friday,April,False,False,12951,Mumbai Rajdhani,Kota,3,6,17,57.3,True
+2024-04-26,Friday,April,False,False,12951,Mumbai Rajdhani,Mathura,4,6,17,79.4,False
+2024-04-26,Friday,April,False,False,12951,Mumbai Rajdhani,New Delhi,5,6,17,90.6,False
+2024-04-26,Friday,April,False,False,12301,Howrah Rajdhani,Howrah,0,7,11,3.3,False
+2024-04-26,Friday,April,False,False,12301,Howrah Rajdhani,Dhanbad,1,7,11,11.5,False
+2024-04-26,Friday,April,False,False,12301,Howrah Rajdhani,Gaya,2,7,11,5.8,False
+2024-04-26,Friday,April,False,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,11,193.3,True
+2024-04-26,Friday,April,False,False,12301,Howrah Rajdhani,Allahabad,4,7,11,189.6,False
+2024-04-26,Friday,April,False,False,12301,Howrah Rajdhani,Kanpur,5,7,11,194.6,False
+2024-04-26,Friday,April,False,False,12301,Howrah Rajdhani,New Delhi,6,7,11,193.3,False
+2024-04-26,Friday,April,False,False,12627,Karnataka Express,Bangalore,0,7,22,1.7,False
+2024-04-26,Friday,April,False,False,12627,Karnataka Express,Guntakal,1,7,22,8.9,False
+2024-04-26,Friday,April,False,False,12627,Karnataka Express,Wadi,2,7,22,7.7,False
+2024-04-26,Friday,April,False,False,12627,Karnataka Express,Solapur,3,7,22,22.4,True
+2024-04-26,Friday,April,False,False,12627,Karnataka Express,Pune,4,7,22,27.6,False
+2024-04-26,Friday,April,False,False,12627,Karnataka Express,Dadar,5,7,22,30.5,False
+2024-04-26,Friday,April,False,False,12627,Karnataka Express,New Delhi,6,7,22,34.1,False
+2024-04-26,Friday,April,False,False,12615,Grand Trunk Express,Chennai Central,0,7,6,3.2,False
+2024-04-26,Friday,April,False,False,12615,Grand Trunk Express,Vijayawada,1,7,6,9.6,False
+2024-04-26,Friday,April,False,False,12615,Grand Trunk Express,Warangal,2,7,6,8.3,False
+2024-04-26,Friday,April,False,False,12615,Grand Trunk Express,Nagpur,3,7,6,9.1,True
+2024-04-26,Friday,April,False,False,12615,Grand Trunk Express,Bhopal,4,7,6,3.9,False
+2024-04-26,Friday,April,False,False,12615,Grand Trunk Express,Jhansi,5,7,6,0.0,False
+2024-04-26,Friday,April,False,False,12615,Grand Trunk Express,New Delhi,6,7,6,0.0,False
+2024-04-26,Friday,April,False,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,16,8.0,False
+2024-04-26,Friday,April,False,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,16,3.7,False
+2024-04-26,Friday,April,False,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,16,19.3,True
+2024-04-26,Friday,April,False,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,16,20.8,False
+2024-04-26,Friday,April,False,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,16,38.3,False
+2024-04-26,Friday,April,False,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,16,51.0,False
+2024-04-27,Saturday,April,True,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,21,0.0,False
+2024-04-27,Saturday,April,True,False,12951,Mumbai Rajdhani,Vadodara,1,6,21,6.8,False
+2024-04-27,Saturday,April,True,False,12951,Mumbai Rajdhani,Ratlam,2,6,21,0.0,False
+2024-04-27,Saturday,April,True,False,12951,Mumbai Rajdhani,Kota,3,6,21,5.3,True
+2024-04-27,Saturday,April,True,False,12951,Mumbai Rajdhani,Mathura,4,6,21,0.0,False
+2024-04-27,Saturday,April,True,False,12951,Mumbai Rajdhani,New Delhi,5,6,21,0.0,False
+2024-04-27,Saturday,April,True,False,12301,Howrah Rajdhani,Howrah,0,7,6,0.1,False
+2024-04-27,Saturday,April,True,False,12301,Howrah Rajdhani,Dhanbad,1,7,6,7.3,False
+2024-04-27,Saturday,April,True,False,12301,Howrah Rajdhani,Gaya,2,7,6,9.2,False
+2024-04-27,Saturday,April,True,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,6,49.0,True
+2024-04-27,Saturday,April,True,False,12301,Howrah Rajdhani,Allahabad,4,7,6,42.7,False
+2024-04-27,Saturday,April,True,False,12301,Howrah Rajdhani,Kanpur,5,7,6,39.7,False
+2024-04-27,Saturday,April,True,False,12301,Howrah Rajdhani,New Delhi,6,7,6,33.7,False
+2024-04-27,Saturday,April,True,False,12627,Karnataka Express,Bangalore,0,7,9,0.0,False
+2024-04-27,Saturday,April,True,False,12627,Karnataka Express,Guntakal,1,7,9,0.0,False
+2024-04-27,Saturday,April,True,False,12627,Karnataka Express,Wadi,2,7,9,0.0,False
+2024-04-27,Saturday,April,True,False,12627,Karnataka Express,Solapur,3,7,9,0.0,True
+2024-04-27,Saturday,April,True,False,12627,Karnataka Express,Pune,4,7,9,0.0,False
+2024-04-27,Saturday,April,True,False,12627,Karnataka Express,Dadar,5,7,9,0.0,False
+2024-04-27,Saturday,April,True,False,12627,Karnataka Express,New Delhi,6,7,9,2.0,False
+2024-04-27,Saturday,April,True,False,12615,Grand Trunk Express,Chennai Central,0,7,17,0.0,False
+2024-04-27,Saturday,April,True,False,12615,Grand Trunk Express,Vijayawada,1,7,17,4.3,False
+2024-04-27,Saturday,April,True,False,12615,Grand Trunk Express,Warangal,2,7,17,7.5,False
+2024-04-27,Saturday,April,True,False,12615,Grand Trunk Express,Nagpur,3,7,17,16.4,True
+2024-04-27,Saturday,April,True,False,12615,Grand Trunk Express,Bhopal,4,7,17,29.0,False
+2024-04-27,Saturday,April,True,False,12615,Grand Trunk Express,Jhansi,5,7,17,28.4,False
+2024-04-27,Saturday,April,True,False,12615,Grand Trunk Express,New Delhi,6,7,17,15.4,False
+2024-04-27,Saturday,April,True,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,15,0.0,False
+2024-04-27,Saturday,April,True,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,15,0.0,False
+2024-04-27,Saturday,April,True,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,15,38.8,True
+2024-04-27,Saturday,April,True,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,15,47.2,False
+2024-04-27,Saturday,April,True,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,15,62.0,False
+2024-04-27,Saturday,April,True,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,15,81.9,False
+2024-04-28,Sunday,April,True,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,13,0.0,False
+2024-04-28,Sunday,April,True,False,12951,Mumbai Rajdhani,Vadodara,1,6,13,0.0,False
+2024-04-28,Sunday,April,True,False,12951,Mumbai Rajdhani,Ratlam,2,6,13,0.0,False
+2024-04-28,Sunday,April,True,False,12951,Mumbai Rajdhani,Kota,3,6,13,33.8,True
+2024-04-28,Sunday,April,True,False,12951,Mumbai Rajdhani,Mathura,4,6,13,37.5,False
+2024-04-28,Sunday,April,True,False,12951,Mumbai Rajdhani,New Delhi,5,6,13,43.5,False
+2024-04-28,Sunday,April,True,False,12301,Howrah Rajdhani,Howrah,0,7,7,0.0,False
+2024-04-28,Sunday,April,True,False,12301,Howrah Rajdhani,Dhanbad,1,7,7,0.0,False
+2024-04-28,Sunday,April,True,False,12301,Howrah Rajdhani,Gaya,2,7,7,0.0,False
+2024-04-28,Sunday,April,True,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,7,21.1,True
+2024-04-28,Sunday,April,True,False,12301,Howrah Rajdhani,Allahabad,4,7,7,22.3,False
+2024-04-28,Sunday,April,True,False,12301,Howrah Rajdhani,Kanpur,5,7,7,18.5,False
+2024-04-28,Sunday,April,True,False,12301,Howrah Rajdhani,New Delhi,6,7,7,9.6,False
+2024-04-28,Sunday,April,True,False,12627,Karnataka Express,Bangalore,0,7,13,6.1,False
+2024-04-28,Sunday,April,True,False,12627,Karnataka Express,Guntakal,1,7,13,0.0,False
+2024-04-28,Sunday,April,True,False,12627,Karnataka Express,Wadi,2,7,13,0.0,False
+2024-04-28,Sunday,April,True,False,12627,Karnataka Express,Solapur,3,7,13,41.0,True
+2024-04-28,Sunday,April,True,False,12627,Karnataka Express,Pune,4,7,13,35.1,False
+2024-04-28,Sunday,April,True,False,12627,Karnataka Express,Dadar,5,7,13,39.6,False
+2024-04-28,Sunday,April,True,False,12627,Karnataka Express,New Delhi,6,7,13,56.2,False
+2024-04-28,Sunday,April,True,False,12615,Grand Trunk Express,Chennai Central,0,7,8,3.1,False
+2024-04-28,Sunday,April,True,False,12615,Grand Trunk Express,Vijayawada,1,7,8,0.0,False
+2024-04-28,Sunday,April,True,False,12615,Grand Trunk Express,Warangal,2,7,8,0.0,False
+2024-04-28,Sunday,April,True,False,12615,Grand Trunk Express,Nagpur,3,7,8,104.7,True
+2024-04-28,Sunday,April,True,False,12615,Grand Trunk Express,Bhopal,4,7,8,112.6,False
+2024-04-28,Sunday,April,True,False,12615,Grand Trunk Express,Jhansi,5,7,8,109.7,False
+2024-04-28,Sunday,April,True,False,12615,Grand Trunk Express,New Delhi,6,7,8,100.8,False
+2024-04-28,Sunday,April,True,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,8,0.0,False
+2024-04-28,Sunday,April,True,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,8,0.0,False
+2024-04-28,Sunday,April,True,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,8,118.4,True
+2024-04-28,Sunday,April,True,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,8,118.9,False
+2024-04-28,Sunday,April,True,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,8,116.7,False
+2024-04-28,Sunday,April,True,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,8,119.9,False
+2024-04-29,Monday,April,False,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,21,0.0,False
+2024-04-29,Monday,April,False,False,12951,Mumbai Rajdhani,Vadodara,1,6,21,17.9,False
+2024-04-29,Monday,April,False,False,12951,Mumbai Rajdhani,Ratlam,2,6,21,15.0,False
+2024-04-29,Monday,April,False,False,12951,Mumbai Rajdhani,Kota,3,6,21,16.4,True
+2024-04-29,Monday,April,False,False,12951,Mumbai Rajdhani,Mathura,4,6,21,13.4,False
+2024-04-29,Monday,April,False,False,12951,Mumbai Rajdhani,New Delhi,5,6,21,12.4,False
+2024-04-29,Monday,April,False,False,12301,Howrah Rajdhani,Howrah,0,7,8,0.0,False
+2024-04-29,Monday,April,False,False,12301,Howrah Rajdhani,Dhanbad,1,7,8,0.2,False
+2024-04-29,Monday,April,False,False,12301,Howrah Rajdhani,Gaya,2,7,8,0.0,False
+2024-04-29,Monday,April,False,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,8,22.9,True
+2024-04-29,Monday,April,False,False,12301,Howrah Rajdhani,Allahabad,4,7,8,24.6,False
+2024-04-29,Monday,April,False,False,12301,Howrah Rajdhani,Kanpur,5,7,8,28.7,False
+2024-04-29,Monday,April,False,False,12301,Howrah Rajdhani,New Delhi,6,7,8,18.8,False
+2024-04-29,Monday,April,False,False,12627,Karnataka Express,Bangalore,0,7,10,1.9,False
+2024-04-29,Monday,April,False,False,12627,Karnataka Express,Guntakal,1,7,10,8.0,False
+2024-04-29,Monday,April,False,False,12627,Karnataka Express,Wadi,2,7,10,2.0,False
+2024-04-29,Monday,April,False,False,12627,Karnataka Express,Solapur,3,7,10,26.0,True
+2024-04-29,Monday,April,False,False,12627,Karnataka Express,Pune,4,7,10,28.1,False
+2024-04-29,Monday,April,False,False,12627,Karnataka Express,Dadar,5,7,10,28.5,False
+2024-04-29,Monday,April,False,False,12627,Karnataka Express,New Delhi,6,7,10,25.1,False
+2024-04-29,Monday,April,False,False,12615,Grand Trunk Express,Chennai Central,0,7,10,0.0,False
+2024-04-29,Monday,April,False,False,12615,Grand Trunk Express,Vijayawada,1,7,10,3.1,False
+2024-04-29,Monday,April,False,False,12615,Grand Trunk Express,Warangal,2,7,10,0.0,False
+2024-04-29,Monday,April,False,False,12615,Grand Trunk Express,Nagpur,3,7,10,15.4,True
+2024-04-29,Monday,April,False,False,12615,Grand Trunk Express,Bhopal,4,7,10,11.7,False
+2024-04-29,Monday,April,False,False,12615,Grand Trunk Express,Jhansi,5,7,10,17.9,False
+2024-04-29,Monday,April,False,False,12615,Grand Trunk Express,New Delhi,6,7,10,23.3,False
+2024-04-29,Monday,April,False,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,21,3.0,False
+2024-04-29,Monday,April,False,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,21,11.9,False
+2024-04-29,Monday,April,False,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,21,127.1,True
+2024-04-29,Monday,April,False,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,21,127.5,False
+2024-04-29,Monday,April,False,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,21,131.4,False
+2024-04-29,Monday,April,False,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,21,131.8,False
+2024-04-30,Tuesday,April,False,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,11,6.1,False
+2024-04-30,Tuesday,April,False,False,12951,Mumbai Rajdhani,Vadodara,1,6,11,2.4,False
+2024-04-30,Tuesday,April,False,False,12951,Mumbai Rajdhani,Ratlam,2,6,11,3.5,False
+2024-04-30,Tuesday,April,False,False,12951,Mumbai Rajdhani,Kota,3,6,11,44.6,True
+2024-04-30,Tuesday,April,False,False,12951,Mumbai Rajdhani,Mathura,4,6,11,46.4,False
+2024-04-30,Tuesday,April,False,False,12951,Mumbai Rajdhani,New Delhi,5,6,11,50.0,False
+2024-04-30,Tuesday,April,False,False,12301,Howrah Rajdhani,Howrah,0,7,14,4.8,False
+2024-04-30,Tuesday,April,False,False,12301,Howrah Rajdhani,Dhanbad,1,7,14,0.9,False
+2024-04-30,Tuesday,April,False,False,12301,Howrah Rajdhani,Gaya,2,7,14,0.0,False
+2024-04-30,Tuesday,April,False,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,14,3.5,True
+2024-04-30,Tuesday,April,False,False,12301,Howrah Rajdhani,Allahabad,4,7,14,20.5,False
+2024-04-30,Tuesday,April,False,False,12301,Howrah Rajdhani,Kanpur,5,7,14,41.6,False
+2024-04-30,Tuesday,April,False,False,12301,Howrah Rajdhani,New Delhi,6,7,14,69.0,False
+2024-04-30,Tuesday,April,False,False,12627,Karnataka Express,Bangalore,0,7,22,0.4,False
+2024-04-30,Tuesday,April,False,False,12627,Karnataka Express,Guntakal,1,7,22,0.0,False
+2024-04-30,Tuesday,April,False,False,12627,Karnataka Express,Wadi,2,7,22,2.8,False
+2024-04-30,Tuesday,April,False,False,12627,Karnataka Express,Solapur,3,7,22,14.9,True
+2024-04-30,Tuesday,April,False,False,12627,Karnataka Express,Pune,4,7,22,14.0,False
+2024-04-30,Tuesday,April,False,False,12627,Karnataka Express,Dadar,5,7,22,10.3,False
+2024-04-30,Tuesday,April,False,False,12627,Karnataka Express,New Delhi,6,7,22,13.0,False
+2024-04-30,Tuesday,April,False,False,12615,Grand Trunk Express,Chennai Central,0,7,19,0.0,False
+2024-04-30,Tuesday,April,False,False,12615,Grand Trunk Express,Vijayawada,1,7,19,18.5,False
+2024-04-30,Tuesday,April,False,False,12615,Grand Trunk Express,Warangal,2,7,19,30.7,False
+2024-04-30,Tuesday,April,False,False,12615,Grand Trunk Express,Nagpur,3,7,19,90.9,True
+2024-04-30,Tuesday,April,False,False,12615,Grand Trunk Express,Bhopal,4,7,19,89.4,False
+2024-04-30,Tuesday,April,False,False,12615,Grand Trunk Express,Jhansi,5,7,19,76.8,False
+2024-04-30,Tuesday,April,False,False,12615,Grand Trunk Express,New Delhi,6,7,19,77.1,False
+2024-04-30,Tuesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,12,0.0,False
+2024-04-30,Tuesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,12,0.0,False
+2024-04-30,Tuesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,12,16.7,True
+2024-04-30,Tuesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,12,17.0,False
+2024-04-30,Tuesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,12,17.3,False
+2024-04-30,Tuesday,April,False,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,12,7.4,False
+2024-05-01,Wednesday,May,False,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,12,0.0,False
+2024-05-01,Wednesday,May,False,False,12951,Mumbai Rajdhani,Vadodara,1,6,12,0.0,False
+2024-05-01,Wednesday,May,False,False,12951,Mumbai Rajdhani,Ratlam,2,6,12,0.0,False
+2024-05-01,Wednesday,May,False,False,12951,Mumbai Rajdhani,Kota,3,6,12,27.2,True
+2024-05-01,Wednesday,May,False,False,12951,Mumbai Rajdhani,Mathura,4,6,12,22.3,False
+2024-05-01,Wednesday,May,False,False,12951,Mumbai Rajdhani,New Delhi,5,6,12,24.4,False
+2024-05-01,Wednesday,May,False,False,12301,Howrah Rajdhani,Howrah,0,7,15,0.0,False
+2024-05-01,Wednesday,May,False,False,12301,Howrah Rajdhani,Dhanbad,1,7,15,0.0,False
+2024-05-01,Wednesday,May,False,False,12301,Howrah Rajdhani,Gaya,2,7,15,0.0,False
+2024-05-01,Wednesday,May,False,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,15,14.2,True
+2024-05-01,Wednesday,May,False,False,12301,Howrah Rajdhani,Allahabad,4,7,15,26.3,False
+2024-05-01,Wednesday,May,False,False,12301,Howrah Rajdhani,Kanpur,5,7,15,38.3,False
+2024-05-01,Wednesday,May,False,False,12301,Howrah Rajdhani,New Delhi,6,7,15,46.9,False
+2024-05-01,Wednesday,May,False,False,12627,Karnataka Express,Bangalore,0,7,18,4.6,False
+2024-05-01,Wednesday,May,False,False,12627,Karnataka Express,Guntakal,1,7,18,18.2,False
+2024-05-01,Wednesday,May,False,False,12627,Karnataka Express,Wadi,2,7,18,31.7,False
+2024-05-01,Wednesday,May,False,False,12627,Karnataka Express,Solapur,3,7,18,60.8,True
+2024-05-01,Wednesday,May,False,False,12627,Karnataka Express,Pune,4,7,18,72.2,False
+2024-05-01,Wednesday,May,False,False,12627,Karnataka Express,Dadar,5,7,18,69.4,False
+2024-05-01,Wednesday,May,False,False,12627,Karnataka Express,New Delhi,6,7,18,56.4,False
+2024-05-01,Wednesday,May,False,False,12615,Grand Trunk Express,Chennai Central,0,7,17,0.0,False
+2024-05-01,Wednesday,May,False,False,12615,Grand Trunk Express,Vijayawada,1,7,17,17.3,False
+2024-05-01,Wednesday,May,False,False,12615,Grand Trunk Express,Warangal,2,7,17,27.8,False
+2024-05-01,Wednesday,May,False,False,12615,Grand Trunk Express,Nagpur,3,7,17,61.3,True
+2024-05-01,Wednesday,May,False,False,12615,Grand Trunk Express,Bhopal,4,7,17,72.6,False
+2024-05-01,Wednesday,May,False,False,12615,Grand Trunk Express,Jhansi,5,7,17,81.2,False
+2024-05-01,Wednesday,May,False,False,12615,Grand Trunk Express,New Delhi,6,7,17,80.3,False
+2024-05-01,Wednesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,20,8.6,False
+2024-05-01,Wednesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,20,22.0,False
+2024-05-01,Wednesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,20,85.9,True
+2024-05-01,Wednesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,20,82.5,False
+2024-05-01,Wednesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,20,87.7,False
+2024-05-01,Wednesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,20,84.7,False
+2024-05-02,Thursday,May,False,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,22,9.1,False
+2024-05-02,Thursday,May,False,False,12951,Mumbai Rajdhani,Vadodara,1,6,22,8.7,False
+2024-05-02,Thursday,May,False,False,12951,Mumbai Rajdhani,Ratlam,2,6,22,13.3,False
+2024-05-02,Thursday,May,False,False,12951,Mumbai Rajdhani,Kota,3,6,22,76.7,True
+2024-05-02,Thursday,May,False,False,12951,Mumbai Rajdhani,Mathura,4,6,22,82.8,False
+2024-05-02,Thursday,May,False,False,12951,Mumbai Rajdhani,New Delhi,5,6,22,89.3,False
+2024-05-02,Thursday,May,False,False,12301,Howrah Rajdhani,Howrah,0,7,20,7.8,False
+2024-05-02,Thursday,May,False,False,12301,Howrah Rajdhani,Dhanbad,1,7,20,19.2,False
+2024-05-02,Thursday,May,False,False,12301,Howrah Rajdhani,Gaya,2,7,20,34.7,False
+2024-05-02,Thursday,May,False,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,20,35.7,True
+2024-05-02,Thursday,May,False,False,12301,Howrah Rajdhani,Allahabad,4,7,20,36.2,False
+2024-05-02,Thursday,May,False,False,12301,Howrah Rajdhani,Kanpur,5,7,20,34.4,False
+2024-05-02,Thursday,May,False,False,12301,Howrah Rajdhani,New Delhi,6,7,20,35.3,False
+2024-05-02,Thursday,May,False,False,12627,Karnataka Express,Bangalore,0,7,9,0.0,False
+2024-05-02,Thursday,May,False,False,12627,Karnataka Express,Guntakal,1,7,9,0.0,False
+2024-05-02,Thursday,May,False,False,12627,Karnataka Express,Wadi,2,7,9,6.0,False
+2024-05-02,Thursday,May,False,False,12627,Karnataka Express,Solapur,3,7,9,29.8,True
+2024-05-02,Thursday,May,False,False,12627,Karnataka Express,Pune,4,7,9,27.5,False
+2024-05-02,Thursday,May,False,False,12627,Karnataka Express,Dadar,5,7,9,25.4,False
+2024-05-02,Thursday,May,False,False,12627,Karnataka Express,New Delhi,6,7,9,26.8,False
+2024-05-02,Thursday,May,False,False,12615,Grand Trunk Express,Chennai Central,0,7,13,0.0,False
+2024-05-02,Thursday,May,False,False,12615,Grand Trunk Express,Vijayawada,1,7,13,0.0,False
+2024-05-02,Thursday,May,False,False,12615,Grand Trunk Express,Warangal,2,7,13,4.4,False
+2024-05-02,Thursday,May,False,False,12615,Grand Trunk Express,Nagpur,3,7,13,19.5,True
+2024-05-02,Thursday,May,False,False,12615,Grand Trunk Express,Bhopal,4,7,13,26.0,False
+2024-05-02,Thursday,May,False,False,12615,Grand Trunk Express,Jhansi,5,7,13,40.6,False
+2024-05-02,Thursday,May,False,False,12615,Grand Trunk Express,New Delhi,6,7,13,57.0,False
+2024-05-02,Thursday,May,False,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,13,2.3,False
+2024-05-02,Thursday,May,False,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,13,13.1,False
+2024-05-02,Thursday,May,False,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,13,107.7,True
+2024-05-02,Thursday,May,False,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,13,112.3,False
+2024-05-02,Thursday,May,False,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,13,119.6,False
+2024-05-02,Thursday,May,False,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,13,146.0,False
+2024-05-03,Friday,May,False,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,8,2.7,False
+2024-05-03,Friday,May,False,False,12951,Mumbai Rajdhani,Vadodara,1,6,8,8.1,False
+2024-05-03,Friday,May,False,False,12951,Mumbai Rajdhani,Ratlam,2,6,8,6.2,False
+2024-05-03,Friday,May,False,False,12951,Mumbai Rajdhani,Kota,3,6,8,67.8,True
+2024-05-03,Friday,May,False,False,12951,Mumbai Rajdhani,Mathura,4,6,8,64.9,False
+2024-05-03,Friday,May,False,False,12951,Mumbai Rajdhani,New Delhi,5,6,8,58.5,False
+2024-05-03,Friday,May,False,False,12301,Howrah Rajdhani,Howrah,0,7,16,0.0,False
+2024-05-03,Friday,May,False,False,12301,Howrah Rajdhani,Dhanbad,1,7,16,0.0,False
+2024-05-03,Friday,May,False,False,12301,Howrah Rajdhani,Gaya,2,7,16,15.3,False
+2024-05-03,Friday,May,False,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,16,31.3,True
+2024-05-03,Friday,May,False,False,12301,Howrah Rajdhani,Allahabad,4,7,16,45.7,False
+2024-05-03,Friday,May,False,False,12301,Howrah Rajdhani,Kanpur,5,7,16,67.9,False
+2024-05-03,Friday,May,False,False,12301,Howrah Rajdhani,New Delhi,6,7,16,84.6,False
+2024-05-03,Friday,May,False,False,12627,Karnataka Express,Bangalore,0,7,6,1.4,False
+2024-05-03,Friday,May,False,False,12627,Karnataka Express,Guntakal,1,7,6,7.5,False
+2024-05-03,Friday,May,False,False,12627,Karnataka Express,Wadi,2,7,6,6.8,False
+2024-05-03,Friday,May,False,False,12627,Karnataka Express,Solapur,3,7,6,37.9,True
+2024-05-03,Friday,May,False,False,12627,Karnataka Express,Pune,4,7,6,41.6,False
+2024-05-03,Friday,May,False,False,12627,Karnataka Express,Dadar,5,7,6,42.5,False
+2024-05-03,Friday,May,False,False,12627,Karnataka Express,New Delhi,6,7,6,36.0,False
+2024-05-03,Friday,May,False,False,12615,Grand Trunk Express,Chennai Central,0,7,13,2.0,False
+2024-05-03,Friday,May,False,False,12615,Grand Trunk Express,Vijayawada,1,7,13,0.0,False
+2024-05-03,Friday,May,False,False,12615,Grand Trunk Express,Warangal,2,7,13,0.0,False
+2024-05-03,Friday,May,False,False,12615,Grand Trunk Express,Nagpur,3,7,13,20.6,True
+2024-05-03,Friday,May,False,False,12615,Grand Trunk Express,Bhopal,4,7,13,23.0,False
+2024-05-03,Friday,May,False,False,12615,Grand Trunk Express,Jhansi,5,7,13,42.1,False
+2024-05-03,Friday,May,False,False,12615,Grand Trunk Express,New Delhi,6,7,13,56.2,False
+2024-05-03,Friday,May,False,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,13,13.0,False
+2024-05-03,Friday,May,False,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,13,22.1,False
+2024-05-03,Friday,May,False,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,13,76.8,True
+2024-05-03,Friday,May,False,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,13,83.3,False
+2024-05-03,Friday,May,False,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,13,86.7,False
+2024-05-03,Friday,May,False,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,13,96.1,False
+2024-05-04,Saturday,May,True,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,6,0.0,False
+2024-05-04,Saturday,May,True,False,12951,Mumbai Rajdhani,Vadodara,1,6,6,0.0,False
+2024-05-04,Saturday,May,True,False,12951,Mumbai Rajdhani,Ratlam,2,6,6,0.0,False
+2024-05-04,Saturday,May,True,False,12951,Mumbai Rajdhani,Kota,3,6,6,7.1,True
+2024-05-04,Saturday,May,True,False,12951,Mumbai Rajdhani,Mathura,4,6,6,0.0,False
+2024-05-04,Saturday,May,True,False,12951,Mumbai Rajdhani,New Delhi,5,6,6,3.4,False
+2024-05-04,Saturday,May,True,False,12301,Howrah Rajdhani,Howrah,0,7,8,0.0,False
+2024-05-04,Saturday,May,True,False,12301,Howrah Rajdhani,Dhanbad,1,7,8,0.0,False
+2024-05-04,Saturday,May,True,False,12301,Howrah Rajdhani,Gaya,2,7,8,0.0,False
+2024-05-04,Saturday,May,True,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,8,21.2,True
+2024-05-04,Saturday,May,True,False,12301,Howrah Rajdhani,Allahabad,4,7,8,13.1,False
+2024-05-04,Saturday,May,True,False,12301,Howrah Rajdhani,Kanpur,5,7,8,0.9,False
+2024-05-04,Saturday,May,True,False,12301,Howrah Rajdhani,New Delhi,6,7,8,0.0,False
+2024-05-04,Saturday,May,True,False,12627,Karnataka Express,Bangalore,0,7,7,0.0,False
+2024-05-04,Saturday,May,True,False,12627,Karnataka Express,Guntakal,1,7,7,0.0,False
+2024-05-04,Saturday,May,True,False,12627,Karnataka Express,Wadi,2,7,7,0.0,False
+2024-05-04,Saturday,May,True,False,12627,Karnataka Express,Solapur,3,7,7,16.5,True
+2024-05-04,Saturday,May,True,False,12627,Karnataka Express,Pune,4,7,7,12.7,False
+2024-05-04,Saturday,May,True,False,12627,Karnataka Express,Dadar,5,7,7,12.3,False
+2024-05-04,Saturday,May,True,False,12627,Karnataka Express,New Delhi,6,7,7,0.2,False
+2024-05-04,Saturday,May,True,False,12615,Grand Trunk Express,Chennai Central,0,7,13,0.0,False
+2024-05-04,Saturday,May,True,False,12615,Grand Trunk Express,Vijayawada,1,7,13,0.0,False
+2024-05-04,Saturday,May,True,False,12615,Grand Trunk Express,Warangal,2,7,13,1.3,False
+2024-05-04,Saturday,May,True,False,12615,Grand Trunk Express,Nagpur,3,7,13,19.3,True
+2024-05-04,Saturday,May,True,False,12615,Grand Trunk Express,Bhopal,4,7,13,27.0,False
+2024-05-04,Saturday,May,True,False,12615,Grand Trunk Express,Jhansi,5,7,13,38.3,False
+2024-05-04,Saturday,May,True,False,12615,Grand Trunk Express,New Delhi,6,7,13,45.5,False
+2024-05-04,Saturday,May,True,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,8,3.2,False
+2024-05-04,Saturday,May,True,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,8,2.9,False
+2024-05-04,Saturday,May,True,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,8,38.4,True
+2024-05-04,Saturday,May,True,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,8,37.5,False
+2024-05-04,Saturday,May,True,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,8,28.4,False
+2024-05-04,Saturday,May,True,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,8,23.4,False
+2024-05-05,Sunday,May,True,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,7,0.0,False
+2024-05-05,Sunday,May,True,False,12951,Mumbai Rajdhani,Vadodara,1,6,7,0.0,False
+2024-05-05,Sunday,May,True,False,12951,Mumbai Rajdhani,Ratlam,2,6,7,0.0,False
+2024-05-05,Sunday,May,True,False,12951,Mumbai Rajdhani,Kota,3,6,7,38.6,True
+2024-05-05,Sunday,May,True,False,12951,Mumbai Rajdhani,Mathura,4,6,7,19.8,False
+2024-05-05,Sunday,May,True,False,12951,Mumbai Rajdhani,New Delhi,5,6,7,18.8,False
+2024-05-05,Sunday,May,True,False,12301,Howrah Rajdhani,Howrah,0,7,16,0.0,False
+2024-05-05,Sunday,May,True,False,12301,Howrah Rajdhani,Dhanbad,1,7,16,0.0,False
+2024-05-05,Sunday,May,True,False,12301,Howrah Rajdhani,Gaya,2,7,16,3.0,False
+2024-05-05,Sunday,May,True,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,16,37.5,True
+2024-05-05,Sunday,May,True,False,12301,Howrah Rajdhani,Allahabad,4,7,16,43.7,False
+2024-05-05,Sunday,May,True,False,12301,Howrah Rajdhani,Kanpur,5,7,16,65.8,False
+2024-05-05,Sunday,May,True,False,12301,Howrah Rajdhani,New Delhi,6,7,16,78.1,False
+2024-05-05,Sunday,May,True,False,12627,Karnataka Express,Bangalore,0,7,8,0.0,False
+2024-05-05,Sunday,May,True,False,12627,Karnataka Express,Guntakal,1,7,8,1.0,False
+2024-05-05,Sunday,May,True,False,12627,Karnataka Express,Wadi,2,7,8,0.0,False
+2024-05-05,Sunday,May,True,False,12627,Karnataka Express,Solapur,3,7,8,0.0,True
+2024-05-05,Sunday,May,True,False,12627,Karnataka Express,Pune,4,7,8,0.0,False
+2024-05-05,Sunday,May,True,False,12627,Karnataka Express,Dadar,5,7,8,0.0,False
+2024-05-05,Sunday,May,True,False,12627,Karnataka Express,New Delhi,6,7,8,0.0,False
+2024-05-05,Sunday,May,True,False,12615,Grand Trunk Express,Chennai Central,0,7,22,0.0,False
+2024-05-05,Sunday,May,True,False,12615,Grand Trunk Express,Vijayawada,1,7,22,0.0,False
+2024-05-05,Sunday,May,True,False,12615,Grand Trunk Express,Warangal,2,7,22,0.2,False
+2024-05-05,Sunday,May,True,False,12615,Grand Trunk Express,Nagpur,3,7,22,40.3,True
+2024-05-05,Sunday,May,True,False,12615,Grand Trunk Express,Bhopal,4,7,22,37.9,False
+2024-05-05,Sunday,May,True,False,12615,Grand Trunk Express,Jhansi,5,7,22,30.2,False
+2024-05-05,Sunday,May,True,False,12615,Grand Trunk Express,New Delhi,6,7,22,19.4,False
+2024-05-05,Sunday,May,True,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,13,0.0,False
+2024-05-05,Sunday,May,True,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,13,0.0,False
+2024-05-05,Sunday,May,True,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,13,18.2,True
+2024-05-05,Sunday,May,True,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,13,17.7,False
+2024-05-05,Sunday,May,True,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,13,16.6,False
+2024-05-05,Sunday,May,True,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,13,24.7,False
+2024-05-06,Monday,May,False,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,14,0.0,False
+2024-05-06,Monday,May,False,False,12951,Mumbai Rajdhani,Vadodara,1,6,14,3.8,False
+2024-05-06,Monday,May,False,False,12951,Mumbai Rajdhani,Ratlam,2,6,14,10.0,False
+2024-05-06,Monday,May,False,False,12951,Mumbai Rajdhani,Kota,3,6,14,17.0,True
+2024-05-06,Monday,May,False,False,12951,Mumbai Rajdhani,Mathura,4,6,14,28.5,False
+2024-05-06,Monday,May,False,False,12951,Mumbai Rajdhani,New Delhi,5,6,14,40.1,False
+2024-05-06,Monday,May,False,False,12301,Howrah Rajdhani,Howrah,0,7,21,1.8,False
+2024-05-06,Monday,May,False,False,12301,Howrah Rajdhani,Dhanbad,1,7,21,20.0,False
+2024-05-06,Monday,May,False,False,12301,Howrah Rajdhani,Gaya,2,7,21,18.6,False
+2024-05-06,Monday,May,False,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,21,17.6,True
+2024-05-06,Monday,May,False,False,12301,Howrah Rajdhani,Allahabad,4,7,21,17.5,False
+2024-05-06,Monday,May,False,False,12301,Howrah Rajdhani,Kanpur,5,7,21,5.4,False
+2024-05-06,Monday,May,False,False,12301,Howrah Rajdhani,New Delhi,6,7,21,9.8,False
+2024-05-06,Monday,May,False,False,12627,Karnataka Express,Bangalore,0,7,12,3.7,False
+2024-05-06,Monday,May,False,False,12627,Karnataka Express,Guntakal,1,7,12,2.3,False
+2024-05-06,Monday,May,False,False,12627,Karnataka Express,Wadi,2,7,12,2.6,False
+2024-05-06,Monday,May,False,False,12627,Karnataka Express,Solapur,3,7,12,74.2,True
+2024-05-06,Monday,May,False,False,12627,Karnataka Express,Pune,4,7,12,73.7,False
+2024-05-06,Monday,May,False,False,12627,Karnataka Express,Dadar,5,7,12,70.7,False
+2024-05-06,Monday,May,False,False,12627,Karnataka Express,New Delhi,6,7,12,94.9,False
+2024-05-06,Monday,May,False,False,12615,Grand Trunk Express,Chennai Central,0,7,10,0.0,False
+2024-05-06,Monday,May,False,False,12615,Grand Trunk Express,Vijayawada,1,7,10,4.0,False
+2024-05-06,Monday,May,False,False,12615,Grand Trunk Express,Warangal,2,7,10,0.0,False
+2024-05-06,Monday,May,False,False,12615,Grand Trunk Express,Nagpur,3,7,10,17.1,True
+2024-05-06,Monday,May,False,False,12615,Grand Trunk Express,Bhopal,4,7,10,10.3,False
+2024-05-06,Monday,May,False,False,12615,Grand Trunk Express,Jhansi,5,7,10,10.7,False
+2024-05-06,Monday,May,False,False,12615,Grand Trunk Express,New Delhi,6,7,10,12.4,False
+2024-05-06,Monday,May,False,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,21,0.0,False
+2024-05-06,Monday,May,False,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,21,10.7,False
+2024-05-06,Monday,May,False,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,21,34.4,True
+2024-05-06,Monday,May,False,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,21,32.2,False
+2024-05-06,Monday,May,False,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,21,27.1,False
+2024-05-06,Monday,May,False,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,21,27.4,False
+2024-05-07,Tuesday,May,False,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,13,2.1,False
+2024-05-07,Tuesday,May,False,False,12951,Mumbai Rajdhani,Vadodara,1,6,13,5.6,False
+2024-05-07,Tuesday,May,False,False,12951,Mumbai Rajdhani,Ratlam,2,6,13,6.5,False
+2024-05-07,Tuesday,May,False,False,12951,Mumbai Rajdhani,Kota,3,6,13,24.3,True
+2024-05-07,Tuesday,May,False,False,12951,Mumbai Rajdhani,Mathura,4,6,13,23.8,False
+2024-05-07,Tuesday,May,False,False,12951,Mumbai Rajdhani,New Delhi,5,6,13,34.6,False
+2024-05-07,Tuesday,May,False,False,12301,Howrah Rajdhani,Howrah,0,7,21,2.2,False
+2024-05-07,Tuesday,May,False,False,12301,Howrah Rajdhani,Dhanbad,1,7,21,20.8,False
+2024-05-07,Tuesday,May,False,False,12301,Howrah Rajdhani,Gaya,2,7,21,23.9,False
+2024-05-07,Tuesday,May,False,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,21,35.8,True
+2024-05-07,Tuesday,May,False,False,12301,Howrah Rajdhani,Allahabad,4,7,21,42.8,False
+2024-05-07,Tuesday,May,False,False,12301,Howrah Rajdhani,Kanpur,5,7,21,43.1,False
+2024-05-07,Tuesday,May,False,False,12301,Howrah Rajdhani,New Delhi,6,7,21,39.8,False
+2024-05-07,Tuesday,May,False,False,12627,Karnataka Express,Bangalore,0,7,19,0.0,False
+2024-05-07,Tuesday,May,False,False,12627,Karnataka Express,Guntakal,1,7,19,8.4,False
+2024-05-07,Tuesday,May,False,False,12627,Karnataka Express,Wadi,2,7,19,17.7,False
+2024-05-07,Tuesday,May,False,False,12627,Karnataka Express,Solapur,3,7,19,42.8,True
+2024-05-07,Tuesday,May,False,False,12627,Karnataka Express,Pune,4,7,19,51.0,False
+2024-05-07,Tuesday,May,False,False,12627,Karnataka Express,Dadar,5,7,19,49.5,False
+2024-05-07,Tuesday,May,False,False,12627,Karnataka Express,New Delhi,6,7,19,41.7,False
+2024-05-07,Tuesday,May,False,False,12615,Grand Trunk Express,Chennai Central,0,7,12,4.4,False
+2024-05-07,Tuesday,May,False,False,12615,Grand Trunk Express,Vijayawada,1,7,12,4.0,False
+2024-05-07,Tuesday,May,False,False,12615,Grand Trunk Express,Warangal,2,7,12,3.1,False
+2024-05-07,Tuesday,May,False,False,12615,Grand Trunk Express,Nagpur,3,7,12,21.9,True
+2024-05-07,Tuesday,May,False,False,12615,Grand Trunk Express,Bhopal,4,7,12,27.1,False
+2024-05-07,Tuesday,May,False,False,12615,Grand Trunk Express,Jhansi,5,7,12,29.6,False
+2024-05-07,Tuesday,May,False,False,12615,Grand Trunk Express,New Delhi,6,7,12,55.8,False
+2024-05-07,Tuesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,9,0.0,False
+2024-05-07,Tuesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,9,0.6,False
+2024-05-07,Tuesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,9,1.8,True
+2024-05-07,Tuesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,9,3.6,False
+2024-05-07,Tuesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,9,10.5,False
+2024-05-07,Tuesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,9,16.4,False
+2024-05-08,Wednesday,May,False,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,9,2.7,False
+2024-05-08,Wednesday,May,False,False,12951,Mumbai Rajdhani,Vadodara,1,6,9,6.5,False
+2024-05-08,Wednesday,May,False,False,12951,Mumbai Rajdhani,Ratlam,2,6,9,5.6,False
+2024-05-08,Wednesday,May,False,False,12951,Mumbai Rajdhani,Kota,3,6,9,29.2,True
+2024-05-08,Wednesday,May,False,False,12951,Mumbai Rajdhani,Mathura,4,6,9,29.8,False
+2024-05-08,Wednesday,May,False,False,12951,Mumbai Rajdhani,New Delhi,5,6,9,26.6,False
+2024-05-08,Wednesday,May,False,False,12301,Howrah Rajdhani,Howrah,0,7,19,5.1,False
+2024-05-08,Wednesday,May,False,False,12301,Howrah Rajdhani,Dhanbad,1,7,19,23.7,False
+2024-05-08,Wednesday,May,False,False,12301,Howrah Rajdhani,Gaya,2,7,19,37.5,False
+2024-05-08,Wednesday,May,False,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,19,107.4,True
+2024-05-08,Wednesday,May,False,False,12301,Howrah Rajdhani,Allahabad,4,7,19,104.8,False
+2024-05-08,Wednesday,May,False,False,12301,Howrah Rajdhani,Kanpur,5,7,19,103.8,False
+2024-05-08,Wednesday,May,False,False,12301,Howrah Rajdhani,New Delhi,6,7,19,98.0,False
+2024-05-08,Wednesday,May,False,False,12627,Karnataka Express,Bangalore,0,7,17,0.0,False
+2024-05-08,Wednesday,May,False,False,12627,Karnataka Express,Guntakal,1,7,17,19.8,False
+2024-05-08,Wednesday,May,False,False,12627,Karnataka Express,Wadi,2,7,17,39.6,False
+2024-05-08,Wednesday,May,False,False,12627,Karnataka Express,Solapur,3,7,17,80.1,True
+2024-05-08,Wednesday,May,False,False,12627,Karnataka Express,Pune,4,7,17,97.5,False
+2024-05-08,Wednesday,May,False,False,12627,Karnataka Express,Dadar,5,7,17,123.4,False
+2024-05-08,Wednesday,May,False,False,12627,Karnataka Express,New Delhi,6,7,17,117.5,False
+2024-05-08,Wednesday,May,False,False,12615,Grand Trunk Express,Chennai Central,0,7,19,0.0,False
+2024-05-08,Wednesday,May,False,False,12615,Grand Trunk Express,Vijayawada,1,7,19,23.1,False
+2024-05-08,Wednesday,May,False,False,12615,Grand Trunk Express,Warangal,2,7,19,55.0,False
+2024-05-08,Wednesday,May,False,False,12615,Grand Trunk Express,Nagpur,3,7,19,79.7,True
+2024-05-08,Wednesday,May,False,False,12615,Grand Trunk Express,Bhopal,4,7,19,78.0,False
+2024-05-08,Wednesday,May,False,False,12615,Grand Trunk Express,Jhansi,5,7,19,78.8,False
+2024-05-08,Wednesday,May,False,False,12615,Grand Trunk Express,New Delhi,6,7,19,85.4,False
+2024-05-08,Wednesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,19,0.0,False
+2024-05-08,Wednesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,19,23.9,False
+2024-05-08,Wednesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,19,48.6,True
+2024-05-08,Wednesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,19,58.9,False
+2024-05-08,Wednesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,19,61.7,False
+2024-05-08,Wednesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,19,57.5,False
+2024-05-09,Thursday,May,False,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,20,0.0,False
+2024-05-09,Thursday,May,False,False,12951,Mumbai Rajdhani,Vadodara,1,6,20,12.4,False
+2024-05-09,Thursday,May,False,False,12951,Mumbai Rajdhani,Ratlam,2,6,20,32.5,False
+2024-05-09,Thursday,May,False,False,12951,Mumbai Rajdhani,Kota,3,6,20,49.6,True
+2024-05-09,Thursday,May,False,False,12951,Mumbai Rajdhani,Mathura,4,6,20,49.1,False
+2024-05-09,Thursday,May,False,False,12951,Mumbai Rajdhani,New Delhi,5,6,20,55.2,False
+2024-05-09,Thursday,May,False,False,12301,Howrah Rajdhani,Howrah,0,7,7,0.2,False
+2024-05-09,Thursday,May,False,False,12301,Howrah Rajdhani,Dhanbad,1,7,7,0.9,False
+2024-05-09,Thursday,May,False,False,12301,Howrah Rajdhani,Gaya,2,7,7,2.7,False
+2024-05-09,Thursday,May,False,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,7,8.6,True
+2024-05-09,Thursday,May,False,False,12301,Howrah Rajdhani,Allahabad,4,7,7,6.3,False
+2024-05-09,Thursday,May,False,False,12301,Howrah Rajdhani,Kanpur,5,7,7,7.3,False
+2024-05-09,Thursday,May,False,False,12301,Howrah Rajdhani,New Delhi,6,7,7,8.7,False
+2024-05-09,Thursday,May,False,False,12627,Karnataka Express,Bangalore,0,7,9,0.0,False
+2024-05-09,Thursday,May,False,False,12627,Karnataka Express,Guntakal,1,7,9,2.9,False
+2024-05-09,Thursday,May,False,False,12627,Karnataka Express,Wadi,2,7,9,0.6,False
+2024-05-09,Thursday,May,False,False,12627,Karnataka Express,Solapur,3,7,9,34.5,True
+2024-05-09,Thursday,May,False,False,12627,Karnataka Express,Pune,4,7,9,27.8,False
+2024-05-09,Thursday,May,False,False,12627,Karnataka Express,Dadar,5,7,9,18.1,False
+2024-05-09,Thursday,May,False,False,12627,Karnataka Express,New Delhi,6,7,9,18.8,False
+2024-05-09,Thursday,May,False,False,12615,Grand Trunk Express,Chennai Central,0,7,7,5.1,False
+2024-05-09,Thursday,May,False,False,12615,Grand Trunk Express,Vijayawada,1,7,7,0.0,False
+2024-05-09,Thursday,May,False,False,12615,Grand Trunk Express,Warangal,2,7,7,3.6,False
+2024-05-09,Thursday,May,False,False,12615,Grand Trunk Express,Nagpur,3,7,7,34.3,True
+2024-05-09,Thursday,May,False,False,12615,Grand Trunk Express,Bhopal,4,7,7,36.3,False
+2024-05-09,Thursday,May,False,False,12615,Grand Trunk Express,Jhansi,5,7,7,35.1,False
+2024-05-09,Thursday,May,False,False,12615,Grand Trunk Express,New Delhi,6,7,7,38.5,False
+2024-05-09,Thursday,May,False,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,18,9.5,False
+2024-05-09,Thursday,May,False,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,18,19.6,False
+2024-05-09,Thursday,May,False,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,18,41.8,True
+2024-05-09,Thursday,May,False,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,18,56.5,False
+2024-05-09,Thursday,May,False,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,18,75.3,False
+2024-05-09,Thursday,May,False,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,18,78.8,False
+2024-05-10,Friday,May,False,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,16,0.0,False
+2024-05-10,Friday,May,False,False,12951,Mumbai Rajdhani,Vadodara,1,6,16,2.6,False
+2024-05-10,Friday,May,False,False,12951,Mumbai Rajdhani,Ratlam,2,6,16,18.8,False
+2024-05-10,Friday,May,False,False,12951,Mumbai Rajdhani,Kota,3,6,16,50.2,True
+2024-05-10,Friday,May,False,False,12951,Mumbai Rajdhani,Mathura,4,6,16,58.7,False
+2024-05-10,Friday,May,False,False,12951,Mumbai Rajdhani,New Delhi,5,6,16,71.5,False
+2024-05-10,Friday,May,False,False,12301,Howrah Rajdhani,Howrah,0,7,9,9.2,False
+2024-05-10,Friday,May,False,False,12301,Howrah Rajdhani,Dhanbad,1,7,9,0.0,False
+2024-05-10,Friday,May,False,False,12301,Howrah Rajdhani,Gaya,2,7,9,0.0,False
+2024-05-10,Friday,May,False,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,9,0.9,True
+2024-05-10,Friday,May,False,False,12301,Howrah Rajdhani,Allahabad,4,7,9,4.8,False
+2024-05-10,Friday,May,False,False,12301,Howrah Rajdhani,Kanpur,5,7,9,9.5,False
+2024-05-10,Friday,May,False,False,12301,Howrah Rajdhani,New Delhi,6,7,9,18.1,False
+2024-05-10,Friday,May,False,False,12627,Karnataka Express,Bangalore,0,7,13,0.0,False
+2024-05-10,Friday,May,False,False,12627,Karnataka Express,Guntakal,1,7,13,0.0,False
+2024-05-10,Friday,May,False,False,12627,Karnataka Express,Wadi,2,7,13,0.4,False
+2024-05-10,Friday,May,False,False,12627,Karnataka Express,Solapur,3,7,13,7.8,True
+2024-05-10,Friday,May,False,False,12627,Karnataka Express,Pune,4,7,13,9.5,False
+2024-05-10,Friday,May,False,False,12627,Karnataka Express,Dadar,5,7,13,26.5,False
+2024-05-10,Friday,May,False,False,12627,Karnataka Express,New Delhi,6,7,13,50.2,False
+2024-05-10,Friday,May,False,False,12615,Grand Trunk Express,Chennai Central,0,7,12,2.5,False
+2024-05-10,Friday,May,False,False,12615,Grand Trunk Express,Vijayawada,1,7,12,5.8,False
+2024-05-10,Friday,May,False,False,12615,Grand Trunk Express,Warangal,2,7,12,19.2,False
+2024-05-10,Friday,May,False,False,12615,Grand Trunk Express,Nagpur,3,7,12,24.4,True
+2024-05-10,Friday,May,False,False,12615,Grand Trunk Express,Bhopal,4,7,12,21.0,False
+2024-05-10,Friday,May,False,False,12615,Grand Trunk Express,Jhansi,5,7,12,23.5,False
+2024-05-10,Friday,May,False,False,12615,Grand Trunk Express,New Delhi,6,7,12,49.3,False
+2024-05-10,Friday,May,False,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,12,10.5,False
+2024-05-10,Friday,May,False,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,12,5.0,False
+2024-05-10,Friday,May,False,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,12,41.4,True
+2024-05-10,Friday,May,False,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,12,50.1,False
+2024-05-10,Friday,May,False,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,12,50.5,False
+2024-05-10,Friday,May,False,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,12,42.5,False
+2024-05-11,Saturday,May,True,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,20,0.0,False
+2024-05-11,Saturday,May,True,False,12951,Mumbai Rajdhani,Vadodara,1,6,20,7.3,False
+2024-05-11,Saturday,May,True,False,12951,Mumbai Rajdhani,Ratlam,2,6,20,20.4,False
+2024-05-11,Saturday,May,True,False,12951,Mumbai Rajdhani,Kota,3,6,20,35.8,True
+2024-05-11,Saturday,May,True,False,12951,Mumbai Rajdhani,Mathura,4,6,20,27.6,False
+2024-05-11,Saturday,May,True,False,12951,Mumbai Rajdhani,New Delhi,5,6,20,23.6,False
+2024-05-11,Saturday,May,True,False,12301,Howrah Rajdhani,Howrah,0,7,10,0.0,False
+2024-05-11,Saturday,May,True,False,12301,Howrah Rajdhani,Dhanbad,1,7,10,0.0,False
+2024-05-11,Saturday,May,True,False,12301,Howrah Rajdhani,Gaya,2,7,10,0.0,False
+2024-05-11,Saturday,May,True,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,10,0.0,True
+2024-05-11,Saturday,May,True,False,12301,Howrah Rajdhani,Allahabad,4,7,10,0.0,False
+2024-05-11,Saturday,May,True,False,12301,Howrah Rajdhani,Kanpur,5,7,10,0.0,False
+2024-05-11,Saturday,May,True,False,12301,Howrah Rajdhani,New Delhi,6,7,10,0.0,False
+2024-05-11,Saturday,May,True,False,12627,Karnataka Express,Bangalore,0,7,19,0.0,False
+2024-05-11,Saturday,May,True,False,12627,Karnataka Express,Guntakal,1,7,19,5.5,False
+2024-05-11,Saturday,May,True,False,12627,Karnataka Express,Wadi,2,7,19,3.3,False
+2024-05-11,Saturday,May,True,False,12627,Karnataka Express,Solapur,3,7,19,53.0,True
+2024-05-11,Saturday,May,True,False,12627,Karnataka Express,Pune,4,7,19,44.2,False
+2024-05-11,Saturday,May,True,False,12627,Karnataka Express,Dadar,5,7,19,29.9,False
+2024-05-11,Saturday,May,True,False,12627,Karnataka Express,New Delhi,6,7,19,25.4,False
+2024-05-11,Saturday,May,True,False,12615,Grand Trunk Express,Chennai Central,0,7,11,0.0,False
+2024-05-11,Saturday,May,True,False,12615,Grand Trunk Express,Vijayawada,1,7,11,0.0,False
+2024-05-11,Saturday,May,True,False,12615,Grand Trunk Express,Warangal,2,7,11,0.0,False
+2024-05-11,Saturday,May,True,False,12615,Grand Trunk Express,Nagpur,3,7,11,0.0,True
+2024-05-11,Saturday,May,True,False,12615,Grand Trunk Express,Bhopal,4,7,11,0.0,False
+2024-05-11,Saturday,May,True,False,12615,Grand Trunk Express,Jhansi,5,7,11,0.0,False
+2024-05-11,Saturday,May,True,False,12615,Grand Trunk Express,New Delhi,6,7,11,0.0,False
+2024-05-11,Saturday,May,True,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,14,0.4,False
+2024-05-11,Saturday,May,True,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,14,0.0,False
+2024-05-11,Saturday,May,True,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,14,4.3,True
+2024-05-11,Saturday,May,True,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,14,0.0,False
+2024-05-11,Saturday,May,True,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,14,6.2,False
+2024-05-11,Saturday,May,True,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,14,18.1,False
+2024-05-12,Sunday,May,True,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,20,2.7,False
+2024-05-12,Sunday,May,True,False,12951,Mumbai Rajdhani,Vadodara,1,6,20,15.2,False
+2024-05-12,Sunday,May,True,False,12951,Mumbai Rajdhani,Ratlam,2,6,20,18.3,False
+2024-05-12,Sunday,May,True,False,12951,Mumbai Rajdhani,Kota,3,6,20,20.7,True
+2024-05-12,Sunday,May,True,False,12951,Mumbai Rajdhani,Mathura,4,6,20,4.6,False
+2024-05-12,Sunday,May,True,False,12951,Mumbai Rajdhani,New Delhi,5,6,20,0.0,False
+2024-05-12,Sunday,May,True,False,12301,Howrah Rajdhani,Howrah,0,7,13,0.0,False
+2024-05-12,Sunday,May,True,False,12301,Howrah Rajdhani,Dhanbad,1,7,13,0.0,False
+2024-05-12,Sunday,May,True,False,12301,Howrah Rajdhani,Gaya,2,7,13,0.0,False
+2024-05-12,Sunday,May,True,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,13,64.9,True
+2024-05-12,Sunday,May,True,False,12301,Howrah Rajdhani,Allahabad,4,7,13,56.7,False
+2024-05-12,Sunday,May,True,False,12301,Howrah Rajdhani,Kanpur,5,7,13,71.4,False
+2024-05-12,Sunday,May,True,False,12301,Howrah Rajdhani,New Delhi,6,7,13,88.2,False
+2024-05-12,Sunday,May,True,False,12627,Karnataka Express,Bangalore,0,7,8,0.0,False
+2024-05-12,Sunday,May,True,False,12627,Karnataka Express,Guntakal,1,7,8,0.0,False
+2024-05-12,Sunday,May,True,False,12627,Karnataka Express,Wadi,2,7,8,0.0,False
+2024-05-12,Sunday,May,True,False,12627,Karnataka Express,Solapur,3,7,8,1.4,True
+2024-05-12,Sunday,May,True,False,12627,Karnataka Express,Pune,4,7,8,0.0,False
+2024-05-12,Sunday,May,True,False,12627,Karnataka Express,Dadar,5,7,8,0.0,False
+2024-05-12,Sunday,May,True,False,12627,Karnataka Express,New Delhi,6,7,8,0.0,False
+2024-05-12,Sunday,May,True,False,12615,Grand Trunk Express,Chennai Central,0,7,20,0.0,False
+2024-05-12,Sunday,May,True,False,12615,Grand Trunk Express,Vijayawada,1,7,20,18.8,False
+2024-05-12,Sunday,May,True,False,12615,Grand Trunk Express,Warangal,2,7,20,22.6,False
+2024-05-12,Sunday,May,True,False,12615,Grand Trunk Express,Nagpur,3,7,20,40.5,True
+2024-05-12,Sunday,May,True,False,12615,Grand Trunk Express,Bhopal,4,7,20,39.2,False
+2024-05-12,Sunday,May,True,False,12615,Grand Trunk Express,Jhansi,5,7,20,39.0,False
+2024-05-12,Sunday,May,True,False,12615,Grand Trunk Express,New Delhi,6,7,20,36.1,False
+2024-05-12,Sunday,May,True,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,9,0.0,False
+2024-05-12,Sunday,May,True,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,9,3.9,False
+2024-05-12,Sunday,May,True,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,9,2.1,True
+2024-05-12,Sunday,May,True,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,9,1.6,False
+2024-05-12,Sunday,May,True,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,9,0.0,False
+2024-05-12,Sunday,May,True,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,9,2.2,False
+2024-05-13,Monday,May,False,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,7,2.6,False
+2024-05-13,Monday,May,False,False,12951,Mumbai Rajdhani,Vadodara,1,6,7,5.1,False
+2024-05-13,Monday,May,False,False,12951,Mumbai Rajdhani,Ratlam,2,6,7,0.0,False
+2024-05-13,Monday,May,False,False,12951,Mumbai Rajdhani,Kota,3,6,7,18.4,True
+2024-05-13,Monday,May,False,False,12951,Mumbai Rajdhani,Mathura,4,6,7,24.9,False
+2024-05-13,Monday,May,False,False,12951,Mumbai Rajdhani,New Delhi,5,6,7,16.6,False
+2024-05-13,Monday,May,False,False,12301,Howrah Rajdhani,Howrah,0,7,6,5.2,False
+2024-05-13,Monday,May,False,False,12301,Howrah Rajdhani,Dhanbad,1,7,6,10.8,False
+2024-05-13,Monday,May,False,False,12301,Howrah Rajdhani,Gaya,2,7,6,5.3,False
+2024-05-13,Monday,May,False,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,6,17.4,True
+2024-05-13,Monday,May,False,False,12301,Howrah Rajdhani,Allahabad,4,7,6,12.5,False
+2024-05-13,Monday,May,False,False,12301,Howrah Rajdhani,Kanpur,5,7,6,10.4,False
+2024-05-13,Monday,May,False,False,12301,Howrah Rajdhani,New Delhi,6,7,6,10.6,False
+2024-05-13,Monday,May,False,False,12627,Karnataka Express,Bangalore,0,7,8,0.0,False
+2024-05-13,Monday,May,False,False,12627,Karnataka Express,Guntakal,1,7,8,0.0,False
+2024-05-13,Monday,May,False,False,12627,Karnataka Express,Wadi,2,7,8,6.1,False
+2024-05-13,Monday,May,False,False,12627,Karnataka Express,Solapur,3,7,8,14.6,True
+2024-05-13,Monday,May,False,False,12627,Karnataka Express,Pune,4,7,8,11.1,False
+2024-05-13,Monday,May,False,False,12627,Karnataka Express,Dadar,5,7,8,15.9,False
+2024-05-13,Monday,May,False,False,12627,Karnataka Express,New Delhi,6,7,8,24.0,False
+2024-05-13,Monday,May,False,False,12615,Grand Trunk Express,Chennai Central,0,7,13,0.0,False
+2024-05-13,Monday,May,False,False,12615,Grand Trunk Express,Vijayawada,1,7,13,0.0,False
+2024-05-13,Monday,May,False,False,12615,Grand Trunk Express,Warangal,2,7,13,0.0,False
+2024-05-13,Monday,May,False,False,12615,Grand Trunk Express,Nagpur,3,7,13,30.5,True
+2024-05-13,Monday,May,False,False,12615,Grand Trunk Express,Bhopal,4,7,13,30.3,False
+2024-05-13,Monday,May,False,False,12615,Grand Trunk Express,Jhansi,5,7,13,34.9,False
+2024-05-13,Monday,May,False,False,12615,Grand Trunk Express,New Delhi,6,7,13,51.4,False
+2024-05-13,Monday,May,False,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,11,0.0,False
+2024-05-13,Monday,May,False,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,11,0.0,False
+2024-05-13,Monday,May,False,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,11,0.0,True
+2024-05-13,Monday,May,False,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,11,0.0,False
+2024-05-13,Monday,May,False,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,11,8.0,False
+2024-05-13,Monday,May,False,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,11,10.8,False
+2024-05-14,Tuesday,May,False,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,19,0.0,False
+2024-05-14,Tuesday,May,False,False,12951,Mumbai Rajdhani,Vadodara,1,6,19,18.4,False
+2024-05-14,Tuesday,May,False,False,12951,Mumbai Rajdhani,Ratlam,2,6,19,35.6,False
+2024-05-14,Tuesday,May,False,False,12951,Mumbai Rajdhani,Kota,3,6,19,53.7,True
+2024-05-14,Tuesday,May,False,False,12951,Mumbai Rajdhani,Mathura,4,6,19,46.3,False
+2024-05-14,Tuesday,May,False,False,12951,Mumbai Rajdhani,New Delhi,5,6,19,47.2,False
+2024-05-14,Tuesday,May,False,False,12301,Howrah Rajdhani,Howrah,0,7,21,0.0,False
+2024-05-14,Tuesday,May,False,False,12301,Howrah Rajdhani,Dhanbad,1,7,21,17.6,False
+2024-05-14,Tuesday,May,False,False,12301,Howrah Rajdhani,Gaya,2,7,21,20.1,False
+2024-05-14,Tuesday,May,False,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,21,20.2,True
+2024-05-14,Tuesday,May,False,False,12301,Howrah Rajdhani,Allahabad,4,7,21,15.8,False
+2024-05-14,Tuesday,May,False,False,12301,Howrah Rajdhani,Kanpur,5,7,21,15.0,False
+2024-05-14,Tuesday,May,False,False,12301,Howrah Rajdhani,New Delhi,6,7,21,12.6,False
+2024-05-14,Tuesday,May,False,False,12627,Karnataka Express,Bangalore,0,7,21,0.0,False
+2024-05-14,Tuesday,May,False,False,12627,Karnataka Express,Guntakal,1,7,21,15.1,False
+2024-05-14,Tuesday,May,False,False,12627,Karnataka Express,Wadi,2,7,21,25.5,False
+2024-05-14,Tuesday,May,False,False,12627,Karnataka Express,Solapur,3,7,21,37.7,True
+2024-05-14,Tuesday,May,False,False,12627,Karnataka Express,Pune,4,7,21,39.1,False
+2024-05-14,Tuesday,May,False,False,12627,Karnataka Express,Dadar,5,7,21,43.6,False
+2024-05-14,Tuesday,May,False,False,12627,Karnataka Express,New Delhi,6,7,21,53.4,False
+2024-05-14,Tuesday,May,False,False,12615,Grand Trunk Express,Chennai Central,0,7,12,5.6,False
+2024-05-14,Tuesday,May,False,False,12615,Grand Trunk Express,Vijayawada,1,7,12,3.4,False
+2024-05-14,Tuesday,May,False,False,12615,Grand Trunk Express,Warangal,2,7,12,0.0,False
+2024-05-14,Tuesday,May,False,False,12615,Grand Trunk Express,Nagpur,3,7,12,19.4,True
+2024-05-14,Tuesday,May,False,False,12615,Grand Trunk Express,Bhopal,4,7,12,16.6,False
+2024-05-14,Tuesday,May,False,False,12615,Grand Trunk Express,Jhansi,5,7,12,17.9,False
+2024-05-14,Tuesday,May,False,False,12615,Grand Trunk Express,New Delhi,6,7,12,35.5,False
+2024-05-14,Tuesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,18,0.0,False
+2024-05-14,Tuesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,18,14.2,False
+2024-05-14,Tuesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,18,127.4,True
+2024-05-14,Tuesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,18,140.2,False
+2024-05-14,Tuesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,18,144.2,False
+2024-05-14,Tuesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,18,150.5,False
+2024-05-15,Wednesday,May,False,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,7,3.2,False
+2024-05-15,Wednesday,May,False,False,12951,Mumbai Rajdhani,Vadodara,1,6,7,0.0,False
+2024-05-15,Wednesday,May,False,False,12951,Mumbai Rajdhani,Ratlam,2,6,7,1.2,False
+2024-05-15,Wednesday,May,False,False,12951,Mumbai Rajdhani,Kota,3,6,7,6.1,True
+2024-05-15,Wednesday,May,False,False,12951,Mumbai Rajdhani,Mathura,4,6,7,11.3,False
+2024-05-15,Wednesday,May,False,False,12951,Mumbai Rajdhani,New Delhi,5,6,7,12.4,False
+2024-05-15,Wednesday,May,False,False,12301,Howrah Rajdhani,Howrah,0,7,11,0.0,False
+2024-05-15,Wednesday,May,False,False,12301,Howrah Rajdhani,Dhanbad,1,7,11,1.4,False
+2024-05-15,Wednesday,May,False,False,12301,Howrah Rajdhani,Gaya,2,7,11,4.0,False
+2024-05-15,Wednesday,May,False,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,11,28.6,True
+2024-05-15,Wednesday,May,False,False,12301,Howrah Rajdhani,Allahabad,4,7,11,34.4,False
+2024-05-15,Wednesday,May,False,False,12301,Howrah Rajdhani,Kanpur,5,7,11,33.4,False
+2024-05-15,Wednesday,May,False,False,12301,Howrah Rajdhani,New Delhi,6,7,11,32.7,False
+2024-05-15,Wednesday,May,False,False,12627,Karnataka Express,Bangalore,0,7,18,5.0,False
+2024-05-15,Wednesday,May,False,False,12627,Karnataka Express,Guntakal,1,7,18,18.5,False
+2024-05-15,Wednesday,May,False,False,12627,Karnataka Express,Wadi,2,7,18,34.2,False
+2024-05-15,Wednesday,May,False,False,12627,Karnataka Express,Solapur,3,7,18,80.7,True
+2024-05-15,Wednesday,May,False,False,12627,Karnataka Express,Pune,4,7,18,98.4,False
+2024-05-15,Wednesday,May,False,False,12627,Karnataka Express,Dadar,5,7,18,104.1,False
+2024-05-15,Wednesday,May,False,False,12627,Karnataka Express,New Delhi,6,7,18,101.5,False
+2024-05-15,Wednesday,May,False,False,12615,Grand Trunk Express,Chennai Central,0,7,6,0.0,False
+2024-05-15,Wednesday,May,False,False,12615,Grand Trunk Express,Vijayawada,1,7,6,0.0,False
+2024-05-15,Wednesday,May,False,False,12615,Grand Trunk Express,Warangal,2,7,6,0.0,False
+2024-05-15,Wednesday,May,False,False,12615,Grand Trunk Express,Nagpur,3,7,6,4.6,True
+2024-05-15,Wednesday,May,False,False,12615,Grand Trunk Express,Bhopal,4,7,6,8.3,False
+2024-05-15,Wednesday,May,False,False,12615,Grand Trunk Express,Jhansi,5,7,6,10.8,False
+2024-05-15,Wednesday,May,False,False,12615,Grand Trunk Express,New Delhi,6,7,6,7.6,False
+2024-05-15,Wednesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,18,2.2,False
+2024-05-15,Wednesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,18,23.3,False
+2024-05-15,Wednesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,18,92.1,True
+2024-05-15,Wednesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,18,102.8,False
+2024-05-15,Wednesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,18,112.4,False
+2024-05-15,Wednesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,18,109.0,False
+2024-05-16,Thursday,May,False,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,14,0.0,False
+2024-05-16,Thursday,May,False,False,12951,Mumbai Rajdhani,Vadodara,1,6,14,0.0,False
+2024-05-16,Thursday,May,False,False,12951,Mumbai Rajdhani,Ratlam,2,6,14,0.0,False
+2024-05-16,Thursday,May,False,False,12951,Mumbai Rajdhani,Kota,3,6,14,0.0,True
+2024-05-16,Thursday,May,False,False,12951,Mumbai Rajdhani,Mathura,4,6,14,16.1,False
+2024-05-16,Thursday,May,False,False,12951,Mumbai Rajdhani,New Delhi,5,6,14,29.9,False
+2024-05-16,Thursday,May,False,False,12301,Howrah Rajdhani,Howrah,0,7,20,4.7,False
+2024-05-16,Thursday,May,False,False,12301,Howrah Rajdhani,Dhanbad,1,7,20,9.0,False
+2024-05-16,Thursday,May,False,False,12301,Howrah Rajdhani,Gaya,2,7,20,18.0,False
+2024-05-16,Thursday,May,False,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,20,31.8,True
+2024-05-16,Thursday,May,False,False,12301,Howrah Rajdhani,Allahabad,4,7,20,30.8,False
+2024-05-16,Thursday,May,False,False,12301,Howrah Rajdhani,Kanpur,5,7,20,23.1,False
+2024-05-16,Thursday,May,False,False,12301,Howrah Rajdhani,New Delhi,6,7,20,22.5,False
+2024-05-16,Thursday,May,False,False,12627,Karnataka Express,Bangalore,0,7,15,0.4,False
+2024-05-16,Thursday,May,False,False,12627,Karnataka Express,Guntakal,1,7,15,0.5,False
+2024-05-16,Thursday,May,False,False,12627,Karnataka Express,Wadi,2,7,15,0.0,False
+2024-05-16,Thursday,May,False,False,12627,Karnataka Express,Solapur,3,7,15,43.3,True
+2024-05-16,Thursday,May,False,False,12627,Karnataka Express,Pune,4,7,15,57.9,False
+2024-05-16,Thursday,May,False,False,12627,Karnataka Express,Dadar,5,7,15,78.7,False
+2024-05-16,Thursday,May,False,False,12627,Karnataka Express,New Delhi,6,7,15,92.3,False
+2024-05-16,Thursday,May,False,False,12615,Grand Trunk Express,Chennai Central,0,7,19,0.9,False
+2024-05-16,Thursday,May,False,False,12615,Grand Trunk Express,Vijayawada,1,7,19,23.2,False
+2024-05-16,Thursday,May,False,False,12615,Grand Trunk Express,Warangal,2,7,19,41.5,False
+2024-05-16,Thursday,May,False,False,12615,Grand Trunk Express,Nagpur,3,7,19,85.8,True
+2024-05-16,Thursday,May,False,False,12615,Grand Trunk Express,Bhopal,4,7,19,86.1,False
+2024-05-16,Thursday,May,False,False,12615,Grand Trunk Express,Jhansi,5,7,19,76.9,False
+2024-05-16,Thursday,May,False,False,12615,Grand Trunk Express,New Delhi,6,7,19,76.8,False
+2024-05-16,Thursday,May,False,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,21,1.7,False
+2024-05-16,Thursday,May,False,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,21,14.4,False
+2024-05-16,Thursday,May,False,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,21,19.4,True
+2024-05-16,Thursday,May,False,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,21,19.5,False
+2024-05-16,Thursday,May,False,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,21,17.8,False
+2024-05-16,Thursday,May,False,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,21,18.6,False
+2024-05-17,Friday,May,False,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,10,4.1,False
+2024-05-17,Friday,May,False,False,12951,Mumbai Rajdhani,Vadodara,1,6,10,0.0,False
+2024-05-17,Friday,May,False,False,12951,Mumbai Rajdhani,Ratlam,2,6,10,0.0,False
+2024-05-17,Friday,May,False,False,12951,Mumbai Rajdhani,Kota,3,6,10,9.6,True
+2024-05-17,Friday,May,False,False,12951,Mumbai Rajdhani,Mathura,4,6,10,13.3,False
+2024-05-17,Friday,May,False,False,12951,Mumbai Rajdhani,New Delhi,5,6,10,10.9,False
+2024-05-17,Friday,May,False,False,12301,Howrah Rajdhani,Howrah,0,7,12,5.1,False
+2024-05-17,Friday,May,False,False,12301,Howrah Rajdhani,Dhanbad,1,7,12,1.8,False
+2024-05-17,Friday,May,False,False,12301,Howrah Rajdhani,Gaya,2,7,12,1.0,False
+2024-05-17,Friday,May,False,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,12,65.9,True
+2024-05-17,Friday,May,False,False,12301,Howrah Rajdhani,Allahabad,4,7,12,67.9,False
+2024-05-17,Friday,May,False,False,12301,Howrah Rajdhani,Kanpur,5,7,12,67.4,False
+2024-05-17,Friday,May,False,False,12301,Howrah Rajdhani,New Delhi,6,7,12,83.6,False
+2024-05-17,Friday,May,False,False,12627,Karnataka Express,Bangalore,0,7,15,0.0,False
+2024-05-17,Friday,May,False,False,12627,Karnataka Express,Guntakal,1,7,15,7.8,False
+2024-05-17,Friday,May,False,False,12627,Karnataka Express,Wadi,2,7,15,1.2,False
+2024-05-17,Friday,May,False,False,12627,Karnataka Express,Solapur,3,7,15,50.9,True
+2024-05-17,Friday,May,False,False,12627,Karnataka Express,Pune,4,7,15,64.4,False
+2024-05-17,Friday,May,False,False,12627,Karnataka Express,Dadar,5,7,15,77.9,False
+2024-05-17,Friday,May,False,False,12627,Karnataka Express,New Delhi,6,7,15,89.9,False
+2024-05-17,Friday,May,False,False,12615,Grand Trunk Express,Chennai Central,0,7,12,3.1,False
+2024-05-17,Friday,May,False,False,12615,Grand Trunk Express,Vijayawada,1,7,12,9.1,False
+2024-05-17,Friday,May,False,False,12615,Grand Trunk Express,Warangal,2,7,12,8.4,False
+2024-05-17,Friday,May,False,False,12615,Grand Trunk Express,Nagpur,3,7,12,84.7,True
+2024-05-17,Friday,May,False,False,12615,Grand Trunk Express,Bhopal,4,7,12,70.5,False
+2024-05-17,Friday,May,False,False,12615,Grand Trunk Express,Jhansi,5,7,12,70.6,False
+2024-05-17,Friday,May,False,False,12615,Grand Trunk Express,New Delhi,6,7,12,77.1,False
+2024-05-17,Friday,May,False,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,7,0.0,False
+2024-05-17,Friday,May,False,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,7,0.0,False
+2024-05-17,Friday,May,False,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,7,35.7,True
+2024-05-17,Friday,May,False,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,7,41.9,False
+2024-05-17,Friday,May,False,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,7,40.3,False
+2024-05-17,Friday,May,False,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,7,38.3,False
+2024-05-18,Saturday,May,True,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,7,0.0,False
+2024-05-18,Saturday,May,True,False,12951,Mumbai Rajdhani,Vadodara,1,6,7,0.0,False
+2024-05-18,Saturday,May,True,False,12951,Mumbai Rajdhani,Ratlam,2,6,7,5.5,False
+2024-05-18,Saturday,May,True,False,12951,Mumbai Rajdhani,Kota,3,6,7,27.5,True
+2024-05-18,Saturday,May,True,False,12951,Mumbai Rajdhani,Mathura,4,6,7,24.3,False
+2024-05-18,Saturday,May,True,False,12951,Mumbai Rajdhani,New Delhi,5,6,7,11.5,False
+2024-05-18,Saturday,May,True,False,12301,Howrah Rajdhani,Howrah,0,7,16,0.0,False
+2024-05-18,Saturday,May,True,False,12301,Howrah Rajdhani,Dhanbad,1,7,16,0.0,False
+2024-05-18,Saturday,May,True,False,12301,Howrah Rajdhani,Gaya,2,7,16,7.9,False
+2024-05-18,Saturday,May,True,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,16,38.0,True
+2024-05-18,Saturday,May,True,False,12301,Howrah Rajdhani,Allahabad,4,7,16,38.1,False
+2024-05-18,Saturday,May,True,False,12301,Howrah Rajdhani,Kanpur,5,7,16,45.1,False
+2024-05-18,Saturday,May,True,False,12301,Howrah Rajdhani,New Delhi,6,7,16,53.7,False
+2024-05-18,Saturday,May,True,False,12627,Karnataka Express,Bangalore,0,7,7,0.0,False
+2024-05-18,Saturday,May,True,False,12627,Karnataka Express,Guntakal,1,7,7,0.0,False
+2024-05-18,Saturday,May,True,False,12627,Karnataka Express,Wadi,2,7,7,0.0,False
+2024-05-18,Saturday,May,True,False,12627,Karnataka Express,Solapur,3,7,7,0.0,True
+2024-05-18,Saturday,May,True,False,12627,Karnataka Express,Pune,4,7,7,0.0,False
+2024-05-18,Saturday,May,True,False,12627,Karnataka Express,Dadar,5,7,7,0.0,False
+2024-05-18,Saturday,May,True,False,12627,Karnataka Express,New Delhi,6,7,7,0.0,False
+2024-05-18,Saturday,May,True,False,12615,Grand Trunk Express,Chennai Central,0,7,7,0.0,False
+2024-05-18,Saturday,May,True,False,12615,Grand Trunk Express,Vijayawada,1,7,7,0.0,False
+2024-05-18,Saturday,May,True,False,12615,Grand Trunk Express,Warangal,2,7,7,0.0,False
+2024-05-18,Saturday,May,True,False,12615,Grand Trunk Express,Nagpur,3,7,7,10.2,True
+2024-05-18,Saturday,May,True,False,12615,Grand Trunk Express,Bhopal,4,7,7,5.3,False
+2024-05-18,Saturday,May,True,False,12615,Grand Trunk Express,Jhansi,5,7,7,0.4,False
+2024-05-18,Saturday,May,True,False,12615,Grand Trunk Express,New Delhi,6,7,7,0.0,False
+2024-05-18,Saturday,May,True,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,21,0.0,False
+2024-05-18,Saturday,May,True,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,21,18.3,False
+2024-05-18,Saturday,May,True,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,21,18.8,True
+2024-05-18,Saturday,May,True,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,21,13.9,False
+2024-05-18,Saturday,May,True,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,21,7.8,False
+2024-05-18,Saturday,May,True,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,21,3.7,False
+2024-05-19,Sunday,May,True,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,22,0.0,False
+2024-05-19,Sunday,May,True,False,12951,Mumbai Rajdhani,Vadodara,1,6,22,0.0,False
+2024-05-19,Sunday,May,True,False,12951,Mumbai Rajdhani,Ratlam,2,6,22,0.0,False
+2024-05-19,Sunday,May,True,False,12951,Mumbai Rajdhani,Kota,3,6,22,0.0,True
+2024-05-19,Sunday,May,True,False,12951,Mumbai Rajdhani,Mathura,4,6,22,0.0,False
+2024-05-19,Sunday,May,True,False,12951,Mumbai Rajdhani,New Delhi,5,6,22,0.0,False
+2024-05-19,Sunday,May,True,False,12301,Howrah Rajdhani,Howrah,0,7,22,0.0,False
+2024-05-19,Sunday,May,True,False,12301,Howrah Rajdhani,Dhanbad,1,7,22,0.0,False
+2024-05-19,Sunday,May,True,False,12301,Howrah Rajdhani,Gaya,2,7,22,0.0,False
+2024-05-19,Sunday,May,True,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,22,0.0,True
+2024-05-19,Sunday,May,True,False,12301,Howrah Rajdhani,Allahabad,4,7,22,0.0,False
+2024-05-19,Sunday,May,True,False,12301,Howrah Rajdhani,Kanpur,5,7,22,0.0,False
+2024-05-19,Sunday,May,True,False,12301,Howrah Rajdhani,New Delhi,6,7,22,3.4,False
+2024-05-19,Sunday,May,True,False,12627,Karnataka Express,Bangalore,0,7,11,0.0,False
+2024-05-19,Sunday,May,True,False,12627,Karnataka Express,Guntakal,1,7,11,0.0,False
+2024-05-19,Sunday,May,True,False,12627,Karnataka Express,Wadi,2,7,11,0.0,False
+2024-05-19,Sunday,May,True,False,12627,Karnataka Express,Solapur,3,7,11,0.0,True
+2024-05-19,Sunday,May,True,False,12627,Karnataka Express,Pune,4,7,11,0.0,False
+2024-05-19,Sunday,May,True,False,12627,Karnataka Express,Dadar,5,7,11,0.0,False
+2024-05-19,Sunday,May,True,False,12627,Karnataka Express,New Delhi,6,7,11,0.0,False
+2024-05-19,Sunday,May,True,False,12615,Grand Trunk Express,Chennai Central,0,7,7,0.0,False
+2024-05-19,Sunday,May,True,False,12615,Grand Trunk Express,Vijayawada,1,7,7,0.0,False
+2024-05-19,Sunday,May,True,False,12615,Grand Trunk Express,Warangal,2,7,7,1.4,False
+2024-05-19,Sunday,May,True,False,12615,Grand Trunk Express,Nagpur,3,7,7,20.8,True
+2024-05-19,Sunday,May,True,False,12615,Grand Trunk Express,Bhopal,4,7,7,17.4,False
+2024-05-19,Sunday,May,True,False,12615,Grand Trunk Express,Jhansi,5,7,7,10.6,False
+2024-05-19,Sunday,May,True,False,12615,Grand Trunk Express,New Delhi,6,7,7,0.0,False
+2024-05-19,Sunday,May,True,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,22,2.9,False
+2024-05-19,Sunday,May,True,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,22,0.0,False
+2024-05-19,Sunday,May,True,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,22,51.1,True
+2024-05-19,Sunday,May,True,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,22,44.8,False
+2024-05-19,Sunday,May,True,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,22,30.6,False
+2024-05-19,Sunday,May,True,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,22,27.2,False
+2024-05-20,Monday,May,False,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,8,3.1,False
+2024-05-20,Monday,May,False,False,12951,Mumbai Rajdhani,Vadodara,1,6,8,0.0,False
+2024-05-20,Monday,May,False,False,12951,Mumbai Rajdhani,Ratlam,2,6,8,0.0,False
+2024-05-20,Monday,May,False,False,12951,Mumbai Rajdhani,Kota,3,6,8,7.1,True
+2024-05-20,Monday,May,False,False,12951,Mumbai Rajdhani,Mathura,4,6,8,10.0,False
+2024-05-20,Monday,May,False,False,12951,Mumbai Rajdhani,New Delhi,5,6,8,20.2,False
+2024-05-20,Monday,May,False,False,12301,Howrah Rajdhani,Howrah,0,7,11,0.0,False
+2024-05-20,Monday,May,False,False,12301,Howrah Rajdhani,Dhanbad,1,7,11,0.0,False
+2024-05-20,Monday,May,False,False,12301,Howrah Rajdhani,Gaya,2,7,11,0.0,False
+2024-05-20,Monday,May,False,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,11,18.9,True
+2024-05-20,Monday,May,False,False,12301,Howrah Rajdhani,Allahabad,4,7,11,25.7,False
+2024-05-20,Monday,May,False,False,12301,Howrah Rajdhani,Kanpur,5,7,11,22.9,False
+2024-05-20,Monday,May,False,False,12301,Howrah Rajdhani,New Delhi,6,7,11,22.5,False
+2024-05-20,Monday,May,False,False,12627,Karnataka Express,Bangalore,0,7,8,0.0,False
+2024-05-20,Monday,May,False,False,12627,Karnataka Express,Guntakal,1,7,8,0.0,False
+2024-05-20,Monday,May,False,False,12627,Karnataka Express,Wadi,2,7,8,2.2,False
+2024-05-20,Monday,May,False,False,12627,Karnataka Express,Solapur,3,7,8,11.0,True
+2024-05-20,Monday,May,False,False,12627,Karnataka Express,Pune,4,7,8,3.0,False
+2024-05-20,Monday,May,False,False,12627,Karnataka Express,Dadar,5,7,8,5.3,False
+2024-05-20,Monday,May,False,False,12627,Karnataka Express,New Delhi,6,7,8,15.5,False
+2024-05-20,Monday,May,False,False,12615,Grand Trunk Express,Chennai Central,0,7,8,0.0,False
+2024-05-20,Monday,May,False,False,12615,Grand Trunk Express,Vijayawada,1,7,8,0.9,False
+2024-05-20,Monday,May,False,False,12615,Grand Trunk Express,Warangal,2,7,8,0.0,False
+2024-05-20,Monday,May,False,False,12615,Grand Trunk Express,Nagpur,3,7,8,37.5,True
+2024-05-20,Monday,May,False,False,12615,Grand Trunk Express,Bhopal,4,7,8,37.6,False
+2024-05-20,Monday,May,False,False,12615,Grand Trunk Express,Jhansi,5,7,8,37.2,False
+2024-05-20,Monday,May,False,False,12615,Grand Trunk Express,New Delhi,6,7,8,31.0,False
+2024-05-20,Monday,May,False,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,13,0.0,False
+2024-05-20,Monday,May,False,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,13,4.2,False
+2024-05-20,Monday,May,False,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,13,15.6,True
+2024-05-20,Monday,May,False,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,13,21.4,False
+2024-05-20,Monday,May,False,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,13,28.9,False
+2024-05-20,Monday,May,False,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,13,45.6,False
+2024-05-21,Tuesday,May,False,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,18,3.1,False
+2024-05-21,Tuesday,May,False,False,12951,Mumbai Rajdhani,Vadodara,1,6,18,18.4,False
+2024-05-21,Tuesday,May,False,False,12951,Mumbai Rajdhani,Ratlam,2,6,18,33.4,False
+2024-05-21,Tuesday,May,False,False,12951,Mumbai Rajdhani,Kota,3,6,18,71.6,True
+2024-05-21,Tuesday,May,False,False,12951,Mumbai Rajdhani,Mathura,4,6,18,84.2,False
+2024-05-21,Tuesday,May,False,False,12951,Mumbai Rajdhani,New Delhi,5,6,18,83.9,False
+2024-05-21,Tuesday,May,False,False,12301,Howrah Rajdhani,Howrah,0,7,9,0.0,False
+2024-05-21,Tuesday,May,False,False,12301,Howrah Rajdhani,Dhanbad,1,7,9,1.7,False
+2024-05-21,Tuesday,May,False,False,12301,Howrah Rajdhani,Gaya,2,7,9,0.0,False
+2024-05-21,Tuesday,May,False,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,9,55.2,True
+2024-05-21,Tuesday,May,False,False,12301,Howrah Rajdhani,Allahabad,4,7,9,51.9,False
+2024-05-21,Tuesday,May,False,False,12301,Howrah Rajdhani,Kanpur,5,7,9,58.5,False
+2024-05-21,Tuesday,May,False,False,12301,Howrah Rajdhani,New Delhi,6,7,9,65.6,False
+2024-05-21,Tuesday,May,False,False,12627,Karnataka Express,Bangalore,0,7,13,0.0,False
+2024-05-21,Tuesday,May,False,False,12627,Karnataka Express,Guntakal,1,7,13,0.0,False
+2024-05-21,Tuesday,May,False,False,12627,Karnataka Express,Wadi,2,7,13,5.0,False
+2024-05-21,Tuesday,May,False,False,12627,Karnataka Express,Solapur,3,7,13,22.4,True
+2024-05-21,Tuesday,May,False,False,12627,Karnataka Express,Pune,4,7,13,26.3,False
+2024-05-21,Tuesday,May,False,False,12627,Karnataka Express,Dadar,5,7,13,45.6,False
+2024-05-21,Tuesday,May,False,False,12627,Karnataka Express,New Delhi,6,7,13,51.3,False
+2024-05-21,Tuesday,May,False,False,12615,Grand Trunk Express,Chennai Central,0,7,7,0.0,False
+2024-05-21,Tuesday,May,False,False,12615,Grand Trunk Express,Vijayawada,1,7,7,0.2,False
+2024-05-21,Tuesday,May,False,False,12615,Grand Trunk Express,Warangal,2,7,7,1.2,False
+2024-05-21,Tuesday,May,False,False,12615,Grand Trunk Express,Nagpur,3,7,7,8.6,True
+2024-05-21,Tuesday,May,False,False,12615,Grand Trunk Express,Bhopal,4,7,7,9.1,False
+2024-05-21,Tuesday,May,False,False,12615,Grand Trunk Express,Jhansi,5,7,7,12.0,False
+2024-05-21,Tuesday,May,False,False,12615,Grand Trunk Express,New Delhi,6,7,7,21.9,False
+2024-05-21,Tuesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,8,0.0,False
+2024-05-21,Tuesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,8,8.1,False
+2024-05-21,Tuesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,8,16.9,True
+2024-05-21,Tuesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,8,20.8,False
+2024-05-21,Tuesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,8,19.4,False
+2024-05-21,Tuesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,8,26.4,False
+2024-05-22,Wednesday,May,False,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,19,0.0,False
+2024-05-22,Wednesday,May,False,False,12951,Mumbai Rajdhani,Vadodara,1,6,19,8.7,False
+2024-05-22,Wednesday,May,False,False,12951,Mumbai Rajdhani,Ratlam,2,6,19,20.5,False
+2024-05-22,Wednesday,May,False,False,12951,Mumbai Rajdhani,Kota,3,6,19,41.4,True
+2024-05-22,Wednesday,May,False,False,12951,Mumbai Rajdhani,Mathura,4,6,19,39.3,False
+2024-05-22,Wednesday,May,False,False,12951,Mumbai Rajdhani,New Delhi,5,6,19,26.3,False
+2024-05-22,Wednesday,May,False,False,12301,Howrah Rajdhani,Howrah,0,7,22,1.0,False
+2024-05-22,Wednesday,May,False,False,12301,Howrah Rajdhani,Dhanbad,1,7,22,0.0,False
+2024-05-22,Wednesday,May,False,False,12301,Howrah Rajdhani,Gaya,2,7,22,4.8,False
+2024-05-22,Wednesday,May,False,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,22,36.6,True
+2024-05-22,Wednesday,May,False,False,12301,Howrah Rajdhani,Allahabad,4,7,22,40.3,False
+2024-05-22,Wednesday,May,False,False,12301,Howrah Rajdhani,Kanpur,5,7,22,31.4,False
+2024-05-22,Wednesday,May,False,False,12301,Howrah Rajdhani,New Delhi,6,7,22,33.0,False
+2024-05-22,Wednesday,May,False,False,12627,Karnataka Express,Bangalore,0,7,16,0.0,False
+2024-05-22,Wednesday,May,False,False,12627,Karnataka Express,Guntakal,1,7,16,0.0,False
+2024-05-22,Wednesday,May,False,False,12627,Karnataka Express,Wadi,2,7,16,11.7,False
+2024-05-22,Wednesday,May,False,False,12627,Karnataka Express,Solapur,3,7,16,38.0,True
+2024-05-22,Wednesday,May,False,False,12627,Karnataka Express,Pune,4,7,16,47.4,False
+2024-05-22,Wednesday,May,False,False,12627,Karnataka Express,Dadar,5,7,16,54.6,False
+2024-05-22,Wednesday,May,False,False,12627,Karnataka Express,New Delhi,6,7,16,79.1,False
+2024-05-22,Wednesday,May,False,False,12615,Grand Trunk Express,Chennai Central,0,7,14,4.1,False
+2024-05-22,Wednesday,May,False,False,12615,Grand Trunk Express,Vijayawada,1,7,14,0.0,False
+2024-05-22,Wednesday,May,False,False,12615,Grand Trunk Express,Warangal,2,7,14,0.0,False
+2024-05-22,Wednesday,May,False,False,12615,Grand Trunk Express,Nagpur,3,7,14,48.4,True
+2024-05-22,Wednesday,May,False,False,12615,Grand Trunk Express,Bhopal,4,7,14,55.3,False
+2024-05-22,Wednesday,May,False,False,12615,Grand Trunk Express,Jhansi,5,7,14,77.3,False
+2024-05-22,Wednesday,May,False,False,12615,Grand Trunk Express,New Delhi,6,7,14,95.9,False
+2024-05-22,Wednesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,12,0.0,False
+2024-05-22,Wednesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,12,7.1,False
+2024-05-22,Wednesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,12,17.8,True
+2024-05-22,Wednesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,12,22.7,False
+2024-05-22,Wednesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,12,31.8,False
+2024-05-22,Wednesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,12,33.7,False
+2024-05-23,Thursday,May,False,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,16,2.4,False
+2024-05-23,Thursday,May,False,False,12951,Mumbai Rajdhani,Vadodara,1,6,16,0.0,False
+2024-05-23,Thursday,May,False,False,12951,Mumbai Rajdhani,Ratlam,2,6,16,13.3,False
+2024-05-23,Thursday,May,False,False,12951,Mumbai Rajdhani,Kota,3,6,16,37.5,True
+2024-05-23,Thursday,May,False,False,12951,Mumbai Rajdhani,Mathura,4,6,16,60.4,False
+2024-05-23,Thursday,May,False,False,12951,Mumbai Rajdhani,New Delhi,5,6,16,66.4,False
+2024-05-23,Thursday,May,False,False,12301,Howrah Rajdhani,Howrah,0,7,13,10.0,False
+2024-05-23,Thursday,May,False,False,12301,Howrah Rajdhani,Dhanbad,1,7,13,25.5,False
+2024-05-23,Thursday,May,False,False,12301,Howrah Rajdhani,Gaya,2,7,13,28.6,False
+2024-05-23,Thursday,May,False,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,13,71.6,True
+2024-05-23,Thursday,May,False,False,12301,Howrah Rajdhani,Allahabad,4,7,13,77.0,False
+2024-05-23,Thursday,May,False,False,12301,Howrah Rajdhani,Kanpur,5,7,13,96.6,False
+2024-05-23,Thursday,May,False,False,12301,Howrah Rajdhani,New Delhi,6,7,13,115.0,False
+2024-05-23,Thursday,May,False,False,12627,Karnataka Express,Bangalore,0,7,14,2.5,False
+2024-05-23,Thursday,May,False,False,12627,Karnataka Express,Guntakal,1,7,14,0.4,False
+2024-05-23,Thursday,May,False,False,12627,Karnataka Express,Wadi,2,7,14,3.8,False
+2024-05-23,Thursday,May,False,False,12627,Karnataka Express,Solapur,3,7,14,11.7,True
+2024-05-23,Thursday,May,False,False,12627,Karnataka Express,Pune,4,7,14,27.7,False
+2024-05-23,Thursday,May,False,False,12627,Karnataka Express,Dadar,5,7,14,48.6,False
+2024-05-23,Thursday,May,False,False,12627,Karnataka Express,New Delhi,6,7,14,72.8,False
+2024-05-23,Thursday,May,False,False,12615,Grand Trunk Express,Chennai Central,0,7,18,0.0,False
+2024-05-23,Thursday,May,False,False,12615,Grand Trunk Express,Vijayawada,1,7,18,17.5,False
+2024-05-23,Thursday,May,False,False,12615,Grand Trunk Express,Warangal,2,7,18,24.2,False
+2024-05-23,Thursday,May,False,False,12615,Grand Trunk Express,Nagpur,3,7,18,87.2,True
+2024-05-23,Thursday,May,False,False,12615,Grand Trunk Express,Bhopal,4,7,18,96.6,False
+2024-05-23,Thursday,May,False,False,12615,Grand Trunk Express,Jhansi,5,7,18,94.8,False
+2024-05-23,Thursday,May,False,False,12615,Grand Trunk Express,New Delhi,6,7,18,95.8,False
+2024-05-23,Thursday,May,False,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,10,6.6,False
+2024-05-23,Thursday,May,False,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,10,15.7,False
+2024-05-23,Thursday,May,False,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,10,65.5,True
+2024-05-23,Thursday,May,False,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,10,68.0,False
+2024-05-23,Thursday,May,False,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,10,65.4,False
+2024-05-23,Thursday,May,False,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,10,54.6,False
+2024-05-24,Friday,May,False,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,15,5.5,False
+2024-05-24,Friday,May,False,False,12951,Mumbai Rajdhani,Vadodara,1,6,15,3.1,False
+2024-05-24,Friday,May,False,False,12951,Mumbai Rajdhani,Ratlam,2,6,15,0.0,False
+2024-05-24,Friday,May,False,False,12951,Mumbai Rajdhani,Kota,3,6,15,49.4,True
+2024-05-24,Friday,May,False,False,12951,Mumbai Rajdhani,Mathura,4,6,15,59.9,False
+2024-05-24,Friday,May,False,False,12951,Mumbai Rajdhani,New Delhi,5,6,15,83.8,False
+2024-05-24,Friday,May,False,False,12301,Howrah Rajdhani,Howrah,0,7,20,9.7,False
+2024-05-24,Friday,May,False,False,12301,Howrah Rajdhani,Dhanbad,1,7,20,22.9,False
+2024-05-24,Friday,May,False,False,12301,Howrah Rajdhani,Gaya,2,7,20,32.8,False
+2024-05-24,Friday,May,False,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,20,49.2,True
+2024-05-24,Friday,May,False,False,12301,Howrah Rajdhani,Allahabad,4,7,20,41.6,False
+2024-05-24,Friday,May,False,False,12301,Howrah Rajdhani,Kanpur,5,7,20,38.5,False
+2024-05-24,Friday,May,False,False,12301,Howrah Rajdhani,New Delhi,6,7,20,46.1,False
+2024-05-24,Friday,May,False,False,12627,Karnataka Express,Bangalore,0,7,16,0.0,False
+2024-05-24,Friday,May,False,False,12627,Karnataka Express,Guntakal,1,7,16,0.0,False
+2024-05-24,Friday,May,False,False,12627,Karnataka Express,Wadi,2,7,16,5.0,False
+2024-05-24,Friday,May,False,False,12627,Karnataka Express,Solapur,3,7,16,42.3,True
+2024-05-24,Friday,May,False,False,12627,Karnataka Express,Pune,4,7,16,65.6,False
+2024-05-24,Friday,May,False,False,12627,Karnataka Express,Dadar,5,7,16,83.3,False
+2024-05-24,Friday,May,False,False,12627,Karnataka Express,New Delhi,6,7,16,101.9,False
+2024-05-24,Friday,May,False,False,12615,Grand Trunk Express,Chennai Central,0,7,8,0.0,False
+2024-05-24,Friday,May,False,False,12615,Grand Trunk Express,Vijayawada,1,7,8,0.0,False
+2024-05-24,Friday,May,False,False,12615,Grand Trunk Express,Warangal,2,7,8,0.0,False
+2024-05-24,Friday,May,False,False,12615,Grand Trunk Express,Nagpur,3,7,8,3.5,True
+2024-05-24,Friday,May,False,False,12615,Grand Trunk Express,Bhopal,4,7,8,3.2,False
+2024-05-24,Friday,May,False,False,12615,Grand Trunk Express,Jhansi,5,7,8,0.0,False
+2024-05-24,Friday,May,False,False,12615,Grand Trunk Express,New Delhi,6,7,8,0.4,False
+2024-05-24,Friday,May,False,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,6,7.6,False
+2024-05-24,Friday,May,False,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,6,4.5,False
+2024-05-24,Friday,May,False,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,6,11.9,True
+2024-05-24,Friday,May,False,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,6,20.4,False
+2024-05-24,Friday,May,False,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,6,12.9,False
+2024-05-24,Friday,May,False,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,6,9.7,False
+2024-05-25,Saturday,May,True,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,20,0.0,False
+2024-05-25,Saturday,May,True,False,12951,Mumbai Rajdhani,Vadodara,1,6,20,0.6,False
+2024-05-25,Saturday,May,True,False,12951,Mumbai Rajdhani,Ratlam,2,6,20,12.7,False
+2024-05-25,Saturday,May,True,False,12951,Mumbai Rajdhani,Kota,3,6,20,10.0,True
+2024-05-25,Saturday,May,True,False,12951,Mumbai Rajdhani,Mathura,4,6,20,2.3,False
+2024-05-25,Saturday,May,True,False,12951,Mumbai Rajdhani,New Delhi,5,6,20,0.0,False
+2024-05-25,Saturday,May,True,False,12301,Howrah Rajdhani,Howrah,0,7,9,3.4,False
+2024-05-25,Saturday,May,True,False,12301,Howrah Rajdhani,Dhanbad,1,7,9,5.1,False
+2024-05-25,Saturday,May,True,False,12301,Howrah Rajdhani,Gaya,2,7,9,0.0,False
+2024-05-25,Saturday,May,True,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,9,0.0,True
+2024-05-25,Saturday,May,True,False,12301,Howrah Rajdhani,Allahabad,4,7,9,0.9,False
+2024-05-25,Saturday,May,True,False,12301,Howrah Rajdhani,Kanpur,5,7,9,1.0,False
+2024-05-25,Saturday,May,True,False,12301,Howrah Rajdhani,New Delhi,6,7,9,0.0,False
+2024-05-25,Saturday,May,True,False,12627,Karnataka Express,Bangalore,0,7,8,0.0,False
+2024-05-25,Saturday,May,True,False,12627,Karnataka Express,Guntakal,1,7,8,0.0,False
+2024-05-25,Saturday,May,True,False,12627,Karnataka Express,Wadi,2,7,8,0.0,False
+2024-05-25,Saturday,May,True,False,12627,Karnataka Express,Solapur,3,7,8,16.1,True
+2024-05-25,Saturday,May,True,False,12627,Karnataka Express,Pune,4,7,8,12.5,False
+2024-05-25,Saturday,May,True,False,12627,Karnataka Express,Dadar,5,7,8,12.7,False
+2024-05-25,Saturday,May,True,False,12627,Karnataka Express,New Delhi,6,7,8,13.5,False
+2024-05-25,Saturday,May,True,False,12615,Grand Trunk Express,Chennai Central,0,7,12,0.0,False
+2024-05-25,Saturday,May,True,False,12615,Grand Trunk Express,Vijayawada,1,7,12,0.0,False
+2024-05-25,Saturday,May,True,False,12615,Grand Trunk Express,Warangal,2,7,12,0.0,False
+2024-05-25,Saturday,May,True,False,12615,Grand Trunk Express,Nagpur,3,7,12,12.5,True
+2024-05-25,Saturday,May,True,False,12615,Grand Trunk Express,Bhopal,4,7,12,7.0,False
+2024-05-25,Saturday,May,True,False,12615,Grand Trunk Express,Jhansi,5,7,12,4.5,False
+2024-05-25,Saturday,May,True,False,12615,Grand Trunk Express,New Delhi,6,7,12,14.3,False
+2024-05-25,Saturday,May,True,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,22,0.0,False
+2024-05-25,Saturday,May,True,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,22,0.0,False
+2024-05-25,Saturday,May,True,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,22,28.8,True
+2024-05-25,Saturday,May,True,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,22,23.1,False
+2024-05-25,Saturday,May,True,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,22,22.3,False
+2024-05-25,Saturday,May,True,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,22,15.1,False
+2024-05-26,Sunday,May,True,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,14,0.0,False
+2024-05-26,Sunday,May,True,False,12951,Mumbai Rajdhani,Vadodara,1,6,14,3.7,False
+2024-05-26,Sunday,May,True,False,12951,Mumbai Rajdhani,Ratlam,2,6,14,5.7,False
+2024-05-26,Sunday,May,True,False,12951,Mumbai Rajdhani,Kota,3,6,14,25.5,True
+2024-05-26,Sunday,May,True,False,12951,Mumbai Rajdhani,Mathura,4,6,14,34.9,False
+2024-05-26,Sunday,May,True,False,12951,Mumbai Rajdhani,New Delhi,5,6,14,48.7,False
+2024-05-26,Sunday,May,True,False,12301,Howrah Rajdhani,Howrah,0,7,10,0.0,False
+2024-05-26,Sunday,May,True,False,12301,Howrah Rajdhani,Dhanbad,1,7,10,0.0,False
+2024-05-26,Sunday,May,True,False,12301,Howrah Rajdhani,Gaya,2,7,10,0.0,False
+2024-05-26,Sunday,May,True,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,10,26.9,True
+2024-05-26,Sunday,May,True,False,12301,Howrah Rajdhani,Allahabad,4,7,10,20.4,False
+2024-05-26,Sunday,May,True,False,12301,Howrah Rajdhani,Kanpur,5,7,10,12.5,False
+2024-05-26,Sunday,May,True,False,12301,Howrah Rajdhani,New Delhi,6,7,10,8.6,False
+2024-05-26,Sunday,May,True,False,12627,Karnataka Express,Bangalore,0,7,17,0.0,False
+2024-05-26,Sunday,May,True,False,12627,Karnataka Express,Guntakal,1,7,17,16.7,False
+2024-05-26,Sunday,May,True,False,12627,Karnataka Express,Wadi,2,7,17,20.9,False
+2024-05-26,Sunday,May,True,False,12627,Karnataka Express,Solapur,3,7,17,68.2,True
+2024-05-26,Sunday,May,True,False,12627,Karnataka Express,Pune,4,7,17,73.1,False
+2024-05-26,Sunday,May,True,False,12627,Karnataka Express,Dadar,5,7,17,87.5,False
+2024-05-26,Sunday,May,True,False,12627,Karnataka Express,New Delhi,6,7,17,87.9,False
+2024-05-26,Sunday,May,True,False,12615,Grand Trunk Express,Chennai Central,0,7,8,6.8,False
+2024-05-26,Sunday,May,True,False,12615,Grand Trunk Express,Vijayawada,1,7,8,0.0,False
+2024-05-26,Sunday,May,True,False,12615,Grand Trunk Express,Warangal,2,7,8,0.0,False
+2024-05-26,Sunday,May,True,False,12615,Grand Trunk Express,Nagpur,3,7,8,35.2,True
+2024-05-26,Sunday,May,True,False,12615,Grand Trunk Express,Bhopal,4,7,8,33.8,False
+2024-05-26,Sunday,May,True,False,12615,Grand Trunk Express,Jhansi,5,7,8,39.5,False
+2024-05-26,Sunday,May,True,False,12615,Grand Trunk Express,New Delhi,6,7,8,30.8,False
+2024-05-26,Sunday,May,True,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,13,0.0,False
+2024-05-26,Sunday,May,True,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,13,0.0,False
+2024-05-26,Sunday,May,True,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,13,13.1,True
+2024-05-26,Sunday,May,True,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,13,0.0,False
+2024-05-26,Sunday,May,True,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,13,0.0,False
+2024-05-26,Sunday,May,True,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,13,13.7,False
+2024-05-27,Monday,May,False,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,17,0.0,False
+2024-05-27,Monday,May,False,False,12951,Mumbai Rajdhani,Vadodara,1,6,17,14.9,False
+2024-05-27,Monday,May,False,False,12951,Mumbai Rajdhani,Ratlam,2,6,17,29.0,False
+2024-05-27,Monday,May,False,False,12951,Mumbai Rajdhani,Kota,3,6,17,55.4,True
+2024-05-27,Monday,May,False,False,12951,Mumbai Rajdhani,Mathura,4,6,17,76.9,False
+2024-05-27,Monday,May,False,False,12951,Mumbai Rajdhani,New Delhi,5,6,17,89.8,False
+2024-05-27,Monday,May,False,False,12301,Howrah Rajdhani,Howrah,0,7,15,0.0,False
+2024-05-27,Monday,May,False,False,12301,Howrah Rajdhani,Dhanbad,1,7,15,1.6,False
+2024-05-27,Monday,May,False,False,12301,Howrah Rajdhani,Gaya,2,7,15,0.0,False
+2024-05-27,Monday,May,False,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,15,16.8,True
+2024-05-27,Monday,May,False,False,12301,Howrah Rajdhani,Allahabad,4,7,15,19.6,False
+2024-05-27,Monday,May,False,False,12301,Howrah Rajdhani,Kanpur,5,7,15,40.5,False
+2024-05-27,Monday,May,False,False,12301,Howrah Rajdhani,New Delhi,6,7,15,56.3,False
+2024-05-27,Monday,May,False,False,12627,Karnataka Express,Bangalore,0,7,11,5.0,False
+2024-05-27,Monday,May,False,False,12627,Karnataka Express,Guntakal,1,7,11,4.4,False
+2024-05-27,Monday,May,False,False,12627,Karnataka Express,Wadi,2,7,11,6.0,False
+2024-05-27,Monday,May,False,False,12627,Karnataka Express,Solapur,3,7,11,77.3,True
+2024-05-27,Monday,May,False,False,12627,Karnataka Express,Pune,4,7,11,66.2,False
+2024-05-27,Monday,May,False,False,12627,Karnataka Express,Dadar,5,7,11,71.5,False
+2024-05-27,Monday,May,False,False,12627,Karnataka Express,New Delhi,6,7,11,60.8,False
+2024-05-27,Monday,May,False,False,12615,Grand Trunk Express,Chennai Central,0,7,20,0.0,False
+2024-05-27,Monday,May,False,False,12615,Grand Trunk Express,Vijayawada,1,7,20,16.8,False
+2024-05-27,Monday,May,False,False,12615,Grand Trunk Express,Warangal,2,7,20,35.2,False
+2024-05-27,Monday,May,False,False,12615,Grand Trunk Express,Nagpur,3,7,20,50.5,True
+2024-05-27,Monday,May,False,False,12615,Grand Trunk Express,Bhopal,4,7,20,45.0,False
+2024-05-27,Monday,May,False,False,12615,Grand Trunk Express,Jhansi,5,7,20,46.8,False
+2024-05-27,Monday,May,False,False,12615,Grand Trunk Express,New Delhi,6,7,20,41.8,False
+2024-05-27,Monday,May,False,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,15,2.7,False
+2024-05-27,Monday,May,False,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,15,0.0,False
+2024-05-27,Monday,May,False,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,15,6.8,True
+2024-05-27,Monday,May,False,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,15,26.9,False
+2024-05-27,Monday,May,False,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,15,43.1,False
+2024-05-27,Monday,May,False,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,15,50.6,False
+2024-05-28,Tuesday,May,False,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,22,0.0,False
+2024-05-28,Tuesday,May,False,False,12951,Mumbai Rajdhani,Vadodara,1,6,22,12.1,False
+2024-05-28,Tuesday,May,False,False,12951,Mumbai Rajdhani,Ratlam,2,6,22,14.3,False
+2024-05-28,Tuesday,May,False,False,12951,Mumbai Rajdhani,Kota,3,6,22,13.6,True
+2024-05-28,Tuesday,May,False,False,12951,Mumbai Rajdhani,Mathura,4,6,22,10.8,False
+2024-05-28,Tuesday,May,False,False,12951,Mumbai Rajdhani,New Delhi,5,6,22,11.3,False
+2024-05-28,Tuesday,May,False,False,12301,Howrah Rajdhani,Howrah,0,7,6,2.2,False
+2024-05-28,Tuesday,May,False,False,12301,Howrah Rajdhani,Dhanbad,1,7,6,0.0,False
+2024-05-28,Tuesday,May,False,False,12301,Howrah Rajdhani,Gaya,2,7,6,7.1,False
+2024-05-28,Tuesday,May,False,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,6,43.6,True
+2024-05-28,Tuesday,May,False,False,12301,Howrah Rajdhani,Allahabad,4,7,6,31.9,False
+2024-05-28,Tuesday,May,False,False,12301,Howrah Rajdhani,Kanpur,5,7,6,27.6,False
+2024-05-28,Tuesday,May,False,False,12301,Howrah Rajdhani,New Delhi,6,7,6,30.3,False
+2024-05-28,Tuesday,May,False,False,12627,Karnataka Express,Bangalore,0,7,15,0.0,False
+2024-05-28,Tuesday,May,False,False,12627,Karnataka Express,Guntakal,1,7,15,0.0,False
+2024-05-28,Tuesday,May,False,False,12627,Karnataka Express,Wadi,2,7,15,1.7,False
+2024-05-28,Tuesday,May,False,False,12627,Karnataka Express,Solapur,3,7,15,36.4,True
+2024-05-28,Tuesday,May,False,False,12627,Karnataka Express,Pune,4,7,15,45.2,False
+2024-05-28,Tuesday,May,False,False,12627,Karnataka Express,Dadar,5,7,15,57.9,False
+2024-05-28,Tuesday,May,False,False,12627,Karnataka Express,New Delhi,6,7,15,66.8,False
+2024-05-28,Tuesday,May,False,False,12615,Grand Trunk Express,Chennai Central,0,7,9,3.3,False
+2024-05-28,Tuesday,May,False,False,12615,Grand Trunk Express,Vijayawada,1,7,9,2.6,False
+2024-05-28,Tuesday,May,False,False,12615,Grand Trunk Express,Warangal,2,7,9,3.5,False
+2024-05-28,Tuesday,May,False,False,12615,Grand Trunk Express,Nagpur,3,7,9,0.0,True
+2024-05-28,Tuesday,May,False,False,12615,Grand Trunk Express,Bhopal,4,7,9,1.3,False
+2024-05-28,Tuesday,May,False,False,12615,Grand Trunk Express,Jhansi,5,7,9,14.4,False
+2024-05-28,Tuesday,May,False,False,12615,Grand Trunk Express,New Delhi,6,7,9,8.8,False
+2024-05-28,Tuesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,10,7.3,False
+2024-05-28,Tuesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,10,12.3,False
+2024-05-28,Tuesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,10,58.9,True
+2024-05-28,Tuesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,10,67.7,False
+2024-05-28,Tuesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,10,69.5,False
+2024-05-28,Tuesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,10,71.2,False
+2024-05-29,Wednesday,May,False,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,14,0.0,False
+2024-05-29,Wednesday,May,False,False,12951,Mumbai Rajdhani,Vadodara,1,6,14,0.0,False
+2024-05-29,Wednesday,May,False,False,12951,Mumbai Rajdhani,Ratlam,2,6,14,0.0,False
+2024-05-29,Wednesday,May,False,False,12951,Mumbai Rajdhani,Kota,3,6,14,12.2,True
+2024-05-29,Wednesday,May,False,False,12951,Mumbai Rajdhani,Mathura,4,6,14,22.1,False
+2024-05-29,Wednesday,May,False,False,12951,Mumbai Rajdhani,New Delhi,5,6,14,39.8,False
+2024-05-29,Wednesday,May,False,False,12301,Howrah Rajdhani,Howrah,0,7,9,0.0,False
+2024-05-29,Wednesday,May,False,False,12301,Howrah Rajdhani,Dhanbad,1,7,9,0.3,False
+2024-05-29,Wednesday,May,False,False,12301,Howrah Rajdhani,Gaya,2,7,9,4.5,False
+2024-05-29,Wednesday,May,False,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,9,79.4,True
+2024-05-29,Wednesday,May,False,False,12301,Howrah Rajdhani,Allahabad,4,7,9,80.4,False
+2024-05-29,Wednesday,May,False,False,12301,Howrah Rajdhani,Kanpur,5,7,9,77.6,False
+2024-05-29,Wednesday,May,False,False,12301,Howrah Rajdhani,New Delhi,6,7,9,76.6,False
+2024-05-29,Wednesday,May,False,False,12627,Karnataka Express,Bangalore,0,7,9,0.0,False
+2024-05-29,Wednesday,May,False,False,12627,Karnataka Express,Guntakal,1,7,9,0.0,False
+2024-05-29,Wednesday,May,False,False,12627,Karnataka Express,Wadi,2,7,9,6.7,False
+2024-05-29,Wednesday,May,False,False,12627,Karnataka Express,Solapur,3,7,9,12.1,True
+2024-05-29,Wednesday,May,False,False,12627,Karnataka Express,Pune,4,7,9,8.7,False
+2024-05-29,Wednesday,May,False,False,12627,Karnataka Express,Dadar,5,7,9,5.6,False
+2024-05-29,Wednesday,May,False,False,12627,Karnataka Express,New Delhi,6,7,9,4.6,False
+2024-05-29,Wednesday,May,False,False,12615,Grand Trunk Express,Chennai Central,0,7,10,0.0,False
+2024-05-29,Wednesday,May,False,False,12615,Grand Trunk Express,Vijayawada,1,7,10,0.0,False
+2024-05-29,Wednesday,May,False,False,12615,Grand Trunk Express,Warangal,2,7,10,4.5,False
+2024-05-29,Wednesday,May,False,False,12615,Grand Trunk Express,Nagpur,3,7,10,41.7,True
+2024-05-29,Wednesday,May,False,False,12615,Grand Trunk Express,Bhopal,4,7,10,40.7,False
+2024-05-29,Wednesday,May,False,False,12615,Grand Trunk Express,Jhansi,5,7,10,51.2,False
+2024-05-29,Wednesday,May,False,False,12615,Grand Trunk Express,New Delhi,6,7,10,52.5,False
+2024-05-29,Wednesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,14,7.6,False
+2024-05-29,Wednesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,14,14.5,False
+2024-05-29,Wednesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,14,51.5,True
+2024-05-29,Wednesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,14,51.9,False
+2024-05-29,Wednesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,14,70.3,False
+2024-05-29,Wednesday,May,False,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,14,93.1,False
+2024-05-30,Thursday,May,False,False,12951,Mumbai Rajdhani,Mumbai Central,0,6,15,7.6,False
+2024-05-30,Thursday,May,False,False,12951,Mumbai Rajdhani,Vadodara,1,6,15,5.4,False
+2024-05-30,Thursday,May,False,False,12951,Mumbai Rajdhani,Ratlam,2,6,15,3.0,False
+2024-05-30,Thursday,May,False,False,12951,Mumbai Rajdhani,Kota,3,6,15,81.8,True
+2024-05-30,Thursday,May,False,False,12951,Mumbai Rajdhani,Mathura,4,6,15,100.1,False
+2024-05-30,Thursday,May,False,False,12951,Mumbai Rajdhani,New Delhi,5,6,15,119.8,False
+2024-05-30,Thursday,May,False,False,12301,Howrah Rajdhani,Howrah,0,7,12,1.6,False
+2024-05-30,Thursday,May,False,False,12301,Howrah Rajdhani,Dhanbad,1,7,12,0.0,False
+2024-05-30,Thursday,May,False,False,12301,Howrah Rajdhani,Gaya,2,7,12,2.0,False
+2024-05-30,Thursday,May,False,False,12301,Howrah Rajdhani,Mughal Sarai,3,7,12,18.9,True
+2024-05-30,Thursday,May,False,False,12301,Howrah Rajdhani,Allahabad,4,7,12,17.8,False
+2024-05-30,Thursday,May,False,False,12301,Howrah Rajdhani,Kanpur,5,7,12,14.7,False
+2024-05-30,Thursday,May,False,False,12301,Howrah Rajdhani,New Delhi,6,7,12,22.1,False
+2024-05-30,Thursday,May,False,False,12627,Karnataka Express,Bangalore,0,7,16,0.0,False
+2024-05-30,Thursday,May,False,False,12627,Karnataka Express,Guntakal,1,7,16,0.0,False
+2024-05-30,Thursday,May,False,False,12627,Karnataka Express,Wadi,2,7,16,12.0,False
+2024-05-30,Thursday,May,False,False,12627,Karnataka Express,Solapur,3,7,16,35.4,True
+2024-05-30,Thursday,May,False,False,12627,Karnataka Express,Pune,4,7,16,57.8,False
+2024-05-30,Thursday,May,False,False,12627,Karnataka Express,Dadar,5,7,16,73.7,False
+2024-05-30,Thursday,May,False,False,12627,Karnataka Express,New Delhi,6,7,16,90.9,False
+2024-05-30,Thursday,May,False,False,12615,Grand Trunk Express,Chennai Central,0,7,12,0.0,False
+2024-05-30,Thursday,May,False,False,12615,Grand Trunk Express,Vijayawada,1,7,12,0.9,False
+2024-05-30,Thursday,May,False,False,12615,Grand Trunk Express,Warangal,2,7,12,3.6,False
+2024-05-30,Thursday,May,False,False,12615,Grand Trunk Express,Nagpur,3,7,12,3.0,True
+2024-05-30,Thursday,May,False,False,12615,Grand Trunk Express,Bhopal,4,7,12,0.0,False
+2024-05-30,Thursday,May,False,False,12615,Grand Trunk Express,Jhansi,5,7,12,0.0,False
+2024-05-30,Thursday,May,False,False,12615,Grand Trunk Express,New Delhi,6,7,12,19.5,False
+2024-05-30,Thursday,May,False,False,12431,Thiruvananthapuram Rajdhani,Thiruvananthapuram,0,6,14,4.2,False
+2024-05-30,Thursday,May,False,False,12431,Thiruvananthapuram Rajdhani,Ernakulam,1,6,14,0.0,False
+2024-05-30,Thursday,May,False,False,12431,Thiruvananthapuram Rajdhani,Shoranur,2,6,14,38.5,True
+2024-05-30,Thursday,May,False,False,12431,Thiruvananthapuram Rajdhani,Kozhikode,3,6,14,41.7,False
+2024-05-30,Thursday,May,False,False,12431,Thiruvananthapuram Rajdhani,Mangalore,4,6,14,51.2,False
+2024-05-30,Thursday,May,False,False,12431,Thiruvananthapuram Rajdhani,Mumbai Central,5,6,14,68.7,False
